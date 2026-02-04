@@ -1,0 +1,46 @@
+{
+  "name": "github-stars-showcase",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "update": "npx tsx scripts/update.ts",
+    "list-providers": "npx tsx scripts/list-providers.ts",
+    "fetch-stars": "npx tsx scripts/fetch-stars.ts",
+    "analyze": "npx tsx scripts/analyze-repos.ts",
+    "analyze:select": "npx tsx scripts/analyze-repos.ts --select",
+    "generate-data": "npx tsx scripts/generate-data.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.72.1",
+    "@google/generative-ai": "^0.24.1",
+    "@octokit/rest": "^22.0.1",
+    "@types/node": "^25.2.0",
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.24",
+    "cohere-ai": "^7.20.0",
+    "dotenv": "^17.2.3",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.1.6",
+    "openai": "^6.17.0",
+    "playwright": "^1.58.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

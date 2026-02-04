@@ -1,0 +1,1874 @@
+[
+  {
+    "fullName": "VoltAgent/awesome-openclaw-skills",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "面向 OpenClaw 的 Skills/Plugins awesome collection，汇总大量 community-built agent skills 与生态链接，便于发现、复用与组合工具能力，用于构建 AI agent 工作流。"
+  },
+  {
+    "fullName": "steipete/oracle",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "一个 npm TypeScript CLI：卡住时“Ask the oracle”，可用自定义 context + 本地 files 调用 GPT-5 Pro/Claude/Gemini 等模型，适合命令行 AI 辅助调试与写代码。"
+  },
+  {
+    "fullName": "steipete/CodexBar",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "macOS 菜单栏 app（Swift），无需登录即可展示 OpenAI Codex、Claude Code、Cursor 等的 usage/limit 与 reset 时间，帮助开发者监控 token 配额与会话窗口。"
+  },
+  {
+    "fullName": "Pimzino/spec-workflow-mcp",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "基于 MCP (Model Context Protocol) 的 server，提供 spec-driven 开发工作流工具，含实时 web dashboard 与 VSCode extension，用于 AI-assisted 软件开发的进度监控与管理。"
+  },
+  {
+    "fullName": "wquguru/exoshell",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Claude plugins 与 AI-assisted development skills 的 curated collection，受 Moltbot atomic commit 方法启发；汇总脚本/技巧与可复用能力，便于快速搭建智能开发流程。"
+  },
+  {
+    "fullName": "lcandy2/enable-chrome-ai",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Python 脚本工具，用于在 Google Chrome 中启用 Gemini、AI history search 与 DevTools AI 等功能，避免清数据重装；面向 browser/DevTools 的 AI 功能开关与配置。"
+  },
+  {
+    "fullName": "shuding/nextra",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Next.js 的 site generation framework，支持 Markdown/MDX 与 React 组件化内容，适合 docs/blog 静态站点与部署；提供强扩展性与现代全栈开发体验。"
+  },
+  {
+    "fullName": "NoeFabris/opencode-antigravity-auth",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "为 Opencode 提供 OAuth 插件，使其可对接 Google Antigravity IDE 认证，复用 rate limits 并访问 gemini-3-pro、claude-opus 等模型；提升 AI coding 工具集成能力。"
+  },
+  {
+    "fullName": "FoundationAgents/OpenManus",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "OpenManus 项目（Python）定位为开放式 AI agent 方向，围绕自动化任务执行与工具调用构建框架/生态；强调 open ground、可扩展与社区协作的智能体系统。"
+  },
+  {
+    "fullName": "AndyMik90/Auto-Claude",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Autonomous multi-agent coding framework（TypeScript），可多 session 规划、实现并验证软件：plan/build/validate 一体化，适合自动化 codegen、测试与迭代的 AI 编程代理。"
+  },
+  {
+    "fullName": "mx-space/core",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 NestJS 的 Monorepo 后端核心，提供 RESTful API、cron、webhook 与 api-client；支持 MongoDB/Mongoose/Typegoose、Redis、serverless，并面向 Mix Space 的 CMS/blog 与部分 Web3 场景。"
+  },
+  {
+    "fullName": "zstmfhy/wechat-to-notebooklm",
+    "categories": [
+      "Data Processing 数据处理"
+    ],
+    "tags": [],
+    "aiSummary": "自动将微信公众号文章同步到 Google NotebookLM 的流水线工具，完成抓取/转存与结构化导入，便于后续用 AI 做 summarization、analysis 与内容生成，侧重内容同步与处理自动化。"
+  },
+  {
+    "fullName": "op7418/Humanizer-zh",
+    "categories": [
+      "NLP 自然语言"
+    ],
+    "tags": [],
+    "aiSummary": "Humanizer 中文版写作“去 AI 痕”工具，基于规则与检查清单优化措辞与语气，降低文本的 AI writing signals；适合润色、rewrite、quality scoring 等 NLP 文本后处理场景。"
+  },
+  {
+    "fullName": "openclaw/openclaw",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "跨 OS/平台的个人 AI assistant（own-your-data），以 agent 方式组织工具与工作流，支持本地数据与扩展集成，实现检索、执行与自动化任务编排，面向日常生产力与个人助理使用。"
+  },
+  {
+    "fullName": "wshobson/agents",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code 的 intelligent automation 与 multi-agent orchestration 插件集合，提供 sub-agents、workflows 与命令扩展，支持不同模型策略组合，帮助把开发任务分解并自动执行与协作。"
+  },
+  {
+    "fullName": "jezweb/claude-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code CLI 的 skills 集合，覆盖 full-stack 开发（React、Tailwind v4、Cloudflare、Vite）与 AI integrations；以可复用技能/自动化脚本提升编码效率与任务编排能力。"
+  },
+  {
+    "fullName": "JimLiu/baoyu-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code 的效率型 skills 分享库，提供可安装的技能与工作流（npx/bun 使用），用于自动化常见开发与办公任务；通过标准化 skill 配置提升个人日常 productivity。"
+  },
+  {
+    "fullName": "KKKKhazix/Khazix-Skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "用于管理与演进 AI skill library 的工具集，支持从 GitHub 导入、维护与持续改进技能（如 github-to-skills）；强调 skill 的版本化、整理与自动化生产流程，便于构建个人 agent 能力库。"
+  },
+  {
+    "fullName": "vercel-labs/skills",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "开源 agent skills 生态的 CLI（npx skills），支持 OpenCode/Claude Code/Codex/Cursor 等多代理平台；提供 skills 的安装、格式解析与分发机制，用命令行统一管理与复用自动化能力。"
+  },
+  {
+    "fullName": "fcakyon/claude-codex-settings",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "个人化 Claude Code 与 OpenAI Codex 的配置仓库，汇总 battle-tested 的 skills、commands、hooks、agents 与 MCP servers；用于搭建稳定的 AI coding 工具链与开发流程自动化最佳实践。"
+  },
+  {
+    "fullName": "slopus/happy",
+    "categories": [
+      "Mobile 移动端"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Codex 与 Claude Code 的 Mobile/Web client，支持 realtime voice、端到端 encryption 与完整会话功能；让你随时随地在手机端使用 coding assistant，并兼顾隐私与安全。"
+  },
+  {
+    "fullName": "hank9999/kiro.rs",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 编写的代理服务(proxy)，兼容 Anthropic Claude API：将 Anthropic API 请求转换为 Kiro API 请求；适合在后端做 API 适配/转发，并提供 TLS/HTTP 代理配置能力。"
+  },
+  {
+    "fullName": "anomalyco/opencode",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源 coding agent 项目，围绕自动化编程工作流构建：可在任务中调用工具、生成/修改代码并协助调试；适用于把 LLM 接入开发流程，实现 agentic coding。"
+  },
+  {
+    "fullName": "DioxusLabs/dioxus",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 全栈应用框架，覆盖 Web/桌面/移动端，支持 SSR、WASM、Virtual DOM 与原生 UI；用同一套组件与状态模型构建跨端 app，兼顾性能与开发效率。"
+  },
+  {
+    "fullName": "expo/expo",
+    "categories": [
+      "Mobile 移动端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 React Native 的通用应用框架，提供 Expo SDK、工具链与运行时，支持 Android/iOS/Web 一套代码多端发布；适合快速搭建与迭代 native app。"
+  },
+  {
+    "fullName": "lynx-family/lynx",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台 Web 技术栈方案，面向多端渲染与运行时能力建设；强调让 Web community 更容易 build across platforms，在性能与开发体验间取得平衡。"
+  },
+  {
+    "fullName": "Snapchat/Valdi",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台 UI framework，目标是 native performance 与高开发效率兼得；支持 iOS/Android/macOS 等平台，以统一组件与渲染体系构建高性能界面与交互。"
+  },
+  {
+    "fullName": "langchain-ai/langchainjs",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "LangChain.js 用于构建 context-aware LLM 应用：提供 prompts、chains、tools、retrieval 等抽象，便于在 TypeScript/Node 里编排多模型与外部系统集成。"
+  },
+  {
+    "fullName": "TanStack/ai",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "TanStack/ai 是给应用增强 AI 能力的 SDK，面向前端/全栈集成提供统一 API 与工程化能力；帮助快速接入 LLM、streaming 与常见交互模式，提升 DX。"
+  },
+  {
+    "fullName": "dyad-sh/dyad",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "本地运行的开源 AI app builder，主打 fast、private、可控；可接入 OpenAI/Anthropic/Ollama 等 LLM，作为 v0/Lovable/Replit/Bolt 的本地替代方案。"
+  },
+  {
+    "fullName": "browserbase/stagehand",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI agent 的浏览器自动化框架，封装 Playwright/Puppeteer/Selenium，让 LLM 用高层指令驱动网页操作、抓取与表单流程，提升端到端任务执行可靠性。"
+  },
+  {
+    "fullName": "mastra-ai/mastra",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "现代 TypeScript 框架，用于构建 AI-powered apps 与 agents，提供 workflows、tools、evals、MCP 等能力，便于在 Node/React/Next.js 体系落地多代理应用。"
+  },
+  {
+    "fullName": "vercel/ai",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "Provider-agnostic 的 TypeScript AI SDK，统一接入 OpenAI/Anthropic/Gemini 等 LLM，支持 streaming、tool calling 与 Generative UI，方便在 Next.js/React 等快速构建 AI 应用。"
+  },
+  {
+    "fullName": "FlowiseAI/Flowise",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "可视化 low-code/no-code 平台，用拖拽方式搭建 LLM/RAG/agentic workflow，兼容 LangChain 与多模型供应商，适合快速生成 Chatbot、Multi-agent 流程与自动化应用。"
+  },
+  {
+    "fullName": "nguyenphutrong/quotio",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "原生 macOS 菜单栏应用，统一管理 Claude/Gemini/OpenAI/Qwen 等订阅配额，提供 real-time quota tracking 与智能 auto-failover，面向 AI coding tools 的使用与成本控制。"
+  },
+  {
+    "fullName": "vercel-labs/agent-browser",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI agents 提供 headless browser automation 的 CLI 工具，主打快速安装与脚本化控制（Rust CLI + Node fallback），便于在流水线中执行网页操作与数据采集任务。"
+  },
+  {
+    "fullName": "anthropics/claude-plugins-official",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Anthropic 官方维护的 Claude Code Plugins 目录，集中收录高质量 MCP/skills 插件并提示安全注意事项，方便开发者发现与复用扩展能力生态。"
+  },
+  {
+    "fullName": "vercel-labs/agent-skills",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Vercel 官方的 agent skills 合集，提供可复用的 instructions/scripts 以扩展 AI coding agent 能力，覆盖 React/Next.js 等最佳实践与自动化任务模板。"
+  },
+  {
+    "fullName": "JerryZLiu/Dayflow",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "Swift 桌面应用，自动记录屏幕活动并用 LLM（ChatGPT/Claude/Gemini/Ollama 等）生成个人日程 timeline，强调本地隐私与生产力分析，减少手动时间追踪成本。"
+  },
+  {
+    "fullName": "volcengine/MineContext",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "主打 Context-Engineering 的 proactive AI partner，集成 memory/RAG/vector database 与多模态能力，结合 Electron/React/TS 与 Python 后端，为工作流提供上下文感知与自动协作。"
+  },
+  {
+    "fullName": "Clouder0/overcode",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "OpenCode 的 power-user fork，面向 async-first 的 agent orchestration，支持 parallel subagents、inter-agent messaging（send/wait）与 terminal-first TUI，便于管理嵌套会话与协作执行。"
+  },
+  {
+    "fullName": "X-PLUG/MobileAgent",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向移动端 GUI 的 multimodal AI Agent 家族，聚焦 Android app automation 与 copilot 场景，结合 MLLM 理解界面并执行操作，支持多种 mobile-agents 任务与工具链扩展。"
+  },
+  {
+    "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "提供 UI/UX design intelligence 的 AI skill，面向多平台界面生成与优化，可配合 Claude/Codex 等 coding agent 使用；覆盖 React、TailwindCSS、landing page 等常见前端工作流。"
+  },
+  {
+    "fullName": "code-yeongyu/oh-my-opencode",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Batteries-included 的 agent harness（Sisyphus），用于编排 Claude/OpenAI 等 coding agent；提供 orchestration、skills、TUI 与多模型接入能力，让终端内更高效完成代码生成与迭代。"
+  },
+  {
+    "fullName": "DavidHDev/react-bits",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "开源 React component collection，主打 animated/interactive 与高度可定制；包含 3D、CSS animations、TailwindCSS 友好组件，帮助快速搭建更有记忆点的现代网页 UI。"
+  },
+  {
+    "fullName": "anthropics/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Anthropic 提供的 Claude Agent Skills 实现仓库，按技能目录组织 instructions、scripts 与资源，支持运行时 dynamic loading 来增强 agent 能力，适合构建可复用的工具/流程模块。"
+  },
+  {
+    "fullName": "BloopAI/vibe-kanban",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude Code、Codex 等 coding agent 提供 Kanban 式任务管理与协作面板，聚焦 task breakdown、进度跟踪与 agent 工作流编排，提升多任务开发的可控性与产出效率。"
+  },
+  {
+    "fullName": "Spr-Aachen/Twilight",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Astro 的静态博客模板，内置 CMS integrated 内容管理流程；支持 serverless 部署与站点模板化能力，适合快速搭建可维护的 content-driven blog/文档站点。"
+  },
+  {
+    "fullName": "GrinZero/meme-ai-generator",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "AI 驱动的 meme/sticker 生成应用：上传素材与 benchmark images，结合文本描述让模型生成标准表情包与 emoji pack；提供 Web demo，适合快速定制风格化表情内容。"
+  },
+  {
+    "fullName": "mstange/samply",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台 command-line sampling profiler（macOS/Linux/Windows），通过 `samply record` 采样运行程序并用 Firefox profiler 作为可视化 UI 分析 CPU 性能与调用栈热点。"
+  },
+  {
+    "fullName": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 context engineering 的 Agent Skills 开放合集，覆盖 multi-agent 架构、生产级 agent systems 与上下文管理方法，用于构建、优化与调试各类智能体工作流。"
+  },
+  {
+    "fullName": "google/A2UI",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "A2UI 提供 agent-to-user 的 UI 表示格式与渲染器，让 AI agents 可生成/更新 rich UI。适合把 agent 输出结构化为可交互组件并在前端落地。"
+  },
+  {
+    "fullName": "SunHuawei/SourceDetector",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Chrome extension 开发者工具，自动收集并查看网站的 source maps（*.map），帮助定位前端源码与调试构建产物，提升 web debugging 与逆向排查效率。"
+  },
+  {
+    "fullName": "ding113/claude-code-hub",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "面向团队的 Claude Code/Codex API 代理中转服务，提供 intelligent load balancing、用户管理与 usage statistics，实现多供应商统一接入与可运营的 AI 调度后台。"
+  },
+  {
+    "fullName": "thedotmack/claude-mem",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code plugin：自动记录 coding session 行为，用 Claude agent-sdk 压缩总结，并将相关 context 回注到后续会话；结合 embeddings/ChromaDB/SQLite 实现 long-term memory 与 RAG。"
+  },
+  {
+    "fullName": "yusufkaraaslan/Skill_Seekers",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "将文档网站、GitHub repos 与 PDFs 采集并转化为 Claude AI skills，包含 web-scraping、OCR、AST 解析与冲突检测（conflict detection），用于自动化生成可复用的 skills 包。"
+  },
+  {
+    "fullName": "obra/superpowers",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "agentic skills framework 与软件开发方法论，提供可组合 skills 与初始指令集，让 coding agents 按流程协作执行任务；适用于搭建可复用的 agent 工作规范与脚本化实践。"
+  },
+  {
+    "fullName": "diet103/claude-code-infrastructure-showcase",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code 基础设施案例库，展示 skill auto-activation、hooks 与 agents 的生产实践模式；以真实 microservices 项目经验整理，可作为搭建 agent workflow 的参考与模板。"
+  },
+  {
+    "fullName": "ComposioHQ/awesome-claude-skills",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "精选 Awesome list：汇总 Claude Skills、资源与工具，覆盖 Claude API/Claude Code/Claude Desktop 生态，帮助快速发现可用 skills、最佳实践与定制化 workflow 方案。"
+  },
+  {
+    "fullName": "sirmalloc/ccstatusline",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude Code CLI 提供美观且高度可定制的 statusline，支持 powerline、themes 与 Git 等信息展示，提升 terminal 交互体验与开发可视化反馈。"
+  },
+  {
+    "fullName": "feiskyer/claude-code-settings",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code 的 settings/commands/skills 与 sub-agents 合集，强化 vibe coding 与 spec-driven workflow，实现更高效的 agentic 开发流程与提示复用。"
+  },
+  {
+    "fullName": "skills-directory/skill-codex",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude Code 提供可调用 Codex CLI 的 skill，支持 `codex exec` 与会话恢复，把任务委派给 Codex 实现多 agent 协作与自动化 coding。"
+  },
+  {
+    "fullName": "GuDaStudio/codexmcp",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 MCP 的协作桥接工具，让 Claude Code 与 Codex 无缝联动，从单一 agent 扩展到多 agents，提高任务拆解、执行与产出效率。"
+  },
+  {
+    "fullName": "Govcraft/rust-docs-mcp-server",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Rust MCP server：抓取 crates 文档并用 embeddings/LLM 做 semantic search 与 RAG，为 AI coding assistant 提供最新上下文，减少过时代码建议。"
+  },
+  {
+    "fullName": "coleam00/Archon",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Archon OS 为 AI coding assistants 提供 knowledge + task management backbone，聚合项目知识、任务与上下文管理，提升 agent 规划与持续开发能力。"
+  },
+  {
+    "fullName": "oraios/serena",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Serena 是 coding agent toolkit，提供 semantic retrieval 与 editing 能力，含 MCP server/集成组件，可将 LLM 连接到代码库实现可控修改与检索增强。"
+  },
+  {
+    "fullName": "mcp-router/mcp-router",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "统一的 MCP Server 管理与路由应用（MCP Manager），集中管理 mcp-tools/servers，面向 LLMOps 场景做连接、转发与服务编排。"
+  },
+  {
+    "fullName": "DuckCoding-dev/DuckCoding",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台 Desktop app，一键安装配置 Claude Code、CodeX、Gemini CLI 等 AI 编程工具，统一管理运行环境与入口，降低本地 setup 与切换成本。"
+  },
+  {
+    "fullName": "DayuanJiang/next-ai-draw-io",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Next.js 的全栈 Web app，集成 AI 与 draw.io，支持用自然语言创建/修改 diagram，并进行 AI-assisted visualization，提升文档与设计效率。"
+  },
+  {
+    "fullName": "withfig/autocomplete",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "为现有 terminal/shell 提供 IDE-style autocomplete，支持 bash/zsh/fish 等，增强 CLI 交互体验与命令发现效率，适配 iTerm2 与多种工作流。"
+  },
+  {
+    "fullName": "jaywcjlove/awesome-mac",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "面向 macOS 的 Awesome List，按类别收录高质量 Mac apps/desktop software 与工具推荐，覆盖开发、效率、系统增强等场景，适合作为软件选型与装机参考。"
+  },
+  {
+    "fullName": "vuejs/vitepress",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Vite + Vue 的 static site generator（SSG），用 Markdown 构建文档与站点，提供主题、路由、搜索与扩展能力，适合 docs/知识库发布。"
+  },
+  {
+    "fullName": "XcodesOrg/xcodes",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "macOS 上管理 Xcode 的命令行工具，可 install、download 并在多个版本间 switch，支持自动化脚本与 CI 场景，提升 iOS 开发环境配置效率。"
+  },
+  {
+    "fullName": "wix/Detox",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "移动端 gray-box E2E testing 框架，面向 React Native/iOS/Android 提供自动化 UI 测试与稳定同步机制，支持 CI 集成与端到端自动化回归。"
+  },
+  {
+    "fullName": "google-gemini/gemini-cli",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "在 terminal 内运行的开源 AI agent，基于 Gemini API 执行对话、工具调用与任务编排，支持 MCP client/server 扩展，让命令行具备智能自动化能力。"
+  },
+  {
+    "fullName": "tw93/Mole",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "用于 macOS 深度清理与优化的 Shell 工具集，覆盖垃圾扫描、卸载残留清理与系统维护脚本，可命令行运行，适合提升存储与系统性能。"
+  },
+  {
+    "fullName": "Gar-b-age/CookLikeHOC",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "整理《老乡鸡菜品溯源报告》形成的做饭/菜谱知识库，提供结构化文档与部署方式（含 Docker），偏内容学习与烹饪实践参考的 repo。"
+  },
+  {
+    "fullName": "ant-design/x",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "Ant Design 生态的 AI-driven UI components，面向 React/antd 构建 chat-ui、copilot 等交互组件与模板，帮助快速搭建 LLM 应用的前端界面。"
+  },
+  {
+    "fullName": "LetTTGACO/elog",
+    "categories": [
+      "Data Processing 数据处理"
+    ],
+    "tags": [],
+    "aiSummary": "Markdown 批量导出与内容流水线工具，打通语雀/Notion/飞书等写作平台到 Hexo/VitePress/WordPress 等发布端，支持转换、同步与自动化处理。"
+  },
+  {
+    "fullName": "sansan0/TrendRadar",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "AI 驱动的舆情与趋势监控 agent，聚合多平台热点+RSS，做关键词筛选、LLM 分析/翻译与摘要，并通过微信/Telegram/邮件等推送，支持 Docker 与 MCP。"
+  },
+  {
+    "fullName": "timqian/chinese-independent-blogs",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "收集整理中文独立博客与 RSS 源的 curated list，便于订阅与发现优质内容；提供 Website/Telegram 等入口，适合作为个人阅读与信息流搭建的资源索引。"
+  },
+  {
+    "fullName": "web-infra-dev/rsdoctor",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Rspack/webpack 的一站式 build analyzer，分析 bundle 体积、依赖关系与构建瓶颈，输出可视化诊断与优化建议，帮助定位打包性能与产物问题。"
+  },
+  {
+    "fullName": "FoundationAgents/MetaGPT",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Multi-Agent 框架，让多个 LLM agent 扮演“软件公司”角色协作开发：从需求到设计、编码与评审，支持自然语言驱动的 workflow 编排与工具调用。"
+  },
+  {
+    "fullName": "github/spec-kit",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Spec-Driven Development 工具包，围绕 PRD/spec 生成与评审流程，结合 Copilot/AI 辅助将需求结构化并落地到工程实践，提升交付质量与开发效率。"
+  },
+  {
+    "fullName": "alchaincyf/huasheng_editor",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "面向微信公众号的 Markdown editor，提供一键排版、主题样式与内容预览导出等能力，解决公众号图文格式痛点，适合写作与运营场景快速生成可发布内容。"
+  },
+  {
+    "fullName": "davila7/claude-code-templates",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "用于 Claude Code 的 CLI tool，提供配置、模板化初始化与运行监控等能力，帮助快速搭建 prompts/workflows 并统一管理参数，提升命令行开发与维护体验。"
+  },
+  {
+    "fullName": "ZuodaoTech/everyone-can-use-english",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "以 AI 辅助英语学习为核心的项目（Enjoy），结合网站/内容体系与练习方法，强调用 LLM 作为外语老师与助教，支持长期训练与自学路径落地。"
+  },
+  {
+    "fullName": "lanjianchun/vscode-plugins-download",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Tampermonkey 用户脚本，为 VSCode Marketplace 增加 VSIX 下载按钮，支持离线安装与版本获取；面向开发者提升插件分发与内网环境部署的便利性。"
+  },
+  {
+    "fullName": "UfoMiao/zcf",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Zero-Config Code Flow：为 Claude Code/Codex 提供开箱即用的 agent workflow 与 prompt 体系，支持 CLI 集成、任务编排与代码生成/审查流程，加速 AI 编程闭环。"
+  },
+  {
+    "fullName": "Beingpax/VoiceInk",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "macOS 桌面语音转文字应用，提供近实时 voice-to-text 转录，将语音快速输入到任意文本场景；基于 Swift 开发，面向效率输入与无障碍使用需求。"
+  },
+  {
+    "fullName": "NeekChaw/awesome-prompt",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "精选的 Awesome Prompts 提示词合集，覆盖写作、产品、编程与创意等场景；适合直接 copy & adapt 到 ChatGPT/Claude 等 LLM，快速提升对话效果与产出质量。"
+  },
+  {
+    "fullName": "enescingoz/awesome-n8n-templates",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "面向 n8n 的自动化模板资源库，汇集 Gmail/Slack/Telegram/Drive 等集成示例；提供 AI-powered workflow automation，帮助 no-code 用户快速搭建可复用的流程。"
+  },
+  {
+    "fullName": "kingkongshot/Pensieve",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "用于沉淀个人 decisions/principles 的工具，让 Claude 在对话中读取并执行偏好；偏向 agent memory/behavior 指导，减少反复解释上下文，提升决策一致性与效率。"
+  },
+  {
+    "fullName": "M-cheng-web/web-tracing",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "前端监控与埋点 SDK，覆盖 behavior、performance、exception、request、resource、route、exposure 与录屏；为 Web 项目提供可观测性 observability 与问题定位能力。"
+  },
+  {
+    "fullName": "supabase/supabase",
+    "categories": [
+      "Database 数据库"
+    ],
+    "tags": [],
+    "aiSummary": "开源 Postgres development platform，提供 hosted database、Auth、Realtime、Storage 与 Edge Functions；兼容 pgvector/embeddings，适用于 Web/Mobile/AI 应用的后端数据底座。"
+  },
+  {
+    "fullName": "web-infra-dev/rspack",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 编写的高性能 JavaScript bundler，提供 webpack-compatible API；支持 ESM、loaders、TypeScript/JSX 编译与优化，面向现代 Web build 与更快的构建性能。"
+  },
+  {
+    "fullName": "googleanalytics/google-analytics-mcp",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Google Analytics 的 MCP Server（experimental），让 LLM/agent 以标准 MCP 协议调用 GA 数据查询与报告能力；便于把 analytics 工具接入自动化分析与对话式数据探索。"
+  },
+  {
+    "fullName": "Wsine/feishu2md",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "Go 实现的命令行工具，一键下载飞书/ Lark 文档并导出为 Markdown；适合文档备份、知识库迁移与与 Git 协作，简化 content export 与本地化管理流程。"
+  },
+  {
+    "fullName": "bestony/ChatGPT-Feishu",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向飞书的 ChatGPT 机器人，实现群聊/私聊对话与指令触发；将 LLM 能力接入企业协作场景，用于问答、写作与办公自动化，降低使用门槛与集成成本。"
+  },
+  {
+    "fullName": "DouyinFE/semi-design",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "现代化 React UI library 与 design system，内置 3000+ Design Tokens，支持主题定制与 dark mode；提供 Design-to-Code/Code-to-Design 工具链，提升前端一致性与效率。"
+  },
+  {
+    "fullName": "haydenbleasel/ultracite",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "一个强主张、zero-config 的 linter/formatter 预设，整合 ESLint、Biome、Oxlint，提升 TypeScript 代码一致性与 type-safe 规范，开箱即用并适配 AI coding workflow。"
+  },
+  {
+    "fullName": "hanxi/xiaomusic",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "面向小爱音箱的音乐播放服务：用 yt-dlp 下载音源，配合 Docker/Docker-compose 部署，并提供 Web/Vue 管理界面；本质是可自建的媒体后端与控制接口。"
+  },
+  {
+    "fullName": "idootop/open-xiaoai",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为小爱音箱扩展「听见你的声音」能力的 Rust 项目，围绕对话交互与可扩展能力编排，将设备从命令式控制升级为可组合的 agent-like 语音交互入口与能力平台。"
+  },
+  {
+    "fullName": "zkep/my-geektime",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "极客时间课程 downloader + 在线文档服务：抓取/缓存课程内容与音视频资源，生成可浏览的 Markdown/文档并支持部署为 Web 服务，便于离线学习与资料归档。"
+  },
+  {
+    "fullName": "CoxxA/bitcoin-ahr999-HODL",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "整理 ahr999《囤比特币》系列文章的学习型仓库，系统化记录 BTC HODL 心法与周期思考，偏内容沉淀与阅读导航，适合作为 crypto 投资理念入门资料。"
+  },
+  {
+    "fullName": "cso1z/Feishu-MCP",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Model Context Protocol 的 Feishu/Lark MCP server，让 Cursor/Windsurf/Cline 等 AI coding 工具可访问、编辑并结构化处理飞书文档，实现 tool-use 与知识接入的 agent 能力。"
+  },
+  {
+    "fullName": "imhuso/cunzhi",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI 对话的增强工具：拦截模型过早结束并提示继续，支持项目级记忆/偏好管理与 Markdown 交互；更像对话 agent 的 UX/记忆层，提升长对话完成度。"
+  },
+  {
+    "fullName": "Zippland/Snap-Solver",
+    "categories": [
+      "Computer Vision 视觉"
+    ],
+    "tags": [],
+    "aiSummary": "AI 笔试/测评辅助工具：一键截屏获取题目图像，结合 OCR/vision + LLM 推理自动解题与输出步骤，面向学生与自学者，突出从 screenshot 到答案的视觉管线。"
+  },
+  {
+    "fullName": "antfu/node-modules-inspector",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "提供本地 node_modules 依赖的 interactive UI 检查器，可视化浏览包结构、大小与依赖关系，便于排查 bundle 体积与依赖问题，是 Node.js 项目调试与分析的 devtool。"
+  },
+  {
+    "fullName": "sunface/rust-by-practice",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "通过 exercises/projects 系统学习 Rust 的实践教程，覆盖 ownership、borrow、lifetime、trait 等核心概念；中英双语内容配合可运行示例，帮助从 beginner 进阶到熟练开发。"
+  },
+  {
+    "fullName": "Minidoracat/mcp-feedback-enhanced",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "增强版 MCP server，用于 AI-assisted development 中的互动反馈与命令执行。提供 Web UI 与 Desktop 双界面，自动环境检测，跨平台运行，便于在 agent 工作流里安全触发操作。"
+  },
+  {
+    "fullName": "rust-lang/rustlings",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 官方出品的练习集（exercises），通过小题目带你熟悉 Rust 语法与 ownership/borrowing 等核心概念。适合新手配合 The Rust Book 渐进式学习与自测。"
+  },
+  {
+    "fullName": "cyberagiinc/DevDocs",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "免费私有的 UI 文档工具型 MCP server，面向开发者做技术文档检索/整理与集成。可接入 Cursor/Windsurf/Cline/Claude Desktop，并支持 crawler/scraper（如 Playwright）能力。"
+  },
+  {
+    "fullName": "LOVECHEN/Cursor-Usage",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "用于 Cursor 的 VSCode 扩展，侧边栏展示 Premium/Basic 使用量、会员类型与试用剩余天数，并按区间自动刷新。帮助开发者监控订阅配额与使用情况。"
+  },
+  {
+    "fullName": "auto-i18n/auto-i18n-translation-plugins",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "前端自动 i18n 翻译插件，集成 Youdao/Google/Baidu 或自定义 translator。兼容 webpack/vite/rollup/rsbuild，在构建阶段批量生成多语言资源，支持插值与 namespace。"
+  },
+  {
+    "fullName": "Tresjs/tres",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "用 Vue Components 声明式封装 Three.js 的 WebGL 渲染方案，提供 custom renderer 与 composables。让 3D scene/camera/material 以组件化方式编写，适配 Vite 与 Vue 生态。"
+  },
+  {
+    "fullName": "ant-design/ant-design",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "企业级 design system 与 React UI library，提供大量高质量组件、主题定制与 TypeScript 支持。适用于中后台与复杂业务界面，统一交互规范与可复用组件体系。"
+  },
+  {
+    "fullName": "unclecode/crawl4ai",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "面向 LLM 的开源 Web crawler & scraper，可将网页内容提取为更适合检索/喂给模型的结构化数据。适用于文档抓取、RAG 数据构建与自动化采集流程。"
+  },
+  {
+    "fullName": "astralapp/astral",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "用于管理 GitHub Stars 的全栈应用，支持给 star 项目打 tag、分类与检索。提供 hosted 版本与 self-host 部署选项，帮助开发者更高效整理与回顾收藏仓库。"
+  },
+  {
+    "fullName": "LitoMore/simple-icons-cdn",
+    "categories": [
+      "DevOps 运维"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Simple Icons 的可定制 CDN 服务，支持对 SVG 图标进行颜色/尺寸参数化（colorable、resizable）并直接分发。适合在网站与文档中按需引用品牌 icons，降低静态资源运维成本。"
+  },
+  {
+    "fullName": "mantinedev/mantine",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "功能完整的 React UI components 库，提供 hooks、theme/dark-mode、表单与布局等能力，TypeScript 友好，适合快速搭建现代 Web 界面。"
+  },
+  {
+    "fullName": "labuladong/fucking-algorithm",
+    "categories": [
+      "Algorithm 算法"
+    ],
+    "tags": [],
+    "aiSummary": "面向面试与 LeetCode 的算法笔记合集，系统讲解 data structures、dynamic programming、KMP 等套路与推导过程，中文为主并提供 English version。"
+  },
+  {
+    "fullName": "solana-foundation/anchor",
+    "categories": [
+      "Web3 区块链"
+    ],
+    "tags": [],
+    "aiSummary": "Solana 的 smart contract 开发框架，基于 Rust 提供 program framework、IDL、CLI 与测试工具链，简化合约编写、部署与调用流程。"
+  },
+  {
+    "fullName": "2-fly-4-ai/V0-system-prompt",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "收集并展示 v0 等产品泄露的 system prompts，用于理解 LLM prompt design 与对齐策略；内容偏资料归档，适合研究提示词结构与约束。"
+  },
+  {
+    "fullName": "Shubhamsaboo/awesome-llm-apps",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "精选 LLM 应用与案例集合，覆盖 AI Agents、RAG、OpenAI/Anthropic/Gemini 与开源模型示例，多为 Python 项目，便于快速参考与复用。"
+  },
+  {
+    "fullName": "ageerle/ruoyi-ai",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 RuoYi 的全栈 AI 开发平台，集成 Agent、RAG、knowledge base 与 MCP 等能力，帮助企业快速构建、编排并部署个性化 AI 应用。"
+  },
+  {
+    "fullName": "rust-lang/rust",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 编程语言及其 compiler/toolchain 的官方仓库，提供安全高性能的系统级开发能力，包含标准库、编译器实现与核心基础设施。"
+  },
+  {
+    "fullName": "howie6879/weekly",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "信息技术周刊项目，持续整理优质项目、软件、教程与网站，并提供 RSS/网站等阅读渠道；适合作为学习导航与技术趋势跟踪。"
+  },
+  {
+    "fullName": "shadcn-ui/ui",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "可复制分发的 React components 集合，强调可访问性与可定制，常与 Tailwind CSS、Radix UI、Next.js 配合，用于搭建自有 design system。"
+  },
+  {
+    "fullName": "punkpeye/awesome-mcp-servers",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "MCP（Model Context Protocol）servers 的资源合集，汇总可用的工具与服务端实现，方便为 LLM/Agent 接入外部能力并快速选型落地。"
+  },
+  {
+    "fullName": "saturn-abhishek/awesome-github-profile-readme",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "实时更新的 GitHub Profile README 精选 Awesome list，汇总个人主页/portfolio 的排版灵感、组件与示例，方便快速参考与复用。"
+  },
+  {
+    "fullName": "clash-verge-rev/clash-verge-rev",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Tauri 的跨平台 Desktop GUI 客户端，面向 Windows/macOS/Linux 提供 Clash/Mihomo 代理配置与规则管理，优化本地 proxy 使用体验。"
+  },
+  {
+    "fullName": "codecrafters-io/build-your-own-x",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向进阶学习的教程合集，通过从零复刻 database、compiler、shell、web server 等经典技术，配套 step-by-step guides，提升系统编程与工程能力。"
+  },
+  {
+    "fullName": "webfansplz/vite-plugin-vue-mcp",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "为 Vue 项目提供的 Vite plugin，启动 MCP server 输出项目上下文与结构信息，帮助 LLM/IDE 更好理解你的 app，实现更准确的代码生成与导航。"
+  },
+  {
+    "fullName": "luzhenqian/web3-examples",
+    "categories": [
+      "Web3 区块链"
+    ],
+    "tags": [],
+    "aiSummary": "Web3 示例与学习资源合集，覆盖 Ethereum/Solana/TON、smart contract（Solidity/Rust）、wallet、airdrop 等，并提供可运行 demo 与工程化实践参考。"
+  },
+  {
+    "fullName": "oslook/cursor-ai-downloads",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "整理 Cursor AI Editor 的官方下载链接与历史版本索引，便于 update/downgrade 与安装选择；偏资源聚合与分发信息维护。"
+  },
+  {
+    "fullName": "cyanheads/git-mcp-server",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "实现 MCP（Model Context Protocol）的 Git server，为 LLM/AI agents 提供 clone/commit/branch/diff/log/push 等工具能力，支持 STDIO 与 HTTP 传输。"
+  },
+  {
+    "fullName": "modelcontextprotocol/typescript-sdk",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "官方 MCP TypeScript SDK，用于开发 MCP server/client；提供协议类型、传输与工具封装，帮助在 Node/TS 生态快速集成 LLM 工具调用能力。"
+  },
+  {
+    "fullName": "Hoper-J/AI-Guide-and-Demos-zh_CN",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "中文 LLM 入门指南与 demos，从 OpenAI SDK API 到本地部署、finetune 与推理实践，配套 Colab/Kaggle 运行版本，适合零显卡学习与实验。"
+  },
+  {
+    "fullName": "ZJU-LLMs/Foundations-of-LLMs",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "《Foundations of LLMs》开源书籍，系统讲解大模型基础：pretraining、alignment、RLHF、inference 等核心概念，面向科研与工程入门学习。"
+  },
+  {
+    "fullName": "langchain-ai/open-canvas",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 LLM 的开源 Web app，提供类似 Canvas 的协作式写作与 coding 体验，可与 agents 协同编辑文档、改写段落与生成代码，强调更好的 chat + editor UX。"
+  },
+  {
+    "fullName": "richards199999/Thinking-Claude",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude 提供“先思考再回答”的提示与流程封装，强化 comprehensive reasoning 输出与更稳的回答结构；偏 prompt/interaction layer 调优，而非训练或 benchmark 提升。"
+  },
+  {
+    "fullName": "lobehub/lobehub",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向多智能体协作的 agent harness 平台，支持 agent team design、multi-agent collaboration、knowledge base 与多模型接入（OpenAI/Claude/Gemini 等），将 agent 作为工作单元组织。"
+  },
+  {
+    "fullName": "Loyalsoldier/clash-rules",
+    "categories": [
+      "Network 网络"
+    ],
+    "tags": [],
+    "aiSummary": "Clash Premium 生态的规则集（RULE-SET），用于 proxy/routing 分流与去广告/反审查配置，兼容 ClashX Pro、Clash for Windows 等客户端，提供 geosite/gfwlist 等常用列表。"
+  },
+  {
+    "fullName": "LaoYutang/clash-and-dashboard",
+    "categories": [
+      "DevOps 运维"
+    ],
+    "tags": [],
+    "aiSummary": "将 Clash 与 Web Dashboard 打包为单一 Docker 镜像的运维方案，容器内同时启动 clash 与管理界面，并修改后台接口默认直连本容器 9090，简化部署与管理流程。"
+  },
+  {
+    "fullName": "mubaidr/vite-vue3-browser-extension-v3",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Vite + Vue 3 的 Manifest V3 browser extension starter template，面向 Chrome/Firefox 等快速搭建扩展；集成现代前端构建与热更新工作流，适合开发 UI 与脚本逻辑。"
+  },
+  {
+    "fullName": "hacksider/Deep-Live-Cam",
+    "categories": [
+      "Computer Vision 视觉"
+    ],
+    "tags": [],
+    "aiSummary": "实时 face swap 与一键视频 deepfake 工具，仅需单张图像即可驱动 webcam/视频替换人脸；聚焦 real-time 推理与易用流程，适用于演示、虚拟摄像头与视觉效果处理。"
+  },
+  {
+    "fullName": "Z4nzu/hackingtool",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "All-in-one 渗透与攻防工具集合，整合 password attack、DDOS、wireless/web attack、steganography、XSS 等常用模块；以 Python 脚本化封装多类 security 工具与流程。"
+  },
+  {
+    "fullName": "PatrickJS/awesome-cursorrules",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "汇总 Cursor AI editor 的 cursorrules 配置与最佳实践的 Awesome List，帮助定制 editor 行为、代码风格与工作流规则；适合快速复制可用的 rule presets 提升开发体验。"
+  },
+  {
+    "fullName": "antfu-collective/taze",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "现代化依赖更新 CLI 工具，支持检测与升级 npm/pnpm/yarn 依赖并保持 deps fresh；可递归处理 monorepo，提供交互式更新与可控版本策略，便于日常维护。"
+  },
+  {
+    "fullName": "LC044/WeChatMsg",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "面向 WeChat 聊天记录的数据管理与可视化工具，基于 PyQt 提供本地 GUI；支持消息解析、检索与导出，并结合 ChatGPT/LLMs 做摘要与分析，让“我的数据我做主”。"
+  },
+  {
+    "fullName": "SendWithSES/Drag-and-Drop-Email-Designer",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "免费开源的 HTML Email drag-and-drop 可视化编辑器，提供 WYSIWYG/no-code 组件化搭建能力；输出兼容主流邮件客户端的 responsive 模板，便于嵌入 Web 应用。"
+  },
+  {
+    "fullName": "unplugin/unplugin-icons",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "基于 unplugin 的按需 icon 组件化构建方案，支持 Vite/Webpack/Rollup/Nuxt 等；将 Iconify 等图标库在编译期转换为 Vue/React/JSX 组件，减少 bundle 体积。"
+  },
+  {
+    "fullName": "animotionjs/animotion",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "用 Svelte 构建 presentation/slides 的前端框架，结合 TailwindCSS 提供主题、动画与组件；适合制作交互式演示文稿并支持导出与部署到 Web。"
+  },
+  {
+    "fullName": "cantino/mcfly",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "用 Rust 编写的 shell history 搜索工具，提供智能排序与快速 fuzzy search；通过 CLI 与 Bash/Zsh/Fish 集成，替代传统 Ctrl-R，提高命令回溯与复用效率。"
+  },
+  {
+    "fullName": "Hufe921/canvas-editor",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Canvas/SVG 的 rich text editor，支持 WYSIWYG、排版控制、LaTeX、PDF 生成等；面向浏览器端文档/EMR 场景，TypeScript + Vite 架构便于二次开发。"
+  },
+  {
+    "fullName": "versun/54321-Weekly",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "每周六更新的科技趣闻周刊仓库，用于内容归档与备份；提供站点、RSS 和邮件订阅入口，适合持续获取 tech news、产品观察与开发者信息源。"
+  },
+  {
+    "fullName": "Yinzhuo19970516/vue-template",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "面向移动端的 Vue3 工程模板，基于 vue-cli5 + webpack5，支持多入口打包、自动生成项目模板、Pinia 持久化、路由动画与 axios 封装，并集成 viewport 适配与 Less/Sass。"
+  },
+  {
+    "fullName": "alibaba/kiwi",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Kiwi 提供 i18n/translation 全流程解决方案，包含 CLI、runtime SDK 与 VS Code 插件；覆盖文本抽取、翻译协作、Intl 格式化与资源管理，帮助团队规范化国际化工程。"
+  },
+  {
+    "fullName": "goldfire/howler.js",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "现代 Web 的 JavaScript audio library，统一封装 HTML5 Audio 与 Web Audio API；支持多格式加载、播放控制、volume、sprite 与跨浏览器兼容，适合网页游戏与媒体应用。"
+  },
+  {
+    "fullName": "luban-agi/Awesome-AIGC-Tutorials",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AIGC 的 curated 资源列表，汇总 LLM、AI Painting（Stable Diffusion/Midjourney）、multimodal、prompt-engineering 等教程与课程，方便快速入门与进阶学习。"
+  },
+  {
+    "fullName": "Dreamer365/tic",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "TIC（TopSpeed Image Compressor）图片压缩软件仓库，提供桌面端工具与官网入口；当前 GitHub 版本已停止维护，反馈与更新迁移至 Gitee 平台。"
+  },
+  {
+    "fullName": "SHERlocked93/blog",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "个人博客站点仓库，用于内容发布与作品展示（projects/links 等），承载文章与技术笔记；更偏向 blog/CMS 形态的内容管理与静态站点维护。"
+  },
+  {
+    "fullName": "nolanlawson/fuite",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "fuite 是用于 web apps 内存泄漏定位的 CLI tool，可自动化运行场景并检测可能的泄漏点，帮助前端在发布前做 performance/memory 回归检查。"
+  },
+  {
+    "fullName": "engvuchen/boss-zhipin-robot-web",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Vue/Vite 的前端项目，用于 BOSS直聘自动打招呼与交互界面；结合 Node.js 与 Puppeteer 生态实现自动化操作，提升求职投递效率。"
+  },
+  {
+    "fullName": "TypeCellOS/BlockNote",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "BlockNote 是 Notion-style 的 React rich text editor，block-based 且 extensible，基于 ProseMirror/Tiptap 构建并支持协作（如 yjs），适合嵌入业务编辑场景。"
+  },
+  {
+    "fullName": "ikoofe/chat-review",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "将 ChatGPT 接入 GitLab Merge Request 的 Code Review 工具，提供 Node.js/TypeScript SDK 方式调用，自动生成 review 建议与评论，提升开发效率与质量。"
+  },
+  {
+    "fullName": "HuolalaTech/page-spy-web",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "page-spy-web 远程调试平台，主打 lightweight、cross-platform、out-of-box 的 debugging 体验，提供 console/debugger/remote-control 等能力用于线上问题排查。"
+  },
+  {
+    "fullName": "webpro-nl/knip",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Knip 用于 JavaScript/TypeScript 项目的 dead code 与依赖分析，扫描 unused files/dependencies/exports，并可辅助修复清理，适合在 CI 中做维护与瘦身。"
+  },
+  {
+    "fullName": "egoist/tsup",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "tsup 是面向 TypeScript libraries 的快速 bundler/build tool，提供开箱即用的打包与输出配置；项目虽已减少维护，但仍是常见的 TS 构建方案参考。"
+  },
+  {
+    "fullName": "chathub-dev/chathub",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "一个 React + TypeScript 开发的 browser-extension（Chrome 扩展），聚合多种 AI chatbot 到同一界面，支持多标签对话与快速切换，提升日常问答与工作流效率。"
+  },
+  {
+    "fullName": "Jxpro/damai-tickets",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Python + Selenium 的大麦网抢票脚本示例，通过 WebDriver 模拟登录、刷新与点击下单流程；属于自动化爬取/操作类项目，需配合 chromedriver 运行。"
+  },
+  {
+    "fullName": "JnuMxin/damaiAuto",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "使用 Python + Selenium 实现大麦自动刷新抢票（PC/移动端流程不同），按开票时间触发抢购并通过 XPath 定位按钮与票档；偏浏览器自动化与反复请求控制。"
+  },
+  {
+    "fullName": "pinojs/pino",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "Node.js 生态的高性能 JSON logger，主打 low-overhead 与高吞吐日志输出，支持 transport、pretty print 与生态插件；常用于服务端 observability 与日志标准化。"
+  },
+  {
+    "fullName": "lvwzhen/law-cn-ai",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "面向中文法律场景的 AI 法律助手，基于 Next.js 模板将 MDX 法律文本做 embedding/索引，并在 OpenAI completion/prompt 中进行 doc search 增强，实现检索增强问答（RAG）。"
+  },
+  {
+    "fullName": "depcheck/depcheck",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "用于检测 npm 项目中 unused dependencies 的静态分析工具，扫描 package.json 与代码引用关系，输出未使用/缺失依赖清单；适合 CI 里做依赖健康检查与清理。"
+  },
+  {
+    "fullName": "dylang/npm-check",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "一个命令行工具（CLI），用于检查 Node.js 项目的 outdated、incorrect 与 unused dependencies，并提供交互式升级与清理建议；帮助维护 package.json 与 lockfile 的一致性。"
+  },
+  {
+    "fullName": "dice2o/BingGPT",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Electron 的跨平台 desktop app（Windows/macOS/Linux），封装 New Bing / Copilot 对话体验，提供原生窗口、快捷操作与多端支持；面向日常 AI chat 使用场景。"
+  },
+  {
+    "fullName": "mckaywrigley/chatbot-ui",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "开源 AI Chat 应用（TypeScript），提供类似 ChatGPT 的 Web UI，可对接不同模型与推理后端，支持会话管理与可扩展配置；适合自建 multi-model chat 前端入口。"
+  },
+  {
+    "fullName": "Chanzhaoyu/chatgpt-web",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "使用 Express 作为后端、Vue3 作为前端搭建的 ChatGPT 演示站点，包含 API 转发、会话交互与基础部署配置；适合学习自建 ChatGPT web app 的全栈实现。"
+  },
+  {
+    "fullName": "ChatGPTNextWeb/NextChat",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "轻量快速的 AI Assistant 客户端，支持 ChatGPT/Claude/Gemini/Ollama 等多模型，基于 Next.js + React，配合 Tauri 提供 Web 与 Desktop/Mobile 跨平台统一 Chat UI。"
+  },
+  {
+    "fullName": "DataV-Team/DataV",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "面向大屏场景的 Vue 数据可视化组件库，提供 SVG 边框装饰、charts、water level、flyline 等即用组件，适合 BI 看板与可视化展示，易集成、持续更新。"
+  },
+  {
+    "fullName": "trekhleb/javascript-algorithms",
+    "categories": [
+      "Algorithm 算法"
+    ],
+    "tags": [],
+    "aiSummary": "用 JavaScript 实现常见 algorithms 与 data structures，并配套解释与延伸阅读链接；覆盖排序、图、动态规划等内容，适合面试准备与 CS 基础巩固的学习型仓库。"
+  },
+  {
+    "fullName": "Significant-Gravitas/AutoGPT",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "AutoGPT 用于构建、部署与运行 autonomous AI agents，支持与 OpenAI/LLM API 集成，通过 tools、memory、planning 等能力完成多步任务编排，面向可扩展 agent 平台。"
+  },
+  {
+    "fullName": "Moonvy/OpenPromptStudio",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "AIGC 提示词可视化编辑器，提供 prompt 的可视化编排、模板管理与调试工作流；基于 Vue 构建，面向 prompt-engineering 提升效率，适合团队沉淀与复用 prompts。"
+  },
+  {
+    "fullName": "unjs/magicast",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "基于 recast 与 babel 的 AST 工具库，可 programmatically 修改 JS/TS 源码；用更简洁语法完成 code transform、自动重构与生成，常用于脚手架、codemod 与配置迁移。"
+  },
+  {
+    "fullName": "f/prompts.chat",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "社区驱动的 prompts 分享与收藏站点（Awesome ChatGPT Prompts），支持 self-host 保障隐私；基于 Next.js/TypeScript，聚合 ChatGPT/Claude/Gemini 等 prompt-engineering 资源。"
+  },
+  {
+    "fullName": "dutiyesh/chrome-extension-cli",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "用于快速创建 Chrome Extension 项目的 CLI，提供模板初始化、TypeScript/JavaScript 支持与常用工程化配置，帮助开发者一键生成可运行的扩展项目骨架与构建流程。"
+  },
+  {
+    "fullName": "sindresorhus/np",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "改进版 npm publish 的命令行工具，提供交互式发布流程、版本 bump、git checks、tag/2FA 等保护措施；适合 Node.js 包发布自动化与减少人为失误的发布规范化。"
+  },
+  {
+    "fullName": "perkfly/reverse-interview-zh",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "中文“反向面试”问题清单，整理面试尾声向面试官提问的要点，覆盖团队、技术栈、流程与成长等维度；适合 interview preparation，帮助候选人系统评估岗位与公司。"
+  },
+  {
+    "fullName": "mgreiler/code-review-checklist",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向 PR/MR 的 Code Review checklist，覆盖可读性、依赖、设计简化等维度，帮助 reviewer 系统化检查与沟通。适合团队落地 code-quality 规范与复盘。"
+  },
+  {
+    "fullName": "rockbenben/ChatGPT-Shortcut",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "AiShort 是 ChatGPT/LLM 的 prompt 管理与分享中心，支持自定义、分类、社区发现与多语言。用于提升 prompt-engineering 与日常 productivity 的工具站点。"
+  },
+  {
+    "fullName": "chibat/chrome-extension-typescript-starter",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Chrome Extension 的 TypeScript starter/boilerplate，集成常见构建流程与 VS Code 开发体验，可配合 React 等快速起项目。适合扩展开发的工程化模板。"
+  },
+  {
+    "fullName": "nextai-translator/nextai-translator",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 ChatGPT API/OpenAI 的划词翻译工具，提供浏览器插件与跨平台 desktop app，一键翻译并增强解释能力。面向日常阅读与开发文档的效率场景。"
+  },
+  {
+    "fullName": "danger/danger-js",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Danger JS 将 Code Review 规则自动化到 CI（GitHub Actions/Jenkins 等），在 PR 中生成提醒与检查结果。减少“你忘了…”式反馈，提升团队 review 一致性。"
+  },
+  {
+    "fullName": "anc95/ChatGPT-CodeReview",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 ChatGPT 的 Code Review bot（Probot），自动在 GitHub PR 上给出审查建议与改进点。将 LLM 作为 reviewer assistant，提升评审效率与质量。"
+  },
+  {
+    "fullName": "haizlin/fe-interview",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "超大规模前端面试题库与日更练习，覆盖 HTML/CSS/JavaScript/Vue/React/Node/TypeScript/Webpack 等。以题驱动学习与复盘，适合系统备考与查漏补缺。"
+  },
+  {
+    "fullName": "LinbuduLab/Mustard",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "基于 IoC 与原生 ES Decorator 的 CLI app builder，提供 mustard-cli 与工程化能力。帮助用 TypeScript 快速搭建可扩展的 command-line 工具与插件体系。"
+  },
+  {
+    "fullName": "remult/remult",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "以 TypeScript entities 实现 SSOT 的全栈 CRUD 框架，集成 validation、ORM 与 REST/Express/Next.js 等生态。前后端共享模型，显著降低重复代码与维护成本。"
+  },
+  {
+    "fullName": "module-federation/module-federation-examples",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "Webpack 5 Module Federation 的官方示例集合，展示 micro-frontend 的模块共享、独立部署与运行时加载。包含 Next.js 等案例，便于学习 federation 架构落地。"
+  },
+  {
+    "fullName": "CatsAndMice/blog",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "个人博客仓库，基于 JavaScript 维护文章与页面内容，记录 learning/life 随笔与技术笔记，面向静态站点发布与长期内容沉淀。"
+  },
+  {
+    "fullName": "Pal3love/Source-Han-TrueType",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "提供 Source Han Sans/Serif/Mono 的 TrueType (TTF) 字体版本与打包脚本，便于在系统与应用中安装使用，覆盖中日韩多语言字形。"
+  },
+  {
+    "fullName": "stoplightio/prism",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "将 OpenAPI 2/3 与 Postman Collection 转为可运行的 mock API server，支持 validation、transform 与 contract testing，适用于接口联调与CI。"
+  },
+  {
+    "fullName": "wzwtt/ikun",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "IKUN 表情包内容仓库，集中管理图片素材与预览页面（静态站点），方便收集、贡献与展示，面向中文社区的内容分发与维护。"
+  },
+  {
+    "fullName": "huixisheng/FE-Weekly",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "前端 weekly 资源汇总与整理，聚合优质文章、周刊与项目链接，作为 curated list 帮助开发者持续跟进 Frontend 生态。"
+  },
+  {
+    "fullName": "ascoders/weekly",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "《前端精读》周刊内容库，按期输出深度文章与源码/概念解析，帮助理解前沿 Frontend 技术与工程实践，适合系统学习与复盘。"
+  },
+  {
+    "fullName": "codesandbox/codesandbox-client",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "CodeSandbox 在线 IDE 的客户端实现，用于快速 Web development 与在线运行 React/Vue/Angular 等项目，提供编辑、预览与协作体验。"
+  },
+  {
+    "fullName": "typeorm/typeorm",
+    "categories": [
+      "Database 数据库"
+    ],
+    "tags": [],
+    "aiSummary": "TypeScript/JavaScript ORM，支持 MySQL/PostgreSQL/SQLite/MSSQL 等数据库，提供 Active Record/Data Mapper、migration 与跨平台运行支持。"
+  },
+  {
+    "fullName": "goldbergyoni/nodebestpractices",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Node.js Best Practices 清单，涵盖 architecture、security、testing、performance 与 style-guide 等实践建议，作为工程规范与团队落地参考。"
+  },
+  {
+    "fullName": "hejialianghe/Senior-FrontEnd",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向高级前端/全栈进阶的知识体系与文档仓库，覆盖 JavaScript、工程化与框架实践，配套站点与构建流程，适合系统化提升能力。"
+  },
+  {
+    "fullName": "millsp/ts-toolbelt",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "超大型 TypeScript type utility library，提供丰富的 advanced types、type-level functions 与安全推导工具，提升 type-safety 与复杂泛型开发效率，适合工程级 TS 项目。"
+  },
+  {
+    "fullName": "CJex/regulex",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "JavaScript Regular Expression parser & visualizer，将 regex/regexp 解析为可视化 diagram，便于理解与调试复杂表达式；纯前端实现，无需 backend，支持嵌入网页。"
+  },
+  {
+    "fullName": "vuejs/core",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "Vue 3 core 框架（TypeScript），提供 reactive system、component model、compiler/runtime 等能力，用于构建现代 Web UI；支持渐进式集成与高性能渲染生态。"
+  },
+  {
+    "fullName": "cypress-io/cypress",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "面向浏览器应用的 E2E testing framework，支持 component testing、test runner、network stubbing 与 test replay，覆盖 React/Vue/Angular 等，强调 fast、reliable 的自动化测试体验。"
+  },
+  {
+    "fullName": "withastro/astro",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "内容型网站的 web framework/build tool，主打 Islands architecture 与静态输出（SSG），可混合 SSR；兼容多框架组件，产物轻量，适合 blog/文档/营销站点。"
+  },
+  {
+    "fullName": "nestjs/nest",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Node.js 与 TypeScript 的 server-side framework，采用 module/DI 架构，支持 REST、GraphQL、microservices、WebSocket 等，适合构建可扩展、企业级后端应用。"
+  },
+  {
+    "fullName": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "GitHub 中文项目排行榜与精选导航，按语言与「软件/资料」维度整理，帮助快速发现优质中文开源与学习资源；适合选型、查资料与高效学习。"
+  },
+  {
+    "fullName": "lhz960904/movie-trailer",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "Vue3 + TypeScript 的电影预告片 WebApp，展示热映/待映影片信息与 trailer，配套 Vuex 等前端工程化实践；面向入门与 demo 项目，适合学习 SPA 开发流程。"
+  },
+  {
+    "fullName": "FrontEndGitHub/FrontEndGitHub",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "前端资源汇总仓库，涵盖 JavaScript/Vue/React/Node、学习路线、工具链、面试与算法等精选链接，降低信息不对称；适合作为 Frontend 学习与选型导航。"
+  },
+  {
+    "fullName": "linbudu599/TypeScript-Tiny-Book",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "《TypeScript 全面进阶指南》配套示例代码与教程资源，聚焦 TS 类型系统、泛型与工程实践，通过可运行 demos 帮助系统学习 TypeScript advanced features。"
+  },
+  {
+    "fullName": "jayphelps/core-decorators",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "提供一组实验性的 JavaScript decorators（如 @autobind/@deprecate/@mixin 等），用于增强 class 行为与代码复用；常见于 React/Angular 项目但框架无关，基于旧 stage-0 spec，需谨慎使用。"
+  },
+  {
+    "fullName": "unjs/unplugin",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "统一的构建插件系统，写一次 plugin 可适配 Vite/Rollup/Webpack/esbuild/Rspack 等生态；提供通用接口与适配层，帮助工具链共享插件能力，减少多版本实现成本。"
+  },
+  {
+    "fullName": "vueuse/vueuse",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Vue 3 的高质量 Composition API utilities（composables）合集，覆盖 state、DOM、browser API、async 等常用场景；TypeScript 友好，提升前端开发效率与可复用性。"
+  },
+  {
+    "fullName": "Binaryify/NeteaseCloudMusicApi",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Node.js 的网易云音乐 API service，封装登录、搜索、歌单等接口便于后端/前端调用；项目因版权风险已停止维护，但仍可作为 API 网关与请求转发实现参考。"
+  },
+  {
+    "fullName": "webVueBlog/Leetcode",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "前端学习与刷题仓库，持续更新 LeetCode 题解与 hand-written 源码实现，覆盖 JavaScript/Vue/React/TypeScript/HTML/CSS/Node.js 等；适合日常复习与面试准备。"
+  },
+  {
+    "fullName": "slidevjs/slidev",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "面向开发者的演示文稿工具：使用 Markdown 编写 slides，基于 Vite + Vue 驱动并支持主题、代码高亮与交互组件；适合技术分享、Workshop 与文档型演示快速生成。"
+  },
+  {
+    "fullName": "sequelize/sequelize",
+    "categories": [
+      "Database 数据库"
+    ],
+    "tags": [],
+    "aiSummary": "主流 Node.js/TypeScript ORM，支持 PostgreSQL/MySQL/MariaDB/SQLite/MSSQL 等多数据库；提供 model、migration、transaction 与关联关系等能力，简化 SQL 操作与数据访问层设计。"
+  },
+  {
+    "fullName": "goldbergyoni/javascript-testing-best-practices",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "JavaScript & Node.js 测试最佳实践指南，系统覆盖 unit/integration/e2e、mock、CI/CD、contract testing、mutation testing 等；以清单化方式提升测试覆盖率与工程可靠性。"
+  },
+  {
+    "fullName": "yygmind/blog",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "前端进阶文章与面试知识库，围绕 JavaScript 运行机制、性能优化、CSS/React/Vue 等难点进行系列化讲解；配合线上阅读站点，适合中高级前端持续学习与查漏补缺。"
+  },
+  {
+    "fullName": "vbenjs/vue-vben-admin",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "现代化 Vue3 管理后台模板/框架，基于 Vite + TypeScript + Monorepo，并集成 Shadcn UI 等组件体系；提供路由、权限、布局与工程化方案，适合快速搭建 admin panel。"
+  },
+  {
+    "fullName": "anuraghazra/github-readme-stats",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "为 GitHub Profile README 动态生成 stats 的 DevTools：通过 serverless API 输出可嵌入的 SVG/图片卡片，展示 commits、top languages 等数据，支持参数化主题与缓存。"
+  },
+  {
+    "fullName": "type-challenges/type-challenges",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "TypeScript 类型体操学习资源：提供大量 type-system challenges 与 online judge，覆盖 infer、conditional types、mapped types 等进阶用法，适合系统训练 TS typings 能力。"
+  },
+  {
+    "fullName": "shfshanyue/Daily-Question",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向大厂面试的学习仓库：每日一题 + 答案 + 讨论，涵盖 Frontend/JS、Linux、DevOps、microservice 等主题，并配套网站与视频讲解，帮助高频知识点复盘。"
+  },
+  {
+    "fullName": "Hengyu-DU/React-All-in-One",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "React 全家桶学习笔记与练习代码：整理 React 基础、react-router、Redux 等核心内容，结合教程视频与本地 demo 环境进行实践，适合入门到进阶的系统复习。"
+  }
+]

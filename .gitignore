@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Environment
+.env.local
+.env
+
+# Data files
+# 忽略原始数据（可重新 fetch）
+data/stars-raw.json
+# 忽略失败批次文件（临时）
+data/failed-batch-*.json
+
+# 追踪以下数据文件：
+# - data/analyzed.json (AI 分析结果，增量分析基础)
+# - data/github-lists-progress.json (GitHub Lists 同步进度)
+# - public/data/repos.json (前端展示数据)
+
+# System
+.DS_Store
+*.log
+Thumbs.db
