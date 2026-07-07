@@ -6,7 +6,7 @@
       "fullName": "open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
-      "stars": 144490,
+      "stars": 144493,
       "language": "Python",
       "topics": [
         "ai",
@@ -26,7 +26,7 @@
         "webui"
       ],
       "readmePreview": "# Open WebUI 👋\n\n![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)\n![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)\n![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social)\n![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui)\n![GitHub language count](https://img.shields.io/github/languages/count/open-webui/open-webui)\n![GitHub top language](https://img.s",
-      "updatedAt": "2026-07-07T06:19:21Z",
+      "updatedAt": "2026-07-07T06:30:17Z",
       "starredAt": "2026-07-06T06:39:17Z",
       "categories": [
         "LLM 大模型"
@@ -135,7 +135,7 @@
       "fullName": "iflytek/skillhub",
       "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
       "url": "https://github.com/iflytek/skillhub",
-      "stars": 3778,
+      "stars": 3779,
       "language": "Java",
       "topics": [
         "agent-framework",
@@ -158,7 +158,7 @@
         "version-control"
       ],
       "readmePreview": "<div align=\"center\">\n  <img src=\"./skillhub-logo.svg\" alt=\"SkillHub Logo\" width=\"120\" height=\"120\" />\n  <h1>SkillHub</h1>\n  <p>An enterprise-grade, open-source agent skill registry — publish, discover, and manage reusable skill packages across your organization. </p>\n</div>\n\n<div align=\"center\">\n\n[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/iflytek/skillhub)\n[![Docs](https://img.shields.io/badge/docs-zread.ai-4A90E2?logo=gitbook&logoColor=white)](https://zread.ai/iflytek/sk",
-      "updatedAt": "2026-07-07T05:37:21Z",
+      "updatedAt": "2026-07-07T06:36:28Z",
       "starredAt": "2026-07-06T02:26:18Z",
       "categories": [
         "AI Agent 智能体"
@@ -172,7 +172,7 @@
       "fullName": "cobusgreyling/loop-engineering",
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "url": "https://github.com/cobusgreyling/loop-engineering",
-      "stars": 6268,
+      "stars": 6270,
       "language": "JavaScript",
       "topics": [
         "agentic-ai",
@@ -194,7 +194,7 @@
         "prompt-engineering"
       ],
       "readmePreview": "# Loop Engineering\n\n\n<p align=\"center\">\n  <a href=\"https://cobusgreyling.github.io/loop-engineering/\">\n    <img src=\"https://img.shields.io/badge/✨_Explore_the_Showcase-Design_systems_that_prompt_your_agents-0d1117?style=for-the-badge&labelColor=111a28&color=3ee8c5\" alt=\"Explore the Showcase\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/cobusgreyling/loop-engineering/stargazers\"><img src=\"https://img.shields.io/github/stars/cobusgreyling/loop-engineering?style=social\" alt=\"Gi",
-      "updatedAt": "2026-07-07T06:12:40Z",
+      "updatedAt": "2026-07-07T06:39:40Z",
       "starredAt": "2026-07-06T02:02:34Z",
       "categories": [
         "AI Agent 智能体"
@@ -208,7 +208,7 @@
       "fullName": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 71147,
+      "stars": 71165,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -219,7 +219,7 @@
         "skills"
       ],
       "readmePreview": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n<a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" ",
-      "updatedAt": "2026-07-07T06:17:31Z",
+      "updatedAt": "2026-07-07T06:38:18Z",
       "starredAt": "2026-07-06T01:15:14Z",
       "categories": [
         "AI Agent 智能体"
@@ -233,7 +233,7 @@
       "fullName": "xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
-      "stars": 11334,
+      "stars": 11342,
       "language": "Python",
       "topics": [
         "ai",
@@ -258,7 +258,7 @@
         "warren-buffett"
       ],
       "readmePreview": "中文 | [English](README_EN.md) | [日本語](README_JA.md)\n\n[![GitHub Trending](https://trendshift.io/api/badge/repositories/63696)](https://trendshift.io/repositories/63696)\n\n# AI Berkshire - AI 时代的价值投资研究框架\n\n> \"Price is what you pay, value is what you get.\" — Warren Buffett\n>\n> 用 AI 重新定义投资研究的深度与效率。\n\n**AI Berkshire** 是一套同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。\n\n一个人 + Claude Code / Codex = 一个投研团队。\n\n[实盘业绩](#real-track-record) · [为什么不能直接问AI](#为什么不能直接问",
-      "updatedAt": "2026-07-07T06:18:33Z",
+      "updatedAt": "2026-07-07T06:37:47Z",
       "starredAt": "2026-07-02T05:36:04Z",
       "categories": [
         "AI Agent 智能体"
@@ -272,11 +272,11 @@
       "fullName": "huggingface/tau",
       "description": "a minimalist agent that teaches you to create coding agents",
       "url": "https://github.com/huggingface/tau",
-      "stars": 675,
+      "stars": 680,
       "language": "Python",
       "topics": [],
       "readmePreview": "<p align=\"center\">\n  <img src=\"docs/assets/tau-header.svg\" alt=\"Tau — a Python coding-agent harness inspired by Pi\" width=\"100%\" />\n</p>\n\n<p align=\"center\">\n  <strong>A small, readable terminal coding agent — and a working example of how coding agents are built.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://twotimespi.dev/\">Documentation</a>\n  ·\n  <a href=\"https://twotimespi.dev/quickstart/\">Quickstart</a>\n  ·\n  <a href=\"https://twotimespi.dev/internals/architecture/\">Architecture</a>\n  ·",
-      "updatedAt": "2026-07-07T06:16:00Z",
+      "updatedAt": "2026-07-07T06:29:59Z",
       "starredAt": "2026-06-30T08:16:37Z",
       "categories": [
         "AI Agent 智能体"
@@ -308,7 +308,7 @@
       "fullName": "Forward-Future/loopy",
       "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
       "url": "https://github.com/Forward-Future/loopy",
-      "stars": 2510,
+      "stars": 2511,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -319,7 +319,7 @@
         "prompt-engineering"
       ],
       "readmePreview": "# Loop Library\n\nLoop Library has two separate but related parts in this repository:\n\n| Part | What it is | Where it lives |\n| --- | --- | --- |\n| **Loop Library website** | The public catalog where people and agents can browse published loops, read them, and copy their prompts. No installation is required. | [Live website](https://signals.forwardfuture.com/loop-library/) · all website code under [`loop-library/`](loop-library/) (shell in [`loop-library/site/`](loop-library/site/), database and r",
-      "updatedAt": "2026-07-07T05:57:09Z",
+      "updatedAt": "2026-07-07T06:32:19Z",
       "starredAt": "2026-06-26T10:41:13Z",
       "categories": [
         "AI Agent 智能体"
@@ -333,7 +333,7 @@
       "fullName": "JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "stars": 85854,
+      "stars": 85863,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -348,7 +348,7 @@
         "tokens"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"docs/assets/caveman-logo-banner.png\" alt=\"Caveman\" width=\"720\">\n</p>\n\n<p align=\"center\">\n  <strong>why use many token when few do trick</strong>\n</p>\n\n<p align=\"center\">\n  Make your AI coding agent talk like a caveman.<br>\n  Same answers, <strong>65% fewer output tokens</strong>. Brain still big. Mouth small.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/JuliusBrussee/caveman/stargazers\"><img src=\"https://img.shields.io/github/stars/JuliusBrussee/caveman?s",
-      "updatedAt": "2026-07-07T06:18:01Z",
+      "updatedAt": "2026-07-07T06:39:28Z",
       "starredAt": "2026-06-26T09:27:32Z",
       "categories": [
         "AI Agent 智能体"
@@ -473,7 +473,7 @@
       "fullName": "Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 78910,
+      "stars": 78920,
       "language": "Python",
       "topics": [
         "antigravity",
@@ -489,7 +489,7 @@
         "tree-sitter"
       ],
       "readmePreview": "<p align=\"center\">\n  <a href=\"https://graphifylabs.ai\"><img src=\"https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/logo.png\" width=\"300\" height=\"140\" alt=\"Graphify\"/></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25296\" alt=\"Graphify-Labs%2Fgraphify | Trendshift\"",
-      "updatedAt": "2026-07-07T06:17:08Z",
+      "updatedAt": "2026-07-07T06:35:04Z",
       "starredAt": "2026-06-23T01:38:37Z",
       "categories": [
         "AI Agent 智能体"
@@ -521,7 +521,7 @@
       "fullName": "open-gsd/gsd-core",
       "description": "Git. Ship. Done - Core",
       "url": "https://github.com/open-gsd/gsd-core",
-      "stars": 6053,
+      "stars": 6054,
       "language": "JavaScript",
       "topics": [
         "claude-code",
@@ -530,7 +530,7 @@
         "spec-driven-development"
       ],
       "readmePreview": "<div align=\"center\">\n\n# GSD Core\n\n**Git. Ship. Done.**\n\n**English** · [Português](README.pt-BR.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja-JP.md) · [한국어](README.ko-KR.md)\n\n**A light-weight meta-prompting, context engineering, and spec-driven development system for Claude Code, OpenCode, Antigravity CLI, Kimi CLI, Kilo, Codex, Copilot, Cursor, Windsurf, and more.**\n\n[![npm version](https://img.shields.io/npm/v/%40opengsd%2Fgsd-core?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](h",
-      "updatedAt": "2026-07-07T06:08:39Z",
+      "updatedAt": "2026-07-07T06:33:48Z",
       "starredAt": "2026-06-19T08:56:32Z",
       "categories": [
         "DevTools 开发者工具"
@@ -544,11 +544,11 @@
       "fullName": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
-      "stars": 58131,
+      "stars": 58136,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "<div align=\"center\">\n\n# CodeGraph\n\n## 🎉 1.0 Released!\n\nAlready installed? Run `codegraph upgrade`\n\nFollow [@getcodegraph](https://x.com/getcodegraph) on X for updates.\n\n### Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, and Kiro with Semantic Code Intelligence\n\n**Surgical context · fewer tool calls · faster answers · 100% local**\n\n### [Documentation & Website →](https://colbymchenry.github.io/codegraph/)\n\n[![npm version](https://img.shields.io/npm/v/@colbym",
-      "updatedAt": "2026-07-07T06:16:21Z",
+      "updatedAt": "2026-07-07T06:32:15Z",
       "starredAt": "2026-06-18T05:17:22Z",
       "categories": [
         "DevTools 开发者工具"
@@ -605,7 +605,7 @@
       "fullName": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": 52221,
+      "stars": 52233,
       "language": "Python",
       "topics": [
         "agent-infrastructure",
@@ -627,7 +627,7 @@
         "youtube-transcript"
       ],
       "readmePreview": "<h1 align=\"center\">👁️ Agent Reach</h1>\n\n<p align=\"center\">\n  <strong>给你的 AI Agent 一键装上互联网能力</strong>\n</p>\n\n<p align=\"center\">\n  当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/24387\"><img src=\"https://trendshift.io/api/badge/repositories/24387\" alt=\"Trendshift GitHub Trending #1 Repository of the Day\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge\" alt=\"",
-      "updatedAt": "2026-07-07T06:18:25Z",
+      "updatedAt": "2026-07-07T06:39:46Z",
       "starredAt": "2026-06-16T01:56:49Z",
       "categories": [
         "Scraping 爬虫"
@@ -641,7 +641,7 @@
       "fullName": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "url": "https://github.com/aaif-goose/goose",
-      "stars": 50756,
+      "stars": 50757,
       "language": "Rust",
       "topics": [
         "acp",
@@ -650,7 +650,7 @@
         "mcp"
       ],
       "readmePreview": "> **🦆 goose has moved!** This project has moved from `block/goose` to the [Agentic AI Foundation (AAIF)](https://aaif.io/) at the Linux Foundation. Some links and references are still being updated — please bear with us during the transition.\n\n<div align=\"center\">\n\n# goose\n\n_your native open source AI agent — desktop app, CLI, and API — for code, workflows, and everything in between_\n\n<p align=\"center\">\n  <a href=\"https://opensource.org/licenses/Apache-2.0\"\n    ><img src=\"https://img.shields.io",
-      "updatedAt": "2026-07-07T06:04:02Z",
+      "updatedAt": "2026-07-07T06:22:20Z",
       "starredAt": "2026-06-15T06:25:23Z",
       "categories": [
         "AI Agent 智能体"
@@ -664,7 +664,7 @@
       "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 141622,
+      "stars": 141623,
       "language": "Unknown",
       "topics": [
         "ai",
@@ -689,7 +689,7 @@
         "windsurf-ai"
       ],
       "readmePreview": "<p align=\"center\">\n  <sub>Thanks to</sub>  \n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/latitude-dev/latitude-llm\">\n    <img src=\"assets/latitude-dark.png\" alt=\"Latitude Logo\" width=\"700\"/>\n  </a>\n</p>\n\n<div align=\"center\" markdown=\"1\">\n\n### [Issue Tracking for AI Agents](https://github.com/latitude-dev/latitude-llm)  \n[Open Source Monitoring platform](https://github.com/latitude-dev/latitude-llm)\n\n</div>\n\n---\n\n<a href=\"https://discord.gg/NwzrWErdMU\" target=\"_blank\">\n  <img src=\"https",
-      "updatedAt": "2026-07-07T06:02:37Z",
+      "updatedAt": "2026-07-07T06:24:29Z",
       "starredAt": "2026-06-15T02:46:37Z",
       "categories": [
         "Awesome List 资源列表"
@@ -703,11 +703,11 @@
       "fullName": "BigPizzaV3/CodexPlusPlus",
       "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "stars": 23690,
+      "stars": 23697,
       "language": "Rust",
       "topics": [],
       "readmePreview": "# Codex++\n\n<p align=\"center\">\n  <img src=\"docs/images/codex-plus-plus.png\" alt=\"Codex++ 图标\" width=\"160\">\n</p>\n\n<p align=\"center\">\n  中文 | <a href=\"README_EN.md\">English</a>\n</p>\n\n<p align=\"center\">\n  <img alt=\"Release\" src=\"https://img.shields.io/github/v/release/BigPizzaV3/CodexPlusPlus\">\n  <img alt=\"Stars\" src=\"https://img.shields.io/github/stars/BigPizzaV3/CodexPlusPlus\">\n  <img alt=\"License\" src=\"https://img.shields.io/github/license/BigPizzaV3/CodexPlusPlus\">\n  <img alt=\"Rust\" src=\"https://i",
-      "updatedAt": "2026-07-07T06:18:45Z",
+      "updatedAt": "2026-07-07T06:33:23Z",
       "starredAt": "2026-06-10T15:53:44Z",
       "categories": [
         "DevTools 开发者工具"
@@ -721,14 +721,14 @@
       "fullName": "ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
-      "stars": 3551,
+      "stars": 3552,
       "language": "TypeScript",
       "topics": [
         "skills",
         "ui-skills"
       ],
       "readmePreview": "# UI Skills\n\n![UI Skills](./public/UI-OG.webp)\n\nSkills for Design Engineers\n\nMore on [ui-skills.com](http://ui-skills.com/)\n\nRun `npx ui-skills start` to route your agent through the right UI skill set for the task.\n\n## CLI\n\n```bash\nnpx ui-skills\nnpx ui-skills start\nnpx ui-skills categories\nnpx ui-skills list --category motion\nnpx ui-skills get baseline-ui\n```\n\n## License\n\nLicensed under the [MIT license](https://github.com/ibelick/ui-skills/blob/main/LICENSE).\n",
-      "updatedAt": "2026-07-07T04:56:30Z",
+      "updatedAt": "2026-07-07T06:39:55Z",
       "starredAt": "2026-06-09T07:56:59Z",
       "categories": [
         "UI Components 组件"
@@ -760,7 +760,7 @@
       "fullName": "nexu-io/open-design",
       "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
       "url": "https://github.com/nexu-io/open-design",
-      "stars": 75693,
+      "stars": 75702,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -785,7 +785,7 @@
         "vibe-coding"
       ],
       "readmePreview": "<h1 align=\"center\">Open Design: The open-source Claude Design alternative</h1>\n\n> 🔥 **Open Design 0.13.0 — _Stay in Flow_ is here.** Long design sessions used to break on every interruption — a run lost its place, a model picker made you guess, an export needed one more detour. 0.13.0 keeps the session alive: resume Codex / OpenCode / Pi / Open Design Cloud runs across turns, pick the right model faster, and hand off screenshot-backed PPTX / PDF without leaving the app. [Download 0.13.0](https:",
-      "updatedAt": "2026-07-07T06:11:39Z",
+      "updatedAt": "2026-07-07T06:37:21Z",
       "starredAt": "2026-06-09T07:53:20Z",
       "categories": [
         "DevTools 开发者工具"
@@ -853,14 +853,14 @@
       "fullName": "microsoft/SkillOpt",
       "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
       "url": "https://github.com/microsoft/SkillOpt",
-      "stars": 11227,
+      "stars": 11229,
       "language": "Python",
       "topics": [
         "agent-skills",
         "self-evolving-agents"
       ],
       "readmePreview": "# SkillOpt: Executive Strategy for Self-Evolving Agent Skills\n\n*Train agent skills like you train neural networks — with epochs, (mini-)batchsize, learning rates, and validation gates — but without touching model weights.*\n\n[![Project Page](https://img.shields.io/badge/Project%20Page-SkillOpt-8dbb3c)](https://microsoft.github.io/SkillOpt/) [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2605.23904) [![Project Video](https://img.shields.io/badge/Project%20Video-W",
-      "updatedAt": "2026-07-07T06:18:06Z",
+      "updatedAt": "2026-07-07T06:30:03Z",
       "starredAt": "2026-05-29T16:14:04Z",
       "categories": [
         "AI Agent 智能体"
@@ -874,7 +874,7 @@
       "fullName": "ruvnet/ruflo",
       "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
-      "stars": 63337,
+      "stars": 63339,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -899,7 +899,7 @@
         "typescript"
       ],
       "readmePreview": "<div align=\"center\">\n\n[![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering)\n\n<!-- Try Ruflo — the 4 badges first-time visitors actually act on -->\n[![Try the UI Beta — flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/)\n[![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/packa",
-      "updatedAt": "2026-07-07T06:03:39Z",
+      "updatedAt": "2026-07-07T06:36:37Z",
       "starredAt": "2026-05-29T15:41:38Z",
       "categories": [
         "AI Agent 智能体"
@@ -998,7 +998,7 @@
       "fullName": "google/agents-cli",
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "url": "https://github.com/google/agents-cli",
-      "stars": 4776,
+      "stars": 4775,
       "language": "Python",
       "topics": [
         "adk",
@@ -1011,7 +1011,7 @@
         "google-cloud"
       ],
       "readmePreview": "<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/google/agents-cli/main/docs/src/assets/logo_sm.png\" alt=\"agents-cli logo\" width=\"120\" />\n  <h1><code>agents-cli</code></h1>\n  <p>The CLI and skills for building agents on Gemini Enterprise Agent Platform.</p>\n\n  <p>\n    <a href=\"#get-started\">Get Started</a> &nbsp;&nbsp;|&nbsp;&nbsp;\n    <a href=\"#agent-skills\">Skills</a> &nbsp;&nbsp;|&nbsp;&nbsp;\n    <a href=\"#cli-commands\">Commands</a> &nbsp;&nbsp;|&nbsp;&nbsp;\n    <a href=\"htt",
-      "updatedAt": "2026-07-07T05:53:15Z",
+      "updatedAt": "2026-07-07T06:39:21Z",
       "starredAt": "2026-05-24T10:22:19Z",
       "categories": [
         "Cloud 云服务"
@@ -1025,7 +1025,7 @@
       "fullName": "humanlayer/12-factor-agents",
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "url": "https://github.com/humanlayer/12-factor-agents",
-      "stars": 23987,
+      "stars": 23988,
       "language": "TypeScript",
       "topics": [
         "12-factor",
@@ -1041,7 +1041,7 @@
         "rag"
       ],
       "readmePreview": "# 12-Factor Agents - Principles for building reliable LLM applications\n\n<div align=\"center\">\n<a href=\"https://www.apache.org/licenses/LICENSE-2.0\">\n        <img src=\"https://img.shields.io/badge/Code-Apache%202.0-blue.svg\" alt=\"Code License: Apache 2.0\"></a>\n<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">\n        <img src=\"https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg\" alt=\"Content License: CC BY-SA 4.0\"></a>\n<a href=\"https://humanlayer.dev/discord\">\n    <img sr",
-      "updatedAt": "2026-07-07T06:15:27Z",
+      "updatedAt": "2026-07-07T06:36:53Z",
       "starredAt": "2026-05-24T10:19:06Z",
       "categories": [
         "Learning 学习资源"
@@ -1055,7 +1055,7 @@
       "fullName": "can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
-      "stars": 16435,
+      "stars": 16437,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -1075,7 +1075,7 @@
         "typescript"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"https://github.com/can1357/oh-my-pi/blob/main/assets/hero.png?raw=true\" alt=\"omp\">\n</p>\n\n<p align=\"center\">\n  <strong>A coding agent with the IDE wired in.</strong>\n  <strong><a href=\"https://omp.sh\">omp.sh</a></strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/@oh-my-pi/pi-coding-agent\"><img src=\"https://img.shields.io/npm/v/@oh-my-pi/pi-coding-agent?style=flat&colorA=222222&colorB=CB3837\" alt=\"npm version\"></a>\n  <a href=\"https://github.co",
-      "updatedAt": "2026-07-07T06:17:15Z",
+      "updatedAt": "2026-07-07T06:31:24Z",
       "starredAt": "2026-05-24T10:08:13Z",
       "categories": [
         "AI Agent 智能体"
@@ -1123,7 +1123,7 @@
       "fullName": "Portkey-AI/gateway",
       "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
       "url": "https://github.com/Portkey-AI/gateway",
-      "stars": 12340,
+      "stars": 12341,
       "language": "TypeScript",
       "topics": [
         "ai-gateway",
@@ -1143,7 +1143,7 @@
         "openai"
       ],
       "readmePreview": "\n<p align=\"right\">\n   <strong>English</strong> | <a href=\"./.github/README.cn.md\">中文</a> | <a href=\"./.github/README.jp.md\">日本語</a>\n</p>\n\n> [!IMPORTANT]\n> :rocket: Gateway 2.0 (Pre-Release) Portkey's core enterprise gateway is merging into open-source with our 2.0 release. You can try the pre-release branch [here](https://github.com/portkey-ai/gateway/tree/2.0.0).\n> Read more about what's next for Portkey in our [**Series A announcement**](https://portkey.wiki/rohit-a).\n\n\n<div align=\"center\">\n\n\ud83c",
-      "updatedAt": "2026-07-07T03:19:22Z",
+      "updatedAt": "2026-07-07T06:22:29Z",
       "starredAt": "2026-05-18T15:00:09Z",
       "categories": [
         "LLM 大模型"
@@ -1157,11 +1157,11 @@
       "fullName": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "url": "https://github.com/tinyhumansai/openhuman",
-      "stars": 34314,
+      "stars": 34316,
       "language": "Rust",
       "topics": [],
       "readmePreview": "<h1 align=\"center\">OpenHuman</h1>\n\n<p align=\"center\">\n <img src=\"./gitbooks/.gitbook/assets/demo.png\" alt=\"The Tet\" />\n</p>\n\n<p align=\"center\" style=\"display: inline-block\">\n\t<a href=\"https://trendshift.io/repositories/23680\" target=\"_blank\" style=\"display: inline-block\">\n\t\t<img src=\"https://trendshift.io/api/badge/repositories/23680\" alt=\"tinyhumansai%2Fopenhuman | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n\t</a>\n\t<a href=\"https://www.producthunt.com/products/open",
-      "updatedAt": "2026-07-07T06:15:03Z",
+      "updatedAt": "2026-07-07T06:28:45Z",
       "starredAt": "2026-05-14T07:25:59Z",
       "categories": [
         "AI Agent 智能体"
@@ -1184,7 +1184,7 @@
         "wechat-download"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"./assets/logo.svg\" alt=\"Logo\">\n</p>\n\n# wechat-article-exporter\n\n![GitHub stars]\n![GitHub forks]\n![GitHub License]\n![Package Version]\n\n\n一款在线的 **微信公众号文章批量下载** 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 [在线网站] 使用，同时也支持 docker 私有化部署和 Cloudflare 部署。\n\n支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。\n\n> [!TIP]\n> **想要更稳定、更省心的开箱体验？** 试试本项目的商业版 —— **[公号三刀 →](https://wechat.zoro.build)**\n> 自带高速抓取通道，**无需自建代理、也不用抢公共节点的每日额度**，注册即用；功能更全、更新更及时。\n\n交流群(QQ):\n- `494723496`\n\n## :bell: 重要告知：项目域名调整\n项目域名调整如下：\n\n|   ",
-      "updatedAt": "2026-07-07T05:34:31Z",
+      "updatedAt": "2026-07-07T06:37:01Z",
       "starredAt": "2026-05-14T01:53:19Z",
       "categories": [
         "Scraping 爬虫"
@@ -1255,11 +1255,11 @@
       "fullName": "sdyckjq-lab/llm-wiki-skill",
       "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！",
       "url": "https://github.com/sdyckjq-lab/llm-wiki-skill",
-      "stars": 2080,
+      "stars": 2082,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "[English](README.en.md) | 中文\n\n<div align=\"center\">\n\n# llm-wiki\n\n基于 [Andrej Karpathy](https://karpathy.ai/) 的 [llm-wiki 方法论](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)\n\n**更适合国内宝宝体质的 K 神知识库**\n\n把碎片化的信息变成持续积累、互相链接的知识库\n\n[![version](https://img.shields.io/badge/v3.6.27-选区抽屉展开-E8D5B5?style=flat-square&labelColor=3a3026&color=E8D5B5)](https://github.com/sdyckjq-lab/llm-wiki-skill/releases)\n[![license](https://img.shields.io/badge/MIT-license-5a6e5c?style=flat-square&labelColor=3a",
-      "updatedAt": "2026-07-07T05:33:11Z",
+      "updatedAt": "2026-07-07T06:25:53Z",
       "starredAt": "2026-05-13T07:39:47Z",
       "categories": [
         "CMS 内容管理"
@@ -1273,11 +1273,11 @@
       "fullName": "multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "url": "https://github.com/multica-ai/multica",
-      "stars": 39323,
+      "stars": 39327,
       "language": "Go",
       "topics": [],
       "readmePreview": "<p align=\"center\">\n  <img src=\"docs/assets/banner.jpg\" alt=\"Multica — humans and agents, side by side\" width=\"100%\">\n</p>\n\n<div align=\"center\">\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/logo-dark.svg\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/assets/logo-light.svg\">\n  <img alt=\"Multica\" src=\"docs/assets/logo-light.svg\" width=\"50\">\n</picture>\n\n# Multica\n\n**Your next 10 hires won't be human.**\n\nThe open-source managed agents platform.<br/>\nTu",
-      "updatedAt": "2026-07-07T06:10:15Z",
+      "updatedAt": "2026-07-07T06:37:15Z",
       "starredAt": "2026-04-28T14:23:16Z",
       "categories": [
         "AI Agent 智能体"
@@ -1319,11 +1319,11 @@
       "fullName": "nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "url": "https://github.com/nashsu/llm_wiki",
-      "stars": 13820,
+      "stars": 13824,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "# LLM Wiki\n\n<p align=\"center\">\n  <img src=\"logo.jpg\" width=\"128\" height=\"128\" style=\"border-radius: 22%;\" alt=\"LLM Wiki Logo\">\n</p>\n\n<p align=\"center\">\n  <strong>A personal knowledge base that builds itself.</strong><br>\n  LLM reads your documents, builds a structured wiki, and keeps it current.\n</p>\n\n<p align=\"center\">\n  <a href=\"#what-is-this\">What is this?</a> •\n  <a href=\"#what-we-changed--added\">Features</a> •\n  <a href=\"#tech-stack\">Tech Stack</a> •\n  <a href=\"#installation\">Installation</",
-      "updatedAt": "2026-07-07T06:18:23Z",
+      "updatedAt": "2026-07-07T06:30:18Z",
       "starredAt": "2026-04-28T07:48:46Z",
       "categories": [
         "CMS 内容管理"
@@ -1414,7 +1414,7 @@
       "fullName": "BerriAI/litellm",
       "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 52806,
+      "stars": 52809,
       "language": "Python",
       "topics": [
         "ai-gateway",
@@ -1435,7 +1435,7 @@
         "vertex-ai"
       ],
       "readmePreview": "<h1 align=\"center\">\n        🚅 LiteLLM\n    </h1>\n    <p align=\"center\">\n        <p align=\"center\">LiteLLM AI Gateway\n        </p>\n        <p align=\"center\">Open Source AI Gateway for 100+ LLMs. Self-hosted. Enterprise-ready. Call any LLM in OpenAI format.</p>\n        <p align=\"center\">\n        <a href=\"https://render.com/deploy?repo=https://github.com/BerriAI/litellm\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://render.com/images/deploy-to-render-button.svg\" alt=\"Deploy to Render\" height=\"40",
-      "updatedAt": "2026-07-07T06:16:35Z",
+      "updatedAt": "2026-07-07T06:32:07Z",
       "starredAt": "2026-04-22T09:51:34Z",
       "categories": [
         "LLM 大模型"
@@ -1449,7 +1449,7 @@
       "fullName": "hugohe3/ppt-master",
       "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
       "url": "https://github.com/hugohe3/ppt-master",
-      "stars": 37289,
+      "stars": 37297,
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -1464,7 +1464,7 @@
         "slides"
       ],
       "readmePreview": "# PPT Master — AI generates natively editable PPTX from any document\n\n[![Version](https://img.shields.io/github/v/release/hugohe3/ppt-master?label=version&color=blue)](https://github.com/hugohe3/ppt-master/releases)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master.svg)](https://github.com/hugohe3/ppt-master/stargazers)\n[![AtomGit stars](https://atomgit.com/hugohe3/pp",
-      "updatedAt": "2026-07-07T06:19:26Z",
+      "updatedAt": "2026-07-07T06:37:53Z",
       "starredAt": "2026-04-22T05:22:19Z",
       "categories": [
         "Visualization 可视化"
@@ -1478,11 +1478,11 @@
       "fullName": "alchaincyf/darwin-skill",
       "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
       "url": "https://github.com/alchaincyf/darwin-skill",
-      "stars": 4650,
+      "stars": 4651,
       "language": "HTML",
       "topics": [],
       "readmePreview": "<div align=\"right\">\n\n**[English](README_EN.md)** | 中文\n\n</div>\n\n![达尔文.skill](assets/banner.svg)\n\n<p align=\"center\">\n  <img src=\"assets/hero.gif\" alt=\"Darwin Skill Animation\" />\n  <br/>\n  <sub>动画由 <a href=\"https://github.com/alchaincyf/huashu-design\">huashu-design</a> skill 制作</sub>\n</p>\n\n<div align=\"center\">\n\n# 达尔文.skill 2.0\n\n**像训练模型一样优化你的 Agent Skills。**\n\n受 [Andrej Karpathy 的 autoresearch](https://github.com/karpathy/autoresearch) 启发，将自主实验循环从模型训练搬到 Skill 优化领域。一个只能向前转的棘轮。\n\n**v2.0** · 更新于 2026-05-",
-      "updatedAt": "2026-07-07T06:07:21Z",
+      "updatedAt": "2026-07-07T06:36:16Z",
       "starredAt": "2026-04-22T05:15:00Z",
       "categories": [
         "AI Agent 智能体"
@@ -1514,7 +1514,7 @@
       "fullName": "VoltAgent/awesome-claude-design",
       "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
       "url": "https://github.com/VoltAgent/awesome-claude-design",
-      "stars": 3013,
+      "stars": 3012,
       "language": "Unknown",
       "topics": [
         "claude-code",
@@ -1524,7 +1524,7 @@
         "figma"
       ],
       "readmePreview": "\n\n<a href=\"https://github.com/VoltAgent/voltagent\">\n<img width=\"1500\"  alt=\"claude-design\" src=\"https://github.com/user-attachments/assets/c679bd35-ba7e-4d6f-834d-3f4b6e5a35e4\" />\n</a>\n\n<br/>\n<br/>\n\n\n<div align=\"center\">\n    <strong>A collection of ready-to-use <code>DESIGN.md</code> files that Claude Design expands into a full UI scaffold with one drop.</strong>\n    <br />\n    <br />\n\n</div>\n\n<div align=\"center\">\n\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n![DESIGN.md Count]",
-      "updatedAt": "2026-07-07T05:20:43Z",
+      "updatedAt": "2026-07-07T06:28:30Z",
       "starredAt": "2026-04-20T08:20:43Z",
       "categories": [
         "Awesome List 资源列表"
@@ -1562,7 +1562,7 @@
         "workflow"
       ],
       "readmePreview": "# agency-agents 中文版（AI 智能体专家团队）\n\n🌐 **简体中文** | [繁體中文](README.zh-TW.md) | [English (upstream)](https://github.com/msitarzewski/agency-agents)\n\n> **266 个即插即用的 AI 专家角色** — 覆盖工程、设计、营销、产品、游戏、安全、GIS、金融等 20 个部门。不是通用提示词模板，每个智能体都有独立的人设、专业流程和可交付成果。支持 Claude Code / Cursor / Copilot 等 18 种 AI 编程工具。\n\n[agency-agents](https://github.com/msitarzewski/agency-agents) 的中文社区版。在完整翻译上游的基础上，新增了 50 个中国市场原创智能体（小红书、抖音、微信、B站、飞书、钉钉等平台运营，以及跨境电商、政务ToG、医疗合规、Qt 工业上位机、机械设计、畜禽养殖档案核对等垂直领域）。\n\n[![GitHub stars](https://img.shields.i",
-      "updatedAt": "2026-07-07T06:12:53Z",
+      "updatedAt": "2026-07-07T06:36:21Z",
       "starredAt": "2026-04-20T08:13:19Z",
       "categories": [
         "AI Agent 智能体"
@@ -1605,7 +1605,7 @@
       "fullName": "mindfold-ai/Trellis",
       "description": "The best agent harness.",
       "url": "https://github.com/mindfold-ai/Trellis",
-      "stars": 11899,
+      "stars": 11904,
       "language": "TypeScript",
       "topics": [
         "agentic-coding",
@@ -1615,7 +1615,7 @@
         "harness"
       ],
       "readmePreview": "<p align=\"center\">\n<picture>\n<source srcset=\"assets/trellis.png\" media=\"(prefers-color-scheme: dark)\">\n<source srcset=\"assets/trellis.png\" media=\"(prefers-color-scheme: light)\">\n<img src=\"assets/trellis.png\" alt=\"Trellis Logo\" width=\"500\" style=\"image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;\">\n</picture>\n</p>\n\n<p align=\"center\">\n<strong>An out-of-the-box engineering framework for AI coding.</strong><br/>\n<sub>AI writes code fast, but every session it starts from scratc",
-      "updatedAt": "2026-07-07T06:19:15Z",
+      "updatedAt": "2026-07-07T06:36:26Z",
       "starredAt": "2026-04-14T10:41:03Z",
       "categories": [
         "AI Agent 智能体"
@@ -1670,7 +1670,7 @@
       "fullName": "Donchitos/Claude-Code-Game-Studios",
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "stars": 22678,
+      "stars": 22680,
       "language": "Shell",
       "topics": [
         "ai-agents",
@@ -1687,7 +1687,7 @@
         "unreal-engine"
       ],
       "readmePreview": "<p align=\"center\">\n  <h1 align=\"center\">Claude Code Game Studios</h1>\n  <p align=\"center\">\n    Turn a single Claude Code session into a full game development studio.\n    <br />\n    49 agents. 73 skills. One coordinated AI team.\n  </p>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue.svg\" alt=\"MIT License\"></a>\n  <a href=\".claude/agents\"><img src=\"https://img.shields.io/badge/agents-49-blueviolet\" alt=\"49 Agents\"></a>\n  <a href=\".claude/skills\">",
-      "updatedAt": "2026-07-07T05:54:38Z",
+      "updatedAt": "2026-07-07T06:30:22Z",
       "starredAt": "2026-04-14T06:31:15Z",
       "categories": [
         "AI Agent 智能体"
@@ -1701,11 +1701,11 @@
       "fullName": "blackmatrix7/ios_rule_script",
       "description": "分流规则、重写写规则及脚本。",
       "url": "https://github.com/blackmatrix7/ios_rule_script",
-      "stars": 27071,
+      "stars": 27070,
       "language": "JavaScript",
       "topics": [],
       "readmePreview": "# Rules And Scripts\n\n## 前言\n\n各平台的分流规则、复写规则及自动化脚本。\n\n## 特别声明\n\n1. 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。\n2. 编写本项目主要目的为学习和研究ES6，无法保证项目内容的合法性、准确性、完整性和有效性。\n3. 本项目涉及的数据由使用的个人或组织自行填写，本项目不对数据内容负责，包括但不限于数据的真实性、准确性、合法性。使用本项目所造成的一切后果，与本项目的所有贡献者无关，由使用的个人或组织完全承担。\n4. 本项目中涉及的第三方硬件、软件等，与本项目没有任何直接或间接的关系。本项目仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本项目无关。\n5. 本项目中所有内容只供学习和研究使用，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。\n6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。\n7. 所有直接",
-      "updatedAt": "2026-07-07T04:46:21Z",
+      "updatedAt": "2026-07-07T06:28:24Z",
       "starredAt": "2026-04-13T09:04:01Z",
       "categories": [
         "Network 网络"
@@ -1769,7 +1769,7 @@
       "fullName": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 210532,
+      "stars": 210537,
       "language": "Python",
       "topics": [
         "ai",
@@ -1790,7 +1790,7 @@
         "openclaw"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\">\n</p>\n\n# Hermes Agent ☤\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a>\n</p>\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg",
-      "updatedAt": "2026-07-07T06:19:28Z",
+      "updatedAt": "2026-07-07T06:39:25Z",
       "starredAt": "2026-04-08T01:55:57Z",
       "categories": [
         "AI Agent 智能体"
@@ -1824,7 +1824,7 @@
       "fullName": "tw93/Waza",
       "description": "🥷 Engineering habits you already know, turned into skills Claude can run.",
       "url": "https://github.com/tw93/Waza",
-      "stars": 6251,
+      "stars": 6253,
       "language": "Python",
       "topics": [
         "claude",
@@ -1838,7 +1838,7 @@
         "superpowers"
       ],
       "readmePreview": "<div align=\"center\">\n  <img src=\"https://gw.alipayobjects.com/zos/k/2h/waza.svg\" width=\"120\" />\n  <h1>Waza</h1>\n  <p><b>Engineering habits you already know, turned into skills AI agents can run.</b></p>\n  <a href=\"https://github.com/tw93/Waza/actions/workflows/test.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/tw93/Waza/test.yml?branch=main&style=flat-square&label=tests\" alt=\"Tests\"></a>\n  <a href=\"https://github.com/tw93/Waza/stargazers\"><img src=\"https://img.shields.io/g",
-      "updatedAt": "2026-07-07T05:58:28Z",
+      "updatedAt": "2026-07-07T06:37:35Z",
       "starredAt": "2026-04-03T12:20:27Z",
       "categories": [
         "AI Agent 智能体"
@@ -1968,7 +1968,7 @@
       "fullName": "shareAI-lab/learn-claude-code",
       "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "stars": 70136,
+      "stars": 70138,
       "language": "Python",
       "topics": [
         "agent",
@@ -1983,7 +1983,7 @@
         "tutorial"
       ],
       "readmePreview": "[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)\n\n<a href=\"https://trendshift.io/repositories/19746\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19746\" alt=\"shareAI-lab%2Flearn-claude-code | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n# Learn Claude Code -- Harness Engineering for Real Agents\n\n## Agency Comes from the Model. An Agent Product = Model + Harness.\n\nBefore we write any code, one thing needs to be clear",
-      "updatedAt": "2026-07-07T06:18:19Z",
+      "updatedAt": "2026-07-07T06:25:09Z",
       "starredAt": "2026-03-31T02:32:30Z",
       "categories": [
         "Learning 学习资源"
@@ -1997,11 +1997,11 @@
       "fullName": "earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
-      "stars": 68209,
+      "stars": 68215,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "<p align=\"center\">\n  <a href=\"https://pi.dev\">\n    <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a>\n  <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-sq",
-      "updatedAt": "2026-07-07T06:18:34Z",
+      "updatedAt": "2026-07-07T06:36:32Z",
       "starredAt": "2026-03-30T02:38:23Z",
       "categories": [
         "AI Agent 智能体"
@@ -2044,11 +2044,11 @@
       "fullName": "eze-is/web-access",
       "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
       "url": "https://github.com/eze-is/web-access",
-      "stars": 8100,
+      "stars": 8101,
       "language": "JavaScript",
       "topics": [],
       "readmePreview": "<div align=\"right\">\n  <details>\n    <summary>🌐 Language</summary>\n    <div>\n      <div align=\"center\">\n        <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=en\">English</a>\n        | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=zh-CN\">简体中文</a>\n        | <a href=\"https://openaitx.github.io/view.html?user=eze-is&project=web-access&lang=zh-TW\">繁體中文</a>\n        | <a href=\"https://openaitx.github.io/view.html?user=eze-is&projec",
-      "updatedAt": "2026-07-07T05:10:07Z",
+      "updatedAt": "2026-07-07T06:23:47Z",
       "starredAt": "2026-03-25T10:17:13Z",
       "categories": [
         "Scraping 爬虫"
@@ -2062,7 +2062,7 @@
       "fullName": "chen08209/FlClash",
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "url": "https://github.com/chen08209/FlClash",
-      "stars": 44601,
+      "stars": 44602,
       "language": "Dart",
       "topics": [
         "clash",
@@ -2076,7 +2076,7 @@
         "vpn"
       ],
       "readmePreview": "<div>\n\n[**简体中文**](README_zh_CN.md)\n\n</div>\n\n## FlClash\n\n[![Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/total?style=flat-square&logo=github)](https://github.com/chen08209/FlClash/releases/)[![Last Version](https://img.shields.io/github/release/chen08209/FlClash/all.svg?style=flat-square)](https://github.com/chen08209/FlClash/releases/)[![License](https://img.shields.io/github/license/chen08209/FlClash?style=flat-square)](LICENSE)\n\n[![Channel](https://img.shields.io/badge/",
-      "updatedAt": "2026-07-07T06:15:28Z",
+      "updatedAt": "2026-07-07T06:35:21Z",
       "starredAt": "2026-03-25T07:06:01Z",
       "categories": [
         "Network 网络"
@@ -2090,7 +2090,7 @@
       "fullName": "langchain-ai/deepagents",
       "description": "The batteries-included agent harness.",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 25831,
+      "stars": 25832,
       "language": "Python",
       "topics": [
         "ai",
@@ -2101,7 +2101,7 @@
         "typescript"
       ],
       "readmePreview": "<div align=\"center\">\n  <a href=\"https://docs.langchain.com/oss/python/deepagents/overview#deep-agents-overview\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\">\n      <img alt=\"Deep Agents Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\">\n    </picture>\n  </a>\n</div>\n\n<div align=\"center\">\n  <h3>The batteries-included agent harness.</h3>\n</div>\n\n<",
-      "updatedAt": "2026-07-07T05:37:49Z",
+      "updatedAt": "2026-07-07T06:36:33Z",
       "starredAt": "2026-03-24T01:50:38Z",
       "categories": [
         "AI Agent 智能体"
@@ -2115,7 +2115,7 @@
       "fullName": "assafelovic/gpt-researcher",
       "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 28124,
+      "stars": 28125,
       "language": "Python",
       "topics": [
         "agent",
@@ -2131,7 +2131,7 @@
         "webscraping"
       ],
       "readmePreview": "<div align=\"center\" id=\"top\">\n\n<img src=\"https://github.com/assafelovic/gpt-researcher/assets/13554167/20af8286-b386-44a5-9a83-3be1365139c3\" alt=\"Logo\" width=\"80\">\n\n####\n\n[![Website](https://img.shields.io/badge/Official%20Website-gptr.dev-teal?style=for-the-badge&logo=world&logoColor=white&color=0891b2)](https://gptr.dev)\n[![Documentation](https://img.shields.io/badge/Documentation-DOCS-f472b6?logo=googledocs&logoColor=white&style=for-the-badge)](https://docs.gptr.dev)\n[![Discord](https://img.s",
-      "updatedAt": "2026-07-07T05:38:50Z",
+      "updatedAt": "2026-07-07T06:29:19Z",
       "starredAt": "2026-03-23T10:03:51Z",
       "categories": [
         "AI Agent 智能体"
@@ -2145,11 +2145,11 @@
       "fullName": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
       "url": "https://github.com/karpathy/autoresearch",
-      "stars": 90125,
+      "stars": 90131,
       "language": "Python",
       "topics": [],
       "readmePreview": "# autoresearch\n\n![teaser](progress.png)\n\n*One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing once in a while using sound wave interconnect in the ritual of \"group meeting\". That era is long gone. Research is now entirely the domain of autonomous swarms of AI agents running across compute cluster megastructures in the skies. The agents claim that we are now in the 10,205th generation of the code base, in any case no one",
-      "updatedAt": "2026-07-07T06:13:37Z",
+      "updatedAt": "2026-07-07T06:39:47Z",
       "starredAt": "2026-03-23T09:56:14Z",
       "categories": [
         "AI Agent 智能体"
@@ -2175,7 +2175,7 @@
         "typescript"
       ],
       "readmePreview": "# Claude HUD\n\nA Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.\n\n[![License](https://img.shields.io/github/license/jarrodwatts/claude-hud?v=2)](LICENSE)\n[![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud)](https://github.com/jarrodwatts/claude-hud/stargazers)\n\n![Claude HUD in action](claude-hud-preview-5-2.png)\n\n> 🌐 English | [中文文档](README.zh.md)\n\n## Install\n\nInside a Claude Code ",
-      "updatedAt": "2026-07-07T06:03:42Z",
+      "updatedAt": "2026-07-07T06:30:44Z",
       "starredAt": "2026-03-23T08:25:57Z",
       "categories": [
         "DevTools 开发者工具"
@@ -2189,7 +2189,7 @@
       "fullName": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars": 76313,
+      "stars": 76317,
       "language": "Python",
       "topics": [
         "agent",
@@ -2212,7 +2212,7 @@
         "typescript"
       ],
       "readmePreview": "# 🦌 DeerFlow - 2.0\n\nEnglish | [中文](./README_zh.md) | [日本語](./README_ja.md) | [Français](./README_fr.md) | [Русский](./README_ru.md)\n\n[![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](./backend/pyproject.toml)\n[![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?logo=node.js&logoColor=white)](./Makefile)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)\n\n<a href=\"https://trendshift.io/repositories/14699\" target=\"_",
-      "updatedAt": "2026-07-07T06:12:09Z",
+      "updatedAt": "2026-07-07T06:39:10Z",
       "starredAt": "2026-03-23T08:08:59Z",
       "categories": [
         "AI Agent 智能体"
@@ -2248,7 +2248,7 @@
       "fullName": "jlcodes99/cockpit-tools",
       "description": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
       "url": "https://github.com/jlcodes99/cockpit-tools",
-      "stars": 12822,
+      "stars": 12826,
       "language": "Rust",
       "topics": [
         "account-manager",
@@ -2262,7 +2262,7 @@
         "windsurf"
       ],
       "readmePreview": "# Cockpit Tools\n\n[English](README.en.md) · [Portuguese (BR)](README.pt-br.md) · 简体中文\n\n[![GitHub stars](https://img.shields.io/github/stars/jlcodes99/cockpit-tools?style=flat&color=gold)](https://github.com/jlcodes99/cockpit-tools)\n[![GitHub downloads](https://img.shields.io/github/downloads/jlcodes99/cockpit-tools/total?style=flat&color=blue)](https://github.com/jlcodes99/cockpit-tools/releases)\n[![GitHub release](https://img.shields.io/github/v/release/jlcodes99/cockpit-tools?style=flat)](https",
-      "updatedAt": "2026-07-07T06:15:09Z",
+      "updatedAt": "2026-07-07T06:37:15Z",
       "starredAt": "2026-03-21T14:54:24Z",
       "categories": [
         "DevTools 开发者工具"
@@ -2276,11 +2276,11 @@
       "fullName": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 44023,
+      "stars": 44024,
       "language": "JavaScript",
       "topics": [],
       "readmePreview": "# Impeccable\n\nDesign guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 45 deterministic detector rules for AI-generated frontend design.\n\n> **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).\n\n## Why Impeccable?\n\nAnthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-us",
-      "updatedAt": "2026-07-07T06:17:00Z",
+      "updatedAt": "2026-07-07T06:25:09Z",
       "starredAt": "2026-03-20T05:54:32Z",
       "categories": [
         "CSS Styling 样式"
@@ -2387,11 +2387,11 @@
       "fullName": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
-      "stars": 159014,
+      "stars": 159048,
       "language": "Shell",
       "topics": [],
       "readmePreview": "<p>\n  <a href=\"https://www.aihero.dev/s/skills-newsletter\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skills-repo-dark_2x.png\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x.png\">\n      <img alt=\"Skills\" src=\"https://res.cloudinary.com/total-typescript/image/upload/v1777382277/skill-repo-light_2x",
-      "updatedAt": "2026-07-07T06:19:40Z",
+      "updatedAt": "2026-07-07T06:39:55Z",
       "starredAt": "2026-03-17T14:25:40Z",
       "categories": [
         "AI Agent 智能体"
@@ -2433,7 +2433,7 @@
       "fullName": "rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 69048,
+      "stars": 69055,
       "language": "Rust",
       "topics": [
         "agentic-coding",
@@ -2451,7 +2451,7 @@
         "token-optimization"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"https://avatars.githubusercontent.com/u/258253854?v=4\" alt=\"RTK - Rust Token Killer\" width=\"500\">\n</p>\n\n<p align=\"center\">\n  <strong>High-performance CLI proxy that reduces LLM token consumption by 60-90%</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/rtk-ai/rtk/actions\"><img src=\"https://github.com/rtk-ai/rtk/workflows/Security%20Check/badge.svg\" alt=\"CI\"></a>\n  <a href=\"https://github.com/rtk-ai/rtk/releases\"><img src=\"https://img.shields.io/gith",
-      "updatedAt": "2026-07-07T06:16:41Z",
+      "updatedAt": "2026-07-07T06:38:20Z",
       "starredAt": "2026-03-17T07:02:06Z",
       "categories": [
         "CLI 命令行"
@@ -2465,11 +2465,11 @@
       "fullName": "garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
-      "stars": 120090,
+      "stars": 120097,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "# gstack\n\n> \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/), No Priors podcast, March 2026\n\nWhen I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twenty? Peter Steinberger built [OpenClaw](https://github.com/openclaw/openclaw) — 247K GitHub stars — essen",
-      "updatedAt": "2026-07-07T06:10:27Z",
+      "updatedAt": "2026-07-07T06:30:56Z",
       "starredAt": "2026-03-17T01:44:49Z",
       "categories": [
         "AI Agent 智能体"
@@ -2483,7 +2483,7 @@
       "fullName": "Wei-Shaw/sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "url": "https://github.com/Wei-Shaw/sub2api",
-      "stars": 30560,
+      "stars": 30566,
       "language": "Go",
       "topics": [
         "2api",
@@ -2497,7 +2497,7 @@
         "gemini"
       ],
       "readmePreview": "# Sub2API\n\n<div align=\"center\">\n\n[![Go](https://img.shields.io/badge/Go-1.25.7-00ADD8.svg)](https://golang.org/)\n[![Vue](https://img.shields.io/badge/Vue-3.4+-4FC08D.svg)](https://vuejs.org/)\n[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791.svg)](https://www.postgresql.org/)\n[![Redis](https://img.shields.io/badge/Redis-7+-DC382D.svg)](https://redis.io/)\n[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)\n\n<a href=\"https://trendshift.io/repo",
-      "updatedAt": "2026-07-07T06:16:09Z",
+      "updatedAt": "2026-07-07T06:37:52Z",
       "starredAt": "2026-03-16T10:24:21Z",
       "categories": [
         "Backend 后端"
@@ -2511,11 +2511,11 @@
       "fullName": "TianyiDataScience/openclaw-control-center",
       "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
       "url": "https://github.com/TianyiDataScience/openclaw-control-center",
-      "stars": 4003,
+      "stars": 4002,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "> Chinese reader? Start here: [打开中文 README](README.zh-CN.md)\n\n# OpenClaw Control Center\n\n<img src=\"docs/assets/overview-hero-en.png\" alt=\"OpenClaw Control Center overview hero screenshot\" width=\"1200\" />\n\nTurn OpenClaw from a black box into a local control center you can see, trust, and control.\n\nLanguage: **English** | [中文](README.zh-CN.md)\n\n## Why this exists\n- One local place to see whether OpenClaw is healthy, busy, blocked, or drifting.\n- Built for non-technical operators who need observabi",
-      "updatedAt": "2026-07-05T03:29:38Z",
+      "updatedAt": "2026-07-07T06:29:45Z",
       "starredAt": "2026-03-14T08:43:58Z",
       "categories": [
         "DevTools 开发者工具"
@@ -2556,7 +2556,7 @@
       "fullName": "microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "stars": 68748,
+      "stars": 68749,
       "language": "Jupyter Notebook",
       "topics": [
         "agentic-ai",
@@ -2569,7 +2569,7 @@
         "semantic-kernel"
       ],
       "readmePreview": "# AI Agents for Beginners - A Course\n\n![AI Agents for Beginners](./images/repo-thumbnailv2.png)\n\n## A course teaching everything you need to know to start building AI Agents\n\n[![GitHub license](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)\n[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub",
-      "updatedAt": "2026-07-07T06:18:57Z",
+      "updatedAt": "2026-07-07T06:25:09Z",
       "starredAt": "2026-03-13T06:36:49Z",
       "categories": [
         "Learning 学习资源"
@@ -2583,7 +2583,7 @@
       "fullName": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 226742,
+      "stars": 226749,
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -2596,7 +2596,7 @@
         "productivity"
       ],
       "readmePreview": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) | [Русский](docs/ru/README.md) | [Tiếng Việt](docs/vi-VN/README.md) | [ไทย](docs/th/README.md) | [Deutsch](docs/de-DE/README.md) | [Español](docs/es/README.md)\n\n![ECC — the agent harness operating system](assets/hero.png)\n\n[![Discord](https://img.shields.io/discord/1496644400590094540?",
-      "updatedAt": "2026-07-07T06:17:46Z",
+      "updatedAt": "2026-07-07T06:39:41Z",
       "starredAt": "2026-03-13T06:03:52Z",
       "categories": [
         "DevTools 开发者工具"
@@ -2610,11 +2610,11 @@
       "fullName": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "stars": 44886,
+      "stars": 44888,
       "language": "Python",
       "topics": [],
       "readmePreview": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1>\n\n<div align=\"center\">\n<a href=\"https://trendshift.io/repositories/22991\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/22991\" alt=\"HKUDS%2FCLI-Anything | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</div>\n\n<p align=\"center\">\n  <strong>Today's Software Serves Humans👨‍💻. Tomorrow's Use",
-      "updatedAt": "2026-07-07T06:16:53Z",
+      "updatedAt": "2026-07-07T06:39:31Z",
       "starredAt": "2026-03-11T08:36:04Z",
       "categories": [
         "CLI 命令行"
@@ -2826,7 +2826,7 @@
       "fullName": "datawhalechina/easy-vibe",
       "description": "💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.",
       "url": "https://github.com/datawhalechina/easy-vibe",
-      "stars": 17874,
+      "stars": 17877,
       "language": "JavaScript",
       "topics": [
         "agent",
@@ -2851,7 +2851,7 @@
         "workflow"
       ],
       "readmePreview": "<!-- trigger vercel build -->\n<div align=\"center\">\n\n<img src=\"assets/easy-vibe-logo-hd.svg\" alt=\"Easy-Vibe Logo\" width=\"300\">\n\n<img src=\"assets/banner.png\" alt=\"Easy-Vibe Banner\" width=\"100%\">\n\n<p align=\"center\" style=\"font-size: 1.2em; color: #666; margin: 20px 0;\">\n  Jump right in and vibe together — if you can talk, you can build apps.<br>\n  <span style=\"font-size: 0.9em; color: #888;\">直接上手，一起 vibe！会说话就会做应用。</span>\n</p>\n\n<a href=\"https://trendshift.io/repositories/22079\" target=\"_blank\"><img ",
-      "updatedAt": "2026-07-07T06:13:59Z",
+      "updatedAt": "2026-07-07T06:37:25Z",
       "starredAt": "2026-03-02T03:47:39Z",
       "categories": [
         "Learning 学习资源"
@@ -2901,7 +2901,7 @@
       "fullName": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
       "url": "https://github.com/farion1231/cc-switch",
-      "stars": 114088,
+      "stars": 114102,
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -2926,7 +2926,7 @@
         "wsl-support"
       ],
       "readmePreview": "<div align=\"center\">\n\n# CC Switch\n\n### The All-in-One Manager for Claude Code, Claude Desktop, Codex, Gemini CLI, OpenCode, OpenClaw & Hermes Agent\n\n[![Version](https://img.shields.io/github/v/release/farion1231/cc-switch?color=blue&label=version)](https://github.com/farion1231/cc-switch/releases)\n[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/farion1231/cc-switch/releases)\n[![Built with Tauri](https://img.shields.io/badg",
-      "updatedAt": "2026-07-07T06:20:11Z",
+      "updatedAt": "2026-07-07T06:39:53Z",
       "starredAt": "2026-03-02T03:19:17Z",
       "categories": [
         "Desktop 桌面端"
@@ -3005,7 +3005,7 @@
       "fullName": "ykdojo/claude-code-tips",
       "description": "40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
       "url": "https://github.com/ykdojo/claude-code-tips",
-      "stars": 9051,
+      "stars": 9053,
       "language": "HTML",
       "topics": [
         "agentic",
@@ -3022,7 +3022,7 @@
         "tips-and-tricks"
       ],
       "readmePreview": "# 40+ Claude Code Tips: From Basics to Advanced\n\nHere are my tips for getting the most out of Claude Code, including a custom status line script and Claude Code running itself in a container. Also includes the [dx plugin](#tip-43-install-the-dx-plugin): skills for everyday dev workflows.\n\n📺 [Quick demo](https://www.youtube.com/watch?v=hiISl558JGE) - See some of these tips in action with a multi-Claude workflow and voice input:\n\n[![Demo video thumbnail](assets/demo-thumbnail.png)](https://www.yo",
-      "updatedAt": "2026-07-07T06:16:12Z",
+      "updatedAt": "2026-07-07T06:32:33Z",
       "starredAt": "2026-02-28T16:18:21Z",
       "categories": [
         "Learning 学习资源"
@@ -3105,7 +3105,7 @@
       "fullName": "waooAI/waoowaoo",
       "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
       "url": "https://github.com/waooAI/waoowaoo",
-      "stars": 13137,
+      "stars": 13139,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -3118,7 +3118,7 @@
         "video-generation"
       ],
       "readmePreview": "<p align=\"center\">\n  <a href=\"https://www.waoowaoo.com/\">\n    <img src=\"images/cta-banner.png\" alt=\"🚀 探索 AI 影视的下一代创作流 | 立即加入 waoowaoo 在线网页版内测候补\" width=\"800\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <img src=\"public/banner.png\" alt=\"waoowaoo\" width=\"600\">\n</p>\n\n<h1 align=\"center\">waoowaoo AI 影视 Studio</h1>\n\n<p align=\"center\">\n  一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。\n</p>\n\n<p align=\"center\">\n  <a href=\"README_en.md\">English</a> · <a href=\"https://www.waoowaoo.com/\">加入内测候补</a> · <a href=\"h",
-      "updatedAt": "2026-07-07T06:11:34Z",
+      "updatedAt": "2026-07-07T06:38:27Z",
       "starredAt": "2026-02-28T01:53:01Z",
       "categories": [
         "AI Agent 智能体"
@@ -3155,11 +3155,11 @@
       "fullName": "mgechev/skills-best-practices",
       "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
       "url": "https://github.com/mgechev/skills-best-practices",
-      "stars": 2101,
+      "stars": 2102,
       "language": "Python",
       "topics": [],
       "readmePreview": "# Best Practices for Creating Agent Skills\n\nThis guide explains how to write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.\n\nThis guide is a concentrated set of best practices for creating agent skills. If you're looking for a comprehensive documentation see [Claude's docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices).\n\n**To evaluate if your skills do well and prevent regressions, check out [skillgrade](htt",
-      "updatedAt": "2026-07-07T04:40:12Z",
+      "updatedAt": "2026-07-07T06:24:31Z",
       "starredAt": "2026-02-26T15:38:51Z",
       "categories": [
         "Learning 学习资源"
@@ -3173,7 +3173,7 @@
       "fullName": "router-for-me/CLIProxyAPI",
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
       "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "stars": 39417,
+      "stars": 39419,
       "language": "Go",
       "topics": [
         "antigravity",
@@ -3184,7 +3184,7 @@
         "openai"
       ],
       "readmePreview": "# CLI Proxy API\n\nEnglish | [中文](README_CN.md) | [日本語](README_JA.md)\n\nA proxy server that provides OpenAI/Gemini/Claude/Codex/Grok compatible API interfaces for CLI.\n\nIt now also supports OpenAI Codex (GPT models) and Claude Code via OAuth.\n\nSo you can use local or multi-account CLI access with OpenAI(include Responses)/Gemini/Claude-compatible clients and SDKs.\n\n## Sponsor\n\n[![https://www.packyapi.com/register?aff=cliproxyapi](./assets/packycode-en.png)](https://www.packyapi.com/register?aff=cli",
-      "updatedAt": "2026-07-07T06:17:10Z",
+      "updatedAt": "2026-07-07T06:36:42Z",
       "starredAt": "2026-02-26T09:38:08Z",
       "categories": [
         "LLM 大模型"
@@ -3216,11 +3216,11 @@
       "fullName": "inference-sh/skills",
       "description": "inference.sh Agent skills for using our API to give your agents access to hundreds of apps and other agents",
       "url": "https://github.com/inference-sh/skills",
-      "stars": 588,
+      "stars": 589,
       "language": "Shell",
       "topics": [],
       "readmePreview": "# inference.sh skills\n\nAI agent skills for 250+ models via [inference.sh](https://inference.sh) CLI. Generate images, videos, call LLMs, search the web, and more.\n\n![inference.sh](https://cloud.inference.sh/app/files/u/4mg21r6ta37mpaz6ktzwtt8krr/01kgvqa60jjrqa47j3g5s6ce6v.jpeg)\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n## Contents\n\n- [Install as Claude Code Plugin](#claude-code-plugin)\n- [Install as Skills](#install-as-skills)\n-",
-      "updatedAt": "2026-07-06T21:48:16Z",
+      "updatedAt": "2026-07-07T06:22:37Z",
       "starredAt": "2026-02-25T13:39:58Z",
       "categories": [
         "AI Agent 智能体"
@@ -3234,13 +3234,13 @@
       "fullName": "microsoft/GitHub-Copilot-for-Azure",
       "description": "GitHub Copilot for Azure",
       "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure",
-      "stars": 228,
+      "stars": 229,
       "language": "TypeScript",
       "topics": [
         "agent-skills"
       ],
       "readmePreview": "# GitHub Copilot for Azure\n\nGitHub Copilot for Azure is a set of extensions for Visual Studio, VS Code, and Claude Code designed to streamline the process of developing for Azure. You can ask it questions about your Azure services or get help with tasks related to Azure management and development, all from within your IDE.\n\n[Learn more](https://aka.ms/LearnAboutGitHubCopilotForAzure) about GitHub Copilot for Azure, and get the extension:\n- [VS Code](https://marketplace.visualstudio.com/items?ite",
-      "updatedAt": "2026-07-06T21:56:27Z",
+      "updatedAt": "2026-07-07T06:39:47Z",
       "starredAt": "2026-02-25T10:10:19Z",
       "categories": [
         "Cloud 云服务"
@@ -3296,7 +3296,7 @@
       "fullName": "danielmiessler/LifeOS",
       "description": "An AI-powered Life Operating System for Magnifying Human Capabilities",
       "url": "https://github.com/danielmiessler/LifeOS",
-      "stars": 16425,
+      "stars": 16428,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -3305,7 +3305,7 @@
         "productivity"
       ],
       "readmePreview": "<p align=\"center\">\n  <br />\n  <img src=\"./lifeos-logo-full.png\" alt=\"LifeOS\" width=\"460\">\n  <br />\n</p>\n\n<div align=\"center\">\n\n**The AI-Powered Life Operating System**\n\n[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Your+Life+Operating+System;Current+State+%E2%86%92+Ideal+State;Open+source.+Free.+Forever.)](https://github.com/danielmiessler/LifeOS)\n\n<!-- Social -->\n![Stars](https://img.shield",
-      "updatedAt": "2026-07-07T06:15:48Z",
+      "updatedAt": "2026-07-07T06:34:16Z",
       "starredAt": "2026-02-11T17:37:46Z",
       "categories": [
         "AI Agent 智能体"
@@ -3319,11 +3319,11 @@
       "fullName": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stars": 188696,
+      "stars": 188705,
       "language": "Unknown",
       "topics": [],
       "readmePreview": "# Karpathy-Inspired Claude Code Guidelines\n\n> Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.\n>\n> Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy)\n\nA single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.\n\nEnglish | [简体中文](./README.zh.md)\n\n## T",
-      "updatedAt": "2026-07-07T06:20:31Z",
+      "updatedAt": "2026-07-07T06:38:05Z",
       "starredAt": "2026-02-11T05:16:57Z",
       "categories": [
         "Learning 学习资源"
@@ -3565,7 +3565,7 @@
       "fullName": "VoltAgent/awesome-openclaw-skills",
       "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
       "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
-      "stars": 50992,
+      "stars": 50993,
       "language": "Unknown",
       "topics": [
         "agent-skills",
@@ -3582,7 +3582,7 @@
         "openclaw-skills"
       ],
       "readmePreview": "<div align=\"center\">\n\n<a href=\"https://clawskills.sh/\">\n<img width=\"1500\" height=\"500\" alt=\"social\" src=\"https://github.com/user-attachments/assets/a6f310af-8fed-4766-9649-b190575b399d\" />\n</a>\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <strong>Discover 5300+ community-built OpenClaw skills, organized by category.\n    </strong>\n    <br />\n    <br />\n</div>\n  \n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n[![Skills Count](https://img.shields.io/badge/skills-5199-blue?style=flat-squar",
-      "updatedAt": "2026-07-07T06:04:23Z",
+      "updatedAt": "2026-07-07T06:32:39Z",
       "starredAt": "2026-02-03T15:33:19Z",
       "categories": [
         "Awesome List 资源列表"
@@ -3623,7 +3623,7 @@
       "fullName": "steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "url": "https://github.com/steipete/CodexBar",
-      "stars": 16824,
+      "stars": 16829,
       "language": "Swift",
       "topics": [
         "ai",
@@ -3632,7 +3632,7 @@
         "swift"
       ],
       "readmePreview": "# CodexBar 🎚️ — May your tokens never run out.\n\n> Every AI coding limit, in your menu bar.\n\n[![Latest release](https://img.shields.io/github/v/release/steipete/CodexBar?style=flat-square&color=0a0a0c)](https://github.com/steipete/CodexBar/releases/latest)\n[![macOS 14+](https://img.shields.io/badge/macOS-14%2B-0a0a0c?style=flat-square)](https://github.com/steipete/CodexBar/releases/latest)\n[![Homebrew](https://img.shields.io/badge/brew-steipete%2Ftap%2Fcodexbar-orange?style=flat-square)](https:/",
-      "updatedAt": "2026-07-07T06:16:26Z",
+      "updatedAt": "2026-07-07T06:37:25Z",
       "starredAt": "2026-02-02T08:13:53Z",
       "categories": [
         "Desktop 桌面端"
@@ -3767,11 +3767,11 @@
       "fullName": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
       "url": "https://github.com/FoundationAgents/OpenManus",
-      "stars": 56756,
+      "stars": 56755,
       "language": "Python",
       "topics": [],
       "readmePreview": "<p align=\"center\">\n  <img src=\"assets/logo.jpg\" width=\"200\"/>\n</p>\n\nEnglish | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](README_ja.md)\n\n[![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social)](https://github.com/FoundationAgents/OpenManus/stargazers)\n&ensp;\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;\n[![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](ht",
-      "updatedAt": "2026-07-07T04:12:09Z",
+      "updatedAt": "2026-07-07T06:22:48Z",
       "starredAt": "2026-01-27T07:19:14Z",
       "categories": [
         "AI Agent 智能体"
@@ -3823,7 +3823,7 @@
         "typescript"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"./.github/branding/logo-icon.png\" alt=\"mx-space\" width=\"120\" />\n</p>\n\n<h1 align=\"center\">MX Space Core</h1>\n\n<p align=\"center\">\n  AI-powered CMS Core for personal blogs, creator homepages & content websites.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/mx-space/core/releases\"><img src=\"https://img.shields.io/github/v/release/mx-space/core?style=flat-square\" alt=\"Release\" /></a>\n  <a href=\"https://github.com/mx-space/core/actions/workflows/ci.yml\"><img src",
-      "updatedAt": "2026-07-06T11:12:42Z",
+      "updatedAt": "2026-07-07T06:32:20Z",
       "starredAt": "2026-01-27T06:30:01Z",
       "categories": [
         "Backend 后端"
@@ -3855,11 +3855,11 @@
       "fullName": "op7418/Humanizer-zh",
       "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
       "url": "https://github.com/op7418/Humanizer-zh",
-      "stars": 12556,
+      "stars": 12559,
       "language": "Unknown",
       "topics": [],
       "readmePreview": "# Humanizer-zh: AI 写作去痕工具（中文版）\n\n> **声明：**\n> - 本项目的核心文件翻译自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)\n> - 实用工具部分（核心规则、快速检查清单、质量评分）参考了 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)\n> - 原项目基于维基百科的 [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) 指南\n\n---\n\n## 项目简介\n\nHumanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。\n\n本项目适用于：\n- 编辑和审阅 AI 生成的内容\n- 提升文章的人性化程度\n- 学习识别 AI 写作的常见模式\n\n## 安装\n\n### 方法一：通过 npx 一键安装（推荐）\n\n```b",
-      "updatedAt": "2026-07-07T06:19:00Z",
+      "updatedAt": "2026-07-07T06:39:27Z",
       "starredAt": "2026-01-27T01:23:49Z",
       "categories": [
         "NLP 自然语言"
@@ -3873,7 +3873,7 @@
       "fullName": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "url": "https://github.com/openclaw/openclaw",
-      "stars": 381998,
+      "stars": 382004,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -3885,7 +3885,7 @@
         "personal"
       ],
       "readmePreview": "# 🦞 OpenClaw — Personal AI Assistant\n\n<p align=\"center\">\n    <picture>\n        <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\">\n        <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\">\n    </picture>\n</p>\n\n<p align=\"center\">\n  <strong>EXFOLIATE! EXFOLIATE!</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://git",
-      "updatedAt": "2026-07-07T06:20:26Z",
+      "updatedAt": "2026-07-07T06:38:57Z",
       "starredAt": "2026-01-25T15:28:49Z",
       "categories": [
         "AI Agent 智能体"
@@ -3969,7 +3969,7 @@
       "fullName": "JimLiu/baoyu-skills",
       "description": "",
       "url": "https://github.com/JimLiu/baoyu-skills",
-      "stars": 23217,
+      "stars": 23218,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -3978,7 +3978,7 @@
         "openclaw-skills"
       ],
       "readmePreview": "# baoyu-skills\n\nEnglish | [中文](./README.zh.md)\n\nSkills shared by Baoyu for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.).\n\n## Prerequisites\n\n- Node.js environment installed\n- Ability to run `npx bun` commands\n\n## Installation\n\n> **Tip**: This repository contains 20+ skills. Install only the ones you actually need — bulk-installing every skill adds unnecessary context overhead for your AI agent on every run.\n\n### Quick Install (Recommended)\n\n```bash\nnpx skills add jiml",
-      "updatedAt": "2026-07-07T06:16:57Z",
+      "updatedAt": "2026-07-07T06:20:45Z",
       "starredAt": "2026-01-23T05:49:41Z",
       "categories": [
         "AI Agent 智能体"
@@ -3992,11 +3992,11 @@
       "fullName": "vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
       "url": "https://github.com/vercel-labs/skills",
-      "stars": 25280,
+      "stars": 25284,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "# skills\n\nThe CLI for the open agent skills ecosystem.\n\n<!-- agent-list:start -->\nSupports **OpenCode**, **Claude Code**, **Codex**, **Cursor**, and [68 more](#supported-agents).\n<!-- agent-list:end -->\n\n[![skills.sh](https://skills.sh/b/vercel-labs/skills)](https://skills.sh/vercel-labs/skills)\n\n## Install a Skill\n\n```bash\nnpx skills add vercel-labs/agent-skills\n```\n\n## Use a Skill Without Installing\n\nGenerate a prompt for one skill, or start a supported coding agent interactively:\n\n```bash\nnpx",
-      "updatedAt": "2026-07-07T06:13:58Z",
+      "updatedAt": "2026-07-07T06:36:13Z",
       "starredAt": "2026-01-21T08:49:25Z",
       "categories": [
         "CLI 命令行"
@@ -4092,11 +4092,11 @@
       "fullName": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "url": "https://github.com/anomalyco/opencode",
-      "stars": 183120,
+      "stars": 183128,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"htt",
-      "updatedAt": "2026-07-07T06:19:09Z",
+      "updatedAt": "2026-07-07T06:39:45Z",
       "starredAt": "2026-01-20T09:18:06Z",
       "categories": [
         "AI Agent 智能体"
@@ -4142,7 +4142,7 @@
       "fullName": "expo/expo",
       "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
       "url": "https://github.com/expo/expo",
-      "stars": 50486,
+      "stars": 50487,
       "language": "TypeScript",
       "topics": [
         "android",
@@ -4163,7 +4163,7 @@
         "web-framework"
       ],
       "readmePreview": "<!-- Banner Image -->\n\n<p align=\"center\">\n  <a href=\"https://expo.dev/\">\n    <img alt=\"Expo logo\" height=\"128\" src=\"./.github/resources/banner.png\">\n    <h1 align=\"center\">Expo</h1>\n  </a>\n</p>\n\n<p align=\"center\">\n   <a aria-label=\"SDK version\" href=\"https://www.npmjs.com/package/expo\" target=\"_blank\">\n    <img alt=\"Expo SDK version\" src=\"https://img.shields.io/npm/v/expo.svg?style=flat-square&label=SDK&labelColor=000000&color=4630EB\" />\n  </a>\n  <a aria-label=\"Chat or ask a question\" href=\"http",
-      "updatedAt": "2026-07-07T06:13:34Z",
+      "updatedAt": "2026-07-07T06:38:03Z",
       "starredAt": "2026-01-19T02:51:45Z",
       "categories": [
         "Mobile 移动端"
@@ -4280,7 +4280,7 @@
       "fullName": "dyad-sh/dyad",
       "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "url": "https://github.com/dyad-sh/dyad",
-      "stars": 20840,
+      "stars": 20839,
       "language": "TypeScript",
       "topics": [
         "ai-app-builder",
@@ -4304,7 +4304,7 @@
         "vercel"
       ],
       "readmePreview": "# Dyad\n\nDyad is a local, open-source AI app builder. It's fast, private, and fully under your control — like Lovable, v0, or Bolt, but running right on your machine.\n\n[![Image](https://github.com/user-attachments/assets/f6c83dfc-6ffd-4d32-93dd-4b9c46d17790)](https://dyad.sh/)\n\nMore info at: [https://dyad.sh/](https://dyad.sh/)\n\n## 🚀 Features\n\n- ⚡️ **Local**: Fast, private and no lock-in.\n- 🛠 **Bring your own keys**: Use your own AI API keys — no vendor lock-in.\n- 🖥️ **Cross-platform**: Easy t",
-      "updatedAt": "2026-07-07T06:02:29Z",
+      "updatedAt": "2026-07-07T06:35:04Z",
       "starredAt": "2026-01-19T02:49:01Z",
       "categories": [
         "DevTools 开发者工具"
@@ -4409,7 +4409,7 @@
       "fullName": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
       "url": "https://github.com/FlowiseAI/Flowise",
-      "stars": 54351,
+      "stars": 54353,
       "language": "TypeScript",
       "topics": [
         "agentic-ai",
@@ -4431,7 +4431,7 @@
         "workflow-automation"
       ],
       "readmePreview": "<!-- markdownlint-disable MD030 -->\n\n<p align=\"center\">\n<img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only\">\n<img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only\">\n</p>\n\n<div align=\"center\">\n\n[![Release Notes](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases)\n[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord",
-      "updatedAt": "2026-07-07T06:01:21Z",
+      "updatedAt": "2026-07-07T06:31:27Z",
       "starredAt": "2026-01-19T02:48:56Z",
       "categories": [
         "AI Agent 智能体"
@@ -4445,7 +4445,7 @@
       "fullName": "nguyenphutrong/quotio",
       "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.",
       "url": "https://github.com/nguyenphutrong/quotio",
-      "stars": 4522,
+      "stars": 4524,
       "language": "Swift",
       "topics": [
         "ai-tools",
@@ -4454,7 +4454,7 @@
         "quota-monitor"
       ],
       "readmePreview": "# Quotio\n\n<p align=\"center\">\n  <picture>\n    <img alt=\"Quotio Banner\" src=\"screenshots/menu_bar.png\" width=\"720\" />\n  </picture>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat\" alt=\"Platform macOS\" />\n  <img src=\"https://img.shields.io/badge/language-Swift-orange.svg?style=flat\" alt=\"Language Swift\" />\n  <img src=\"https://img.shields.io/badge/license-MIT-blue.svg?style=flat\" alt=\"License MIT\" />\n  <a href=\"https://discord.gg/dFzeZ7qS\"><i",
-      "updatedAt": "2026-07-06T15:55:39Z",
+      "updatedAt": "2026-07-07T06:35:53Z",
       "starredAt": "2026-01-16T02:09:07Z",
       "categories": [
         "Desktop 桌面端"
@@ -4468,11 +4468,11 @@
       "fullName": "vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-browser",
-      "stars": 37980,
+      "stars": 37983,
       "language": "Rust",
       "topics": [],
       "readmePreview": "# agent-browser\n\nBrowser automation CLI for AI agents. Fast native Rust CLI.\n\n[![skills.sh](https://skills.sh/b/vercel-labs/agent-browser)](https://skills.sh/vercel-labs/agent-browser)\n\n## Installation\n\n### Global Installation (recommended)\n\nInstalls the native Rust binary:\n\n```bash\nnpm install -g agent-browser\nagent-browser install  # Download Chrome from Chrome for Testing (first time only)\n```\n\n### Project Installation (local dependency)\n\nFor projects that want to pin the version in `package.",
-      "updatedAt": "2026-07-07T06:15:42Z",
+      "updatedAt": "2026-07-07T06:39:36Z",
       "starredAt": "2026-01-15T07:58:23Z",
       "categories": [
         "CLI 命令行"
@@ -4486,7 +4486,7 @@
       "fullName": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "stars": 31698,
+      "stars": 31699,
       "language": "Python",
       "topics": [
         "claude-code",
@@ -4494,7 +4494,7 @@
         "skills"
       ],
       "readmePreview": "# Claude Code Plugins Directory\n\nA curated directory of high-quality plugins for Claude Code.\n\n> **⚠️ Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information.\n\n## Structure\n\n- **`/plugins`** - Internal plugins developed and maintained by Anthropic\n- **`",
-      "updatedAt": "2026-07-07T06:16:51Z",
+      "updatedAt": "2026-07-07T06:38:40Z",
       "starredAt": "2026-01-15T05:25:55Z",
       "categories": [
         "Awesome List 资源列表"
@@ -4508,11 +4508,11 @@
       "fullName": "vercel-labs/agent-skills",
       "description": "Vercel's official collection of agent skills",
       "url": "https://github.com/vercel-labs/agent-skills",
-      "stars": 28755,
+      "stars": 28756,
       "language": "JavaScript",
       "topics": [],
       "readmePreview": "# Agent Skills\n\nA collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.\n\nSkills follow the [Agent Skills](https://agentskills.io/) format.\n\n[![skills.sh](https://skills.sh/b/vercel-labs/agent-skills)](https://skills.sh/vercel-labs/agent-skills)\n\n## Available Skills\n\n### vercel-optimize\n\nAudits a Vercel project for cost, performance, reliability, caching, function usage, and billing opportunities. It collects Vercel metrics first, ",
-      "updatedAt": "2026-07-07T06:10:55Z",
+      "updatedAt": "2026-07-07T06:36:45Z",
       "starredAt": "2026-01-15T05:25:42Z",
       "categories": [
         "Awesome List 资源列表"
@@ -4645,7 +4645,7 @@
       "fullName": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 101863,
+      "stars": 101878,
       "language": "Python",
       "topics": [
         "ai-skills",
@@ -4669,7 +4669,7 @@
         "windsurf-ai"
       ],
       "readmePreview": "# [UI UX Pro Max](https://uupm.cc)\n\n<p align=\"center\">\n  <a href=\"https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.zh.md\">🇨🇳 简体中文</a> | \n  <a href=\"https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md\">🇺🇸 English</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases\"><img src=\"https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue\" alt=\"GitHub",
-      "updatedAt": "2026-07-07T06:19:51Z",
+      "updatedAt": "2026-07-07T06:39:42Z",
       "starredAt": "2026-01-06T02:36:45Z",
       "categories": [
         "AI Agent 智能体"
@@ -4683,7 +4683,7 @@
       "fullName": "code-yeongyu/oh-my-openagent",
       "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "stars": 65092,
+      "stars": 65095,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -4703,7 +4703,7 @@
         "typescript"
       ],
       "readmePreview": "> [!NOTE]\n> **OmO for Codex is here: try LazyCodex**\n>\n> We loved Anthropic models enough to get blocked. Now we are backing Codex.\n> If you are an OmO fan but the setup felt like too much, use LazyCodex. OmO for Codex has shipped:\n> ```bash\n> npx lazycodex-ai install\n> ```\n> Learn more at [lazycodex.ai](https://lazycodex.ai).\n\n> [!NOTE]\n> **Multi-Harness Agent OS Refactor in Progress**\n>\n> We are restructuring the codebase to support multiple agent harnesses (OpenCode, Codex, Pi, and others). I",
-      "updatedAt": "2026-07-07T06:05:37Z",
+      "updatedAt": "2026-07-07T06:33:35Z",
       "starredAt": "2026-01-05T08:56:31Z",
       "categories": [
         "AI Agent 智能体"
@@ -4717,7 +4717,7 @@
       "fullName": "DavidHDev/react-bits",
       "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
       "url": "https://github.com/DavidHDev/react-bits",
-      "stars": 42886,
+      "stars": 42888,
       "language": "JavaScript",
       "topics": [
         "3d",
@@ -4738,7 +4738,7 @@
         "web"
       ],
       "readmePreview": "<div align=\"center\">\n\t<br>\n\t<br>\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"src/assets/logos/reactbits-gh-black.svg\">\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"src/assets/logos/reactbits-gh-white.svg\">\n      <img src=\"src/assets/logos/reactbits-gh-black.svg\" alt=\"react-bits logo\" width=\"600\">\n    </picture>\n\t<br>\n\t<br>\n  <strong>The largest & most creative library of animated React components.</strong>\n  <br />\n  <sub>Stand out with 130+ free, cust",
-      "updatedAt": "2026-07-07T06:07:18Z",
+      "updatedAt": "2026-07-07T06:29:33Z",
       "starredAt": "2026-01-05T08:07:52Z",
       "categories": [
         "UI Components 组件"
@@ -4752,13 +4752,13 @@
       "fullName": "anthropics/skills",
       "description": "Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 158935,
+      "stars": 158939,
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
       "readmePreview": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).\n\n[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)\n\n# Skills\nSkills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that",
-      "updatedAt": "2026-07-07T06:18:50Z",
+      "updatedAt": "2026-07-07T06:40:02Z",
       "starredAt": "2026-01-05T07:11:57Z",
       "categories": [
         "AI Agent 智能体"
@@ -4772,7 +4772,7 @@
       "fullName": "BloopAI/vibe-kanban",
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "url": "https://github.com/BloopAI/vibe-kanban",
-      "stars": 27294,
+      "stars": 27295,
       "language": "Rust",
       "topics": [
         "agent",
@@ -4782,7 +4782,7 @@
         "task-manager"
       ],
       "readmePreview": "<p align=\"center\">\n  <a href=\"https://vibekanban.com\">\n    <picture>\n      <source srcset=\"packages/public/vibe-kanban-logo-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/public/vibe-kanban-logo.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/public/vibe-kanban-logo.svg\" alt=\"Vibe Kanban Logo\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents...</p>\n<p align=\"center\">",
-      "updatedAt": "2026-07-07T05:46:24Z",
+      "updatedAt": "2026-07-07T06:23:11Z",
       "starredAt": "2026-01-01T08:52:04Z",
       "categories": [
         "AI Agent 智能体"
@@ -4856,11 +4856,11 @@
       "fullName": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "stars": 16898,
+      "stars": 16899,
       "language": "Python",
       "topics": [],
       "readmePreview": "# Agent Skills for Context Engineering\n\nA comprehensive, open collection of Agent Skills focused on context engineering and harness engineering principles for building production-grade AI agent systems. These skills teach the art and science of curating context, designing agent operating loops, and evaluating agent behavior across any agent platform.\n\n[DeepWiki: Learn more here](https://deepwiki.com/muratcankoylan/Agent-Skills-for-Context-Engineering)\n\n## What is Context Engineering?\n\nContext en",
-      "updatedAt": "2026-07-07T04:19:16Z",
+      "updatedAt": "2026-07-07T06:28:43Z",
       "starredAt": "2025-12-30T02:27:32Z",
       "categories": [
         "AI Agent 智能体"
@@ -4931,7 +4931,7 @@
       "fullName": "thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 86208,
+      "stars": 86212,
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -4956,7 +4956,7 @@
         "supermemory"
       ],
       "readmePreview": "<h1 align=\"center\">\n  <br>\n  <a href=\"https://github.com/thedotmack/claude-mem\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-dark-mode.webp\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/thedotmack/claude-mem/main/docs/public/claude-mem-logo-for-light-mode.webp\">\n      <img src=\"https://raw.githubusercontent.com/thedotmack/clau",
-      "updatedAt": "2026-07-07T06:11:50Z",
+      "updatedAt": "2026-07-07T06:38:28Z",
       "starredAt": "2025-12-19T09:06:29Z",
       "categories": [
         "AI Agent 智能体"
@@ -4970,7 +4970,7 @@
       "fullName": "yusufkaraaslan/Skill_Seekers",
       "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
       "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "stars": 14382,
+      "stars": 14381,
       "language": "Python",
       "topics": [
         "ai-tools",
@@ -4993,7 +4993,7 @@
         "web-scraping"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"docs/assets/logo.png\" alt=\"Skill Seekers\" width=\"200\"/>\n</p>\n\n# Skill Seekers\n\nEnglish | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Português](README.pt-BR.md) | [Türkçe](README.tr.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [Русский](README.ru.md)\n\n[![Version](https://img.shields.io/badge/version-3.7.0-blue.svg)](https://github.com/yusufkaraaslan",
-      "updatedAt": "2026-07-07T01:01:40Z",
+      "updatedAt": "2026-07-07T06:21:49Z",
       "starredAt": "2025-12-19T08:52:39Z",
       "categories": [
         "Scraping 爬虫"
@@ -5007,7 +5007,7 @@
       "fullName": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "stars": 247995,
+      "stars": 248019,
       "language": "Shell",
       "topics": [
         "ai",
@@ -5020,7 +5020,7 @@
         "superpowers"
       ],
       "readmePreview": "# Superpowers\n\nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.\n\n\n## We're Hiring!\n\nWe're hiring someone to help out full time with Superpowers community and code work. \nYou can read about the job at https://primeradiant.com/jobs/superpowers-community-engineer/\nIf this sounds like someone you know, definitely send them our way.\n\n## Quickstart\n\nGive your ",
-      "updatedAt": "2026-07-07T06:21:19Z",
+      "updatedAt": "2026-07-07T06:39:37Z",
       "starredAt": "2025-12-19T08:52:26Z",
       "categories": [
         "AI Agent 智能体"
@@ -5034,11 +5034,11 @@
       "fullName": "diet103/claude-code-infrastructure-showcase",
       "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
       "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-      "stars": 9739,
+      "stars": 9738,
       "language": "Shell",
       "topics": [],
       "readmePreview": "# Claude Code Infrastructure Showcase\n\n**A curated reference library of production-tested Claude Code infrastructure.**\n\nBorn from 6 months of real-world use managing a complex TypeScript microservices project, this showcase provides the patterns and systems that solved the \"skills don't activate automatically\" problem and scaled Claude Code for enterprise development.\n\n> **This is NOT a working application** - it's a reference library. Copy what you need into your own projects.\n\n---\n\n## What's ",
-      "updatedAt": "2026-07-06T13:25:10Z",
+      "updatedAt": "2026-07-07T06:25:28Z",
       "starredAt": "2025-12-19T08:52:08Z",
       "categories": [
         "Learning 学习资源"
@@ -5052,7 +5052,7 @@
       "fullName": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "stars": 67025,
+      "stars": 67030,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -5074,7 +5074,7 @@
         "workflow-automation"
       ],
       "readmePreview": "<h1 align=\"center\">Awesome Claude Skills</h1>\n\n<p align=\"center\">\n<a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\">\n  <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\">\n</a>\n\n\n</p>\n\n<p align=\"center\">\n  <a href=\"https://awesome.re\">\n    <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" />\n  </a>\n  <a href=\"https://makeapull",
-      "updatedAt": "2026-07-07T06:06:51Z",
+      "updatedAt": "2026-07-07T06:32:08Z",
       "starredAt": "2025-12-19T08:51:54Z",
       "categories": [
         "Awesome List 资源列表"
@@ -5103,7 +5103,7 @@
         "themeing"
       ],
       "readmePreview": "<div align=\"center\">\n\n<pre>\n              _        _             _ _            \n  ___ ___ ___| |_ __ _| |_ _   _ ___| (_)_ __   ___ \n / __/ __/ __| __/ _` | __| | | / __| | | '_ \\ / _ \\\n| (_| (__\\__ \\ || (_| | |_| |_| \\__ \\ | | | | |  __/\n \\___\\___|___/\\__\\__,_|\\__|\\__,_|___/_|_|_| |_|\\___|\n                                                     \n</pre>\n\n# ccstatusline\n\n**🎨 A highly customizable status line formatter for Claude Code CLI**\n*Display model info, git branch, token usage, and other me",
-      "updatedAt": "2026-07-07T05:29:31Z",
+      "updatedAt": "2026-07-07T06:37:50Z",
       "starredAt": "2025-12-16T07:00:24Z",
       "categories": [
         "CLI 命令行"
@@ -5230,7 +5230,7 @@
       "fullName": "coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "url": "https://github.com/coleam00/Archon",
-      "stars": 22751,
+      "stars": 22752,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -5245,7 +5245,7 @@
         "yaml"
       ],
       "readmePreview": "<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"Archon\" width=\"160\" />\n</p>\n\n<h1 align=\"center\">Archon</h1>\n\n<p align=\"center\">\n  The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/13964\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/13964\" alt=\"coleam00%2FArchon | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p",
-      "updatedAt": "2026-07-07T05:32:06Z",
+      "updatedAt": "2026-07-07T06:34:32Z",
       "starredAt": "2025-12-09T08:17:20Z",
       "categories": [
         "AI Agent 智能体"
@@ -5259,7 +5259,7 @@
       "fullName": "oraios/serena",
       "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
       "url": "https://github.com/oraios/serena",
-      "stars": 26158,
+      "stars": 26159,
       "language": "Python",
       "topics": [
         "agent",
@@ -5276,7 +5276,7 @@
         "vibe-coding"
       ],
       "readmePreview": "<p align=\"center\" style=\"text-align:center;\">\n  <img src=\"resources/serena-logo.svg#gh-light-mode-only\" style=\"width:500px\">\n  <img src=\"resources/serena-logo-dark-mode.svg#gh-dark-mode-only\" style=\"width:500px\">\n</p>\n\n<h3 align=\"center\">\n    The IDE for Your Coding Agent\n</h3>\n\n<div align=\"center\">\n  <a href=\"https://discord.com/invite/cVUNQmnV4r\"><img src=\"https://img.shields.io/badge/discord-join-5865F2?style=flat-square&labelColor=0a0e14&logo=discord&logoColor=5865F2\" alt=\"discord\"></a>\n  <a",
-      "updatedAt": "2026-07-07T05:50:39Z",
+      "updatedAt": "2026-07-07T06:34:40Z",
       "starredAt": "2025-12-09T07:45:43Z",
       "categories": [
         "AI Agent 智能体"
@@ -5343,7 +5343,7 @@
       "fullName": "DayuanJiang/next-ai-draw-io",
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
       "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "stars": 32886,
+      "stars": 32887,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -5351,7 +5351,7 @@
         "productivity"
       ],
       "readmePreview": "# Next AI Draw.io\n\n<div align=\"center\">\n\n**AI-Powered Diagram Creation Tool - Chat, Draw, Visualize**\n\nEnglish | [中文](./docs/cn/README_CN.md) | [日本語](./docs/ja/README_JA.md)\n\n[![TrendShift](https://trendshift.io/api/badge/repositories/15449)](https://next-ai-drawio.jiang.jp/)\n\n[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n[![Next.js](https://img.shields.io/badge/Next.js-16.x-black)](https://nextjs.org/)\n[![React](",
-      "updatedAt": "2026-07-07T06:16:27Z",
+      "updatedAt": "2026-07-07T06:38:10Z",
       "starredAt": "2025-12-03T06:20:47Z",
       "categories": [
         "Full-Stack 全栈"
@@ -5420,7 +5420,7 @@
         "software"
       ],
       "readmePreview": "<div align=\"center\" markdown=\"1\">\n  <sup>Special thanks to:</sup>\n  <br>\n  <br>\n\n  <a href=\"https://screensage.pro/\">\n    <img alt=\"ScreenSage Pro\" width=\"400\" src=\"https://jaywcjlove.github.io/sponsor/screensage.png\">\n  </a>\n  <br>\n  <a href=\"https://screensage.pro/\">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>\n  <br><br>\n\n  <a href=\"https://ip.im/\">\n    <img alt=\"IP.IM\" width=\"400\" src=\"https://jaywcjlove.github.io/sponsor/ip.im.png\">\n  </a>\n  <br>\n  <a href=\"http",
-      "updatedAt": "2026-07-07T03:34:16Z",
+      "updatedAt": "2026-07-07T06:36:14Z",
       "starredAt": "2025-12-01T08:41:07Z",
       "categories": [
         "Awesome List 资源列表"
@@ -5512,7 +5512,7 @@
       "fullName": "google-gemini/gemini-cli",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 105816,
+      "stars": 105817,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -5524,7 +5524,7 @@
         "mcp-server"
       ],
       "readmePreview": "# Gemini CLI\n\n[![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)\n[![Gemini CLI E2E (Chained)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml)\n[![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)\n[![Lice",
-      "updatedAt": "2026-07-07T05:33:52Z",
+      "updatedAt": "2026-07-07T06:36:39Z",
       "starredAt": "2025-11-23T13:44:41Z",
       "categories": [
         "AI Agent 智能体"
@@ -5538,7 +5538,7 @@
       "fullName": "tw93/Mole",
       "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
       "url": "https://github.com/tw93/Mole",
-      "stars": 58137,
+      "stars": 58141,
       "language": "Shell",
       "topics": [
         "analyzer",
@@ -5558,7 +5558,7 @@
         "uninstall"
       ],
       "readmePreview": "<div align=\"center\">\n  <h1>Mole</h1>\n  <p><em>🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.</em></p>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://github.com/tw93/mole/stargazers\"><img src=\"https://img.shields.io/github/stars/tw93/mole?style=flat-square\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/tw93/mole/releases\"><img src=\"https://img.shields.io/github/v/tag/tw93/mole?label=version&style=flat-square\" alt=\"Version\"></a>\n  <a href=\"LICENSE\"><img src=\"https:",
-      "updatedAt": "2026-07-07T05:58:04Z",
+      "updatedAt": "2026-07-07T06:39:56Z",
       "starredAt": "2025-11-23T07:08:45Z",
       "categories": [
         "System 系统工具"
@@ -5646,7 +5646,7 @@
       "fullName": "sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "url": "https://github.com/sansan0/TrendRadar",
-      "stars": 60314,
+      "stars": 60316,
       "language": "Python",
       "topics": [
         "ai",
@@ -5667,7 +5667,7 @@
         "wework"
       ],
       "readmePreview": "<div align=\"center\" id=\"trendradar\">\n\n<a href=\"https://github.com/sansan0/TrendRadar\" title=\"TrendRadar\">\n  <img src=\"/_image/banner.webp\" alt=\"TrendRadar Banner\" width=\"80%\">\n</a>\n\n最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯\n\n<a href=\"https://trendradar.sandev.cc/zh/\" title=\"TrendRadar 官方网站\"><strong>🌐 官方网站</strong></a> · <a href=\"https://trendradar.sandev.cc/zh/docs/quick-start/\" title=\"TrendRadar 官网文档\"><strong>📖 官网文档</strong></a>\n\n<a href=\"https://trendshift.io/repositories/14726\" ta",
-      "updatedAt": "2026-07-07T06:15:14Z",
+      "updatedAt": "2026-07-07T06:38:51Z",
       "starredAt": "2025-11-15T15:20:19Z",
       "categories": [
         "AI Agent 智能体"
@@ -5681,7 +5681,7 @@
       "fullName": "timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
       "url": "https://github.com/timqian/chinese-independent-blogs",
-      "stars": 23494,
+      "stars": 23493,
       "language": "Python",
       "topics": [
         "blog",
@@ -5689,7 +5689,7 @@
         "rss"
       ],
       "readmePreview": "# 中文独立博客列表\n\n  [![](https://badgen.net/badge/icon/Website?icon=chrome&label)](https://feeds.pub/cn-indie)  [![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/indieBlogs)  [![](https://badgen.net/badge/icon/Blog?icon=chrome&label)](https://blog.t9t.io/cn-indie-blogs-2019-10-29/) [![g-star](https://gitcode.com/timqian/chinese-independent-blogs/star/badge.svg)](https://gitcode.com/timqian/chinese-independent-blogs)\n\n## Sponsors\n\n[琚致远](https://github.com/juzhiyuan) | [Byte",
-      "updatedAt": "2026-07-07T06:12:58Z",
+      "updatedAt": "2026-07-07T06:30:52Z",
       "starredAt": "2025-11-15T09:37:31Z",
       "categories": [
         "Awesome List 资源列表"
@@ -5753,7 +5753,7 @@
       "fullName": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "url": "https://github.com/github/spec-kit",
-      "stars": 118474,
+      "stars": 118475,
       "language": "Python",
       "topics": [
         "ai",
@@ -5765,7 +5765,7 @@
         "spec-driven"
       ],
       "readmePreview": "<div align=\"center\">\n    <img src=\"./media/logo_large.webp\" alt=\"Spec Kit Logo\" width=\"200\" height=\"200\"/>\n    <h1>🌱 Spec Kit</h1>\n    <h3><em>Build high-quality software faster.</em></h3>\n</div>\n\n<p align=\"center\">\n    <strong>An open source toolkit that allows you to focus on product scenarios and predictable outcomes instead of vibe coding every piece from scratch.</strong>\n</p>\n\n<p align=\"center\">\n    <a href=\"https://github.com/github/spec-kit/releases/latest\"><img src=\"https://img.shields",
-      "updatedAt": "2026-07-07T06:19:50Z",
+      "updatedAt": "2026-07-07T06:32:45Z",
       "starredAt": "2025-11-01T16:31:53Z",
       "categories": [
         "DevTools 开发者工具"
@@ -5797,7 +5797,7 @@
       "fullName": "davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
-      "stars": 28485,
+      "stars": 28484,
       "language": "Python",
       "topics": [
         "anthropic",
@@ -5806,7 +5806,7 @@
         "claude-code"
       ],
       "readmePreview": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)\n[![Sponsored by Z.AI](https://img.shields.io/",
-      "updatedAt": "2026-07-07T05:08:22Z",
+      "updatedAt": "2026-07-07T06:31:01Z",
       "starredAt": "2025-10-11T13:47:02Z",
       "categories": [
         "CLI 命令行"
@@ -5856,7 +5856,7 @@
       "fullName": "UfoMiao/zcf",
       "description": "Zero-Config Code Flow for Claude code & Codex",
       "url": "https://github.com/UfoMiao/zcf",
-      "stars": 6068,
+      "stars": 6067,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -5881,7 +5881,7 @@
         "zcf"
       ],
       "readmePreview": "[![npm version][npm-version-src]][npm-version-href]\n[![npm downloads][npm-downloads-src]][npm-downloads-href]\n[![License][license-src]][license-href]\n[![Claude Code][claude-code-src]][claude-code-href]\n[![codecov][codecov-src]][codecov-href]\n[![JSDocs][jsdocs-src]][jsdocs-href]\n[![Ask DeepWiki][deepwiki-src]][deepwiki-href]\n\n<div align=\"center\">\n  <img src=\"./src/assets/banner.webp\" alt=\"Banner\"/>\n\n  <h1>\n    ZCF - Zero-Config Code Flow\n  </h1>\n\n  <p align=\"center\">\n  <b>English</b> | <a href=\"R",
-      "updatedAt": "2026-07-07T00:46:02Z",
+      "updatedAt": "2026-07-07T06:32:59Z",
       "starredAt": "2025-08-22T01:26:09Z",
       "categories": [
         "AI Agent 智能体"
@@ -5903,7 +5903,7 @@
         "swift"
       ],
       "readmePreview": "<div align=\"center\">\n  <img src=\"VoiceInk/Assets.xcassets/AppIcon.appiconset/256-mac.png\" width=\"180\" height=\"180\" />\n  <h1>VoiceInk</h1>\n  <p>Voice to text app for macOS to transcribe what you say to text almost instantly</p>\n\n  [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\n  ![Platform](https://img.shields.io/badge/platform-macOS%2014.0%2B-brightgreen)\n  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Bein",
-      "updatedAt": "2026-07-07T05:23:59Z",
+      "updatedAt": "2026-07-07T06:37:55Z",
       "starredAt": "2025-08-21T13:24:29Z",
       "categories": [
         "Desktop 桌面端"
@@ -6044,7 +6044,7 @@
       "fullName": "web-infra-dev/rspack",
       "description": "Fast Rust-based bundler for the web with a modernized webpack API 🦀",
       "url": "https://github.com/web-infra-dev/rspack",
-      "stars": 12801,
+      "stars": 12800,
       "language": "Rust",
       "topics": [
         "build-tool",
@@ -6064,7 +6064,7 @@
         "webpack"
       ],
       "readmePreview": "<picture>\n  <img alt=\"Rspack Banner\" src=\"https://assets.rspack.rs/rspack/rspack-banner.png\">\n</picture>\n\n# Rspack\n\n<p>\n  <a href=\"https://discord.gg/79ZZ66GH9E\"><img src=\"https://img.shields.io/badge/chat-discord-blue?style=flat-square&logo=discord&colorA=564341&colorB=EDED91\" alt=\"discord channel\" /></a>\n  <a href=\"https://www.npmjs.com/package/@rspack/core?activeTab=readme\"><img src=\"https://img.shields.io/npm/v/@rspack/core?style=flat-square&colorA=564341&colorB=EDED91\" alt=\"npm version\" /><",
-      "updatedAt": "2026-07-07T04:47:41Z",
+      "updatedAt": "2026-07-07T06:28:38Z",
       "starredAt": "2025-08-11T07:21:58Z",
       "categories": [
         "Build 构建工具"
@@ -6193,7 +6193,7 @@
       "fullName": "hanxi/xiaomusic",
       "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
       "url": "https://github.com/hanxi/xiaomusic",
-      "stars": 10017,
+      "stars": 10016,
       "language": "Python",
       "topics": [
         "docker",
@@ -6208,7 +6208,7 @@
         "xiaomusic"
       ],
       "readmePreview": "# XiaoMusic: 无限听歌，解放小爱音箱\n\n> [!IMPORTANT]\n> **📢 项目停止维护通知**\n>\n> 因个人精力有限，需将重心转移到其他项目，本项目将停止维护，不再接受新功能开发与 bug 修复，已有 issue 与 PR 也不再处理。\n>\n> 后续推荐使用社区接力项目：**[songloft-org/songloft](https://github.com/songloft-org/songloft)**，欢迎大家迁移、参与共建。\n>\n> 衷心感谢一路以来所有用户的支持与陪伴 ❤️\n\n[![GitHub License](https://img.shields.io/github/license/hanxi/xiaomusic)](https://github.com/hanxi/xiaomusic)\n[![Docker Image Version](https://img.shields.io/docker/v/hanxi/xiaomusic?sort=semver&label=docker%20image)](https://hub.docker.com/",
-      "updatedAt": "2026-07-06T23:33:16Z",
+      "updatedAt": "2026-07-07T06:32:09Z",
       "starredAt": "2025-07-18T02:47:44Z",
       "categories": [
         "Backend 后端"
@@ -6344,11 +6344,11 @@
       "fullName": "antfu/node-modules-inspector",
       "description": "Interactive UI for local node modules inspection",
       "url": "https://github.com/antfu/node-modules-inspector",
-      "stars": 2897,
+      "stars": 2898,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "![Logo](./packages/node-modules-inspector/src/public/favicon.svg)\n\n# Node Modules Inspector\n\n[![npm version][npm-version-src]][npm-version-href]\n[![npm downloads][npm-downloads-src]][npm-downloads-href]\n[![bundle][bundle-src]][bundle-href]\n[![JSDocs][jsdocs-src]][jsdocs-href]\n[![License][license-src]][license-href]\n\nVisualize your node_modules, inspect dependencies, and more.\n\n## Quick Start\n\nTry it by running following command under your `pnpm`/`npm`/`bun` project.\n\n```bash\npnpx node-modules-in",
-      "updatedAt": "2026-07-07T05:52:35Z",
+      "updatedAt": "2026-07-07T06:39:34Z",
       "starredAt": "2025-06-12T02:08:33Z",
       "categories": [
         "DevTools 开发者工具"
@@ -6407,7 +6407,7 @@
       "fullName": "rust-lang/rustlings",
       "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
       "url": "https://github.com/rust-lang/rustlings",
-      "stars": 63457,
+      "stars": 63458,
       "language": "Rust",
       "topics": [
         "beginner-friendly",
@@ -6416,7 +6416,7 @@
         "rustlings"
       ],
       "readmePreview": "# [Rustlings](https://rustlings.rust-lang.org) 🦀\n\nSmall exercises to get you used to reading and writing [Rust](https://www.rust-lang.org) code - _Recommended in parallel to reading [the official Rust book](https://doc.rust-lang.org/book) 📚️_\n\nVisit the **website** for a demo, info about setup and more:\n\n## ➡️ [rustlings.rust-lang.org](https://rustlings.rust-lang.org) ⬅️\n",
-      "updatedAt": "2026-07-07T05:29:52Z",
+      "updatedAt": "2026-07-07T06:25:45Z",
       "starredAt": "2025-05-22T03:06:25Z",
       "categories": [
         "Learning 学习资源"
@@ -6548,11 +6548,11 @@
       "fullName": "unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "url": "https://github.com/unclecode/crawl4ai",
-      "stars": 71230,
+      "stars": 71231,
       "language": "Python",
       "topics": [],
       "readmePreview": "# 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.\n\n<div align=\"center\">\n\n<a href=\"https://trendshift.io/repositories/11716\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11716\" alt=\"unclecode%2Fcrawl4ai | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai/stargazers)\n[![GitHub Forks](https://img.shields.io",
-      "updatedAt": "2026-07-07T06:08:34Z",
+      "updatedAt": "2026-07-07T06:28:49Z",
       "starredAt": "2025-04-03T09:26:19Z",
       "categories": [
         "Scraping 爬虫"
@@ -6724,7 +6724,7 @@
         "rag"
       ],
       "readmePreview": "<p align=\"center\">\n  <a href=\"http://www.theunwindai.com\">\n    <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.linkedin.com/in/shubhamsaboo/\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\">\n  </a>\n  <a href=\"https://twitter.com/Saboo_Shubham_\">\n    <img src=\"https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-bad",
-      "updatedAt": "2026-07-07T06:03:41Z",
+      "updatedAt": "2026-07-07T06:34:37Z",
       "starredAt": "2025-03-28T13:23:06Z",
       "categories": [
         "Awesome List 资源列表"
@@ -6809,7 +6809,7 @@
       "fullName": "shadcn-ui/ui",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
       "url": "https://github.com/shadcn-ui/ui",
-      "stars": 118289,
+      "stars": 118291,
       "language": "TypeScript",
       "topics": [
         "base-ui",
@@ -6825,7 +6825,7 @@
         "vite"
       ],
       "readmePreview": "# shadcn/ui\n\nA set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code. **Use this to build your own component library**.\n\n![hero](apps/v4/public/opengraph-image.png)\n\n## Documentation\n\nVisit https://ui.shadcn.com/docs to view the documentation.\n\n## Contributing\n\nPlease read the [contributing guide](/CONTRIBUTING.md).\n\n## License\n\nLicensed under the [MIT license](./LICENSE.md).\n",
-      "updatedAt": "2026-07-07T06:11:21Z",
+      "updatedAt": "2026-07-07T06:40:21Z",
       "starredAt": "2025-03-28T13:06:54Z",
       "categories": [
         "UI Components 组件"
@@ -6886,7 +6886,7 @@
       "fullName": "clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "stars": 129978,
+      "stars": 129981,
       "language": "TypeScript",
       "topics": [
         "clash",
@@ -6899,7 +6899,7 @@
         "windows"
       ],
       "readmePreview": "<h1 align=\"center\">\n  <img src=\"./src-tauri/icons/icon.png\" alt=\"Clash\" width=\"128\" />\n  <br>\n  Continuation of <a href=\"https://github.com/zzzgydi/clash-verge\">Clash Verge</a>\n  <br>\n</h1>\n\n<h3 align=\"center\">\nA Clash Meta GUI based on <a href=\"https://github.com/tauri-apps/tauri\">Tauri</a>.\n</h3>\n\n<p align=\"center\">\n  Languages:\n  <a href=\"./README.md\">简体中文</a> ·\n  <a href=\"./docs/README_en.md\">English</a> ·\n  <a href=\"./docs/README_es.md\">Español</a> ·\n  <a href=\"./docs/README_ru.md\">Русский<",
-      "updatedAt": "2026-07-07T06:19:11Z",
+      "updatedAt": "2026-07-07T06:37:32Z",
       "starredAt": "2025-03-27T07:34:59Z",
       "categories": [
         "Desktop 桌面端"
@@ -6913,7 +6913,7 @@
       "fullName": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars": 523089,
+      "stars": 523088,
       "language": "Markdown",
       "topics": [
         "awesome-list",
@@ -6924,7 +6924,7 @@
         "tutorials"
       ],
       "readmePreview": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)\n\n## Build your own &lt;insert-technology-here&gt;\n\nThis repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. \n\n> *What I cannot create, I do not understand — Richard Feynman.*\n\nIt's a great way to learn.\n\n* [3D Renderer](#build-your-own-3d-renderer)\n* [AI Model](#ai-model)\n* [Augmented Reality](#build-your-own-augmented-rea",
-      "updatedAt": "2026-07-07T06:21:04Z",
+      "updatedAt": "2026-07-07T06:31:43Z",
       "starredAt": "2025-03-27T03:37:23Z",
       "categories": [
         "Learning 学习资源"
@@ -7073,7 +7073,7 @@
       "language": "Python",
       "topics": [],
       "readmePreview": "# 这是一个中文的 AI/LLM 大模型入门项目\n\n> 回顾过去的学习历程，吴恩达和李宏毅老师的视频为我的深度学习之路提供了极大的帮助。他们幽默风趣的讲解方式和简单直观的阐述，让枯燥的理论学习变得生动有趣。\n>\n> 然而，在实践的时候，许多学弟学妹们最初会烦恼于怎么去获取国外大模型的 API ，尽管最终都能找到解决方法，但第一次的畏难情绪总是会拖延学习进度，逐渐转变为“看视频就够了”的状态。我时常在评论区看到类似的讨论，于是决定利用闲暇时间帮学子们跨过这道门槛，这也是项目的初衷。\n>\n> 本项目不会提供🪜科学上网的教程，也不会依赖平台自定义的接口，而是使用更兼容的 OpenAI SDK，帮助大家学习更通用的知识。\n>\n> 项目将从简单的 API 调用入手，带你逐步深入大模型的世界。在此过程中，你将掌握 **AI 视频摘要**、**LLM 微调**和 **AI 图像生成**等技能。\n>\n> 强烈建议观看李宏毅老师的课程「生成式人工智能导论」同步学习：[课程相关链接快速访问](#快速访问)\n>\n> 现在，项目还开设了[🎡CodePlayground](./CodePlayground)",
-      "updatedAt": "2026-07-07T05:32:28Z",
+      "updatedAt": "2026-07-07T06:37:04Z",
       "starredAt": "2025-02-10T11:40:30Z",
       "categories": [
         "LLM 大模型"
@@ -7164,7 +7164,7 @@
         "skills"
       ],
       "readmePreview": "<div align=\"center\"><a name=\"readme-top\"></a>\n\n[![][image-banner]][vercel-link]\n\n# LobeHub\n\nLobeHub organizes your agents into 7×24 operation.\n\nIt hires, schedules, reports on your entire AI team.\n\nYou stay in charge — without staying online.\n\n**English** · [简体中文](./README.zh-CN.md) · [Official Site][official-site] · [Changelog][changelog] · [Documents][docs] · [Blog][blog] · [Feedback][github-issues-link]\n\n<!-- SHIELD GROUP -->\n\n[![][github-release-shield]][github-release-link]\n[![][docker-rele",
-      "updatedAt": "2026-07-07T06:13:25Z",
+      "updatedAt": "2026-07-07T06:35:06Z",
       "starredAt": "2024-12-16T03:28:55Z",
       "categories": [
         "AI Agent 智能体"
@@ -7178,7 +7178,7 @@
       "fullName": "Loyalsoldier/clash-rules",
       "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。",
       "url": "https://github.com/Loyalsoldier/clash-rules",
-      "stars": 27481,
+      "stars": 27480,
       "language": "Unknown",
       "topics": [
         "adblock",
@@ -7200,7 +7200,7 @@
         "v2ray"
       ],
       "readmePreview": "# 简介 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Loyalsoldier/clash-rules/total?logo=github) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Loyalsoldier/clash-rules/latest/total?logo=github) [![jsdelivr stats](https://data.jsdelivr.com/v1/package/gh/Loyalsoldier/clash-rules/badge?style=rounded)](https://www.jsdelivr.com/package/gh/Loyalsoldier/clash-rules)\n\n本项目生成适用于 [**Clash Premium 内核**](https://github.com/Drea",
-      "updatedAt": "2026-07-07T06:21:03Z",
+      "updatedAt": "2026-07-07T06:28:21Z",
       "starredAt": "2024-12-02T04:39:46Z",
       "categories": [
         "Network 网络"
@@ -7259,7 +7259,7 @@
       "fullName": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "stars": 94662,
+      "stars": 94663,
       "language": "Python",
       "topics": [
         "ai",
@@ -7282,7 +7282,7 @@
         "webcamera"
       ],
       "readmePreview": "<h1 align=\"center\">Deep-Live-Cam 2.1.6</h1>\n\n<p align=\"center\">\n  Real-time face swap and video deepfake with a single click and only a single image.\n</p>\n\n<p align=\"center\">\n<a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"media/demo.gif\" alt=\"Demo GIF\" width=\"800\">\n</p>",
-      "updatedAt": "2026-07-07T05:49:12Z",
+      "updatedAt": "2026-07-07T06:39:47Z",
       "starredAt": "2024-11-20T07:44:24Z",
       "categories": [
         "Computer Vision 视觉"
@@ -7296,7 +7296,7 @@
       "fullName": "Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "stars": 78084,
+      "stars": 78086,
       "language": "Python",
       "topics": [
         "allinonehackingtool",
@@ -7314,7 +7314,7 @@
         "xss-detection"
       ],
       "readmePreview": "<div align=\"center\">\n\n<img src=\"images/logo.svg\" alt=\"HackingTool\" width=\"600\">\n\n<p><b>All-in-One Hacking Tool for Security Researchers & Pentesters</b></p>\n\n[![License](https://img.shields.io/github/license/Z4nzu/hackingtool)](LICENSE)&nbsp;\n[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)&nbsp;\n[![Version](https://img.shields.io/badge/v2.0.0-00FF88?style=flat-square)](#)&nbsp;\n[![Stars](https://img.shields.io/g",
-      "updatedAt": "2026-07-07T05:37:56Z",
+      "updatedAt": "2026-07-07T06:35:13Z",
       "starredAt": "2024-11-20T07:04:51Z",
       "categories": [
         "Security 安全"
@@ -7338,7 +7338,7 @@
         "cursorrules"
       ],
       "readmePreview": "# Awesome Cursor Rules [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)\n\n<p align=\"center\">\n  <a href=\"https://coderabbit.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-cursorrules\" target=\"_blank\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"./LOCKUP_VERTICAL_25D_DARK.png\">\n      <img alt=\"Awesome Cursor Logo\" src=\"./LOCKUP_VERTICAL_25D_LIGHT.png\" width=\"500\">\n    </picture>\n  </a>\n</p>\n\nCursor Project Rules enhance Cursor AI edito",
-      "updatedAt": "2026-07-07T05:33:16Z",
+      "updatedAt": "2026-07-07T06:39:56Z",
       "starredAt": "2024-11-11T01:59:47Z",
       "categories": [
         "Awesome List 资源列表"
@@ -7397,7 +7397,7 @@
       "fullName": "SendWithSES/Drag-and-Drop-Email-Designer",
       "description": "Free, open source, HTML email template editor and no code designer.",
       "url": "https://github.com/SendWithSES/Drag-and-Drop-Email-Designer",
-      "stars": 2108,
+      "stars": 2109,
       "language": "TypeScript",
       "topics": [
         "aws-ses-template-editor",
@@ -7409,7 +7409,7 @@
         "open-source-html-email-designer"
       ],
       "readmePreview": "\n# 💌 Free, Open Source, HTML Email Editor and Designer.\n\n![sendwithses-opensource-drag-and-drop-html-editor](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer/assets/3350646/86020ce2-a818-4b7f-8823-f5c898b737ee)\n\n## 👹 Who?\nThis email designer was originally built for use within [**SENDUNE**](https://sendune.com/) (formerly Send With SES).\n\n## ⁉️ Why Choose SENDUNE Email Designer?\n\n- **Truly Open Source:** Use it for personal use or commercial use or whatever.\n- **Truly Free:** Becaus",
-      "updatedAt": "2026-07-04T00:56:09Z",
+      "updatedAt": "2026-07-07T06:29:44Z",
       "starredAt": "2024-07-31T02:51:57Z",
       "categories": [
         "UI Components 组件"
@@ -8068,7 +8068,7 @@
       "fullName": "ChatGPTNextWeb/NextChat",
       "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
       "url": "https://github.com/ChatGPTNextWeb/NextChat",
-      "stars": 88401,
+      "stars": 88402,
       "language": "TypeScript",
       "topics": [
         "calclaude",
@@ -8092,7 +8092,7 @@
         "webui"
       ],
       "readmePreview": "<div align=\"center\">\n\n<a href='https://nextchat.club'>\n  <img src=\"https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3\" width=\"1000\" alt=\"icon\"/>\n</a>\n\n<h1 align=\"center\">NextChat</h1>\n\nEnglish / [简体中文](./README_CN.md)\n\n<a href=\"https://trendshift.io/repositories/5973\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/5973\" alt=\"ChatGPTNextWeb%2FChatGPT-Next-Web | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n✨ Lig",
-      "updatedAt": "2026-07-07T05:35:38Z",
+      "updatedAt": "2026-07-07T06:26:38Z",
       "starredAt": "2023-04-21T02:19:17Z",
       "categories": [
         "LLM 大模型"
@@ -8142,7 +8142,7 @@
         "javascript-algorithms"
       ],
       "readmePreview": "# JavaScript Algorithms and Data Structures\n\n> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.\n> - Help Ukraine via:\n>   - [Serhiy Prytula Charity Foundation](https://prytulafoundation.org/en/)\n>   - [Come Back Alive Charity Foundation](https://savelife.in.ua/en/donate-en/)\n>   - [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potr",
-      "updatedAt": "2026-07-07T04:59:21Z",
+      "updatedAt": "2026-07-07T06:36:00Z",
       "starredAt": "2023-04-17T07:51:17Z",
       "categories": [
         "Algorithm 算法"
@@ -8156,7 +8156,7 @@
       "fullName": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "stars": 185411,
+      "stars": 185410,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -8172,7 +8172,7 @@
         "python"
       ],
       "readmePreview": "# AutoGPT: Build, Deploy, and Run AI Agents\n\n[![Discord Follow](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fautogpt%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=total%20members&logo=discord&logoColor=white&color=7289da)](https://discord.gg/autogpt) &ensp;\n[![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;\n\n<!-- Keep these links. Translations will automatically update ",
-      "updatedAt": "2026-07-07T06:21:45Z",
+      "updatedAt": "2026-07-07T06:39:40Z",
       "starredAt": "2023-04-17T07:25:43Z",
       "categories": [
         "AI Agent 智能体"
@@ -8227,7 +8227,7 @@
       "fullName": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
-      "stars": 164961,
+      "stars": 164963,
       "language": "HTML",
       "topics": [
         "ai",
@@ -8250,7 +8250,7 @@
         "typescript"
       ],
       "readmePreview": "<h1 align=\"center\">\n  <a href=\"https://prompts.chat\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\">\n      <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\">\n    </picture>\n    <br>\n    prompts.chat\n  </a>\n</h1>\n\n<p align=\"center\">\n  <strong>The world's largest open-source prompt library for AI</strong><br>\n  <sub>Works w",
-      "updatedAt": "2026-07-07T06:13:22Z",
+      "updatedAt": "2026-07-07T06:32:10Z",
       "starredAt": "2023-04-10T03:42:00Z",
       "categories": [
         "Awesome List 资源列表"
@@ -8929,11 +8929,11 @@
       "fullName": "vuejs/core",
       "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
       "url": "https://github.com/vuejs/core",
-      "stars": 53923,
+      "stars": 53922,
       "language": "TypeScript",
       "topics": [],
       "readmePreview": "# vuejs/core [![npm](https://img.shields.io/npm/v/vue.svg)](https://www.npmjs.com/package/vue) [![build status](https://github.com/vuejs/core/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vuejs/core/actions/workflows/ci.yml) [![Download](https://img.shields.io/npm/dm/vue)](https://www.npmjs.com/package/vue)\n\n## Getting Started\n\nPlease follow the documentation at [vuejs.org](https://vuejs.org/)!\n\n## Sponsors\n\nVue.js is an MIT-licensed open source project with its ongoing dev",
-      "updatedAt": "2026-07-07T06:06:49Z",
+      "updatedAt": "2026-07-07T06:27:52Z",
       "starredAt": "2022-08-17T16:04:47Z",
       "categories": [
         "Frontend 前端"
@@ -8979,7 +8979,7 @@
       "fullName": "withastro/astro",
       "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
       "url": "https://github.com/withastro/astro",
-      "stars": 60759,
+      "stars": 60761,
       "language": "TypeScript",
       "topics": [
         "astro",
@@ -8995,7 +8995,7 @@
         "universal"
       ],
       "readmePreview": "![Build the web you want](.github/assets/banner.jpg 'Build the web you want')\n\n<p align=\"center\">\n  <br/>\n  <a href=\"https://astro.build\">Astro</a> is a website build tool for the modern web &mdash;\n  <br/>\n  powerful developer experience meets lightweight output.\n  <br/><br/>\n</p>\n\n<div align=\"center\">\n\n[![main](https://github.com/withastro/astro/actions/workflows/ci.yml/badge.svg)](https://github.com/withastro/astro/actions/workflows/ci.yml)\n[![License](https://img.shields.io/badge/License-MIT",
-      "updatedAt": "2026-07-07T04:33:18Z",
+      "updatedAt": "2026-07-07T06:33:40Z",
       "starredAt": "2022-08-15T14:55:38Z",
       "categories": [
         "Build 构建工具"
@@ -9230,7 +9230,7 @@
       "fullName": "slidevjs/slidev",
       "description": "Presentation Slides for Developers",
       "url": "https://github.com/slidevjs/slidev",
-      "stars": 47556,
+      "stars": 47558,
       "language": "TypeScript",
       "topics": [
         "markdown",
@@ -9241,7 +9241,7 @@
         "vueuse"
       ],
       "readmePreview": "<br>\n<p align=\"center\">\n<a href=\"https://sli.dev\" target=\"_blank\">\n<img src=\"https://sli.dev/logo-title.png\" alt=\"Slidev\" height=\"250\" width=\"250\"/>\n</a>\n</p>\n\n<p align=\"center\">\nPresentation <b>slide</b>s for <b>dev</b>elopers 🧑‍💻👩‍💻👨‍💻\n</p>\n\n<p align=\"center\">\n<a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank\"><img src=\"https://img.shields.io/npm/v/@slidev/cli?color=2B90B6&label=\" alt=\"NPM version\"></a>\n<a href=\"https://www.npmjs.com/package/@slidev/cli\" target=\"__blank",
-      "updatedAt": "2026-07-07T03:26:31Z",
+      "updatedAt": "2026-07-07T06:34:53Z",
       "starredAt": "2022-04-30T07:03:50Z",
       "categories": [
         "DevTools 开发者工具"
@@ -9515,5 +9515,5 @@
     "Web3 区块链"
   ],
   "tags": [],
-  "updatedAt": "2026-07-07T06:23:10.792Z"
+  "updatedAt": "2026-07-07T06:41:06.720Z"
 }
