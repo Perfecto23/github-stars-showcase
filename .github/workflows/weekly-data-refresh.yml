@@ -1,0 +1,85 @@
+name: Weekly data refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 2 * * 2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-data-refresh-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh generated data
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11.5.1
+          run_install: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Refresh stars data
+        env:
+          GITHUB_TOKEN: ${{ secrets.STARS_GITHUB_TOKEN }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: pnpm run update
+
+      - name: Validate project
+        run: |
+          pnpm run typecheck
+          pnpm run lint
+          node <<'NODE'
+          const fs = require("node:fs");
+          const data = JSON.parse(fs.readFileSync("public/data/repos.json", "utf8"));
+          if (!Array.isArray(data.repos) || data.repos.length === 0) {
+            throw new Error("public/data/repos.json has no repos");
+          }
+          const sortedByStarredAt = data.repos.every((repo, index, repos) => {
+            if (!repo.starredAt) return false;
+            return index === 0 || new Date(repos[index - 1].starredAt) >= new Date(repo.starredAt);
+          });
+          if (!sortedByStarredAt) {
+            throw new Error("repos are not sorted by starredAt descending");
+          }
+          console.log(`Validated ${data.repos.length} repos sorted by starredAt`);
+          NODE
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data/analyzed.json public/data/repos.json; then
+            echo "No generated data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/analyzed.json public/data/repos.json
+          git commit -m "Update GitHub stars data"
+          git push

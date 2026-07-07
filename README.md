@@ -200,6 +200,17 @@ pnpm run lint
 pnpm run build
 ```
 
+### Q: 如何每周自动更新数据？
+
+仓库包含 GitHub Actions workflow：`.github/workflows/weekly-data-refresh.yml`。
+
+- 触发方式：每周二 02:20 UTC 自动运行，也支持手动 `workflow_dispatch`
+- 必需 secret：`STARS_GITHUB_TOKEN`，用于读取用户 starred repositories
+- AI 配置：设置 `AI_API_KEY` 或 provider-specific secret（如 `ANTHROPIC_API_KEY` / `OPENAI_API_KEY`），可选 repository variables `AI_PROVIDER` / `AI_MODEL`
+- 写回范围：只提交 `data/analyzed.json` 和 `public/data/repos.json`
+
+首次启用前，建议先手动触发一次 workflow，确认 token 权限和 AI provider 配置正确。
+
 ### Q: 如何同步到 GitHub Stars Lists？
 
 使用 Playwright 自动化脚本将分类同步到 GitHub Stars Lists：

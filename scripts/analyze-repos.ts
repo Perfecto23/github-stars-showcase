@@ -59,7 +59,6 @@ function getApiKeyForProvider(provider: string): string | undefined {
 	);
 }
 
-// 创建 AI provider
 let aiProvider: AIProvider;
 
 async function initProvider(): Promise<AIProvider> {
@@ -88,10 +87,7 @@ async function initProvider(): Promise<AIProvider> {
 	});
 }
 
-try {
-	aiProvider = await initProvider();
-	console.log(`使用 AI Provider: ${aiProvider.name} (${aiProvider.model})`);
-} catch (error) {
+function printProviderInitError(error: unknown) {
 	console.error("❌ 创建 AI Provider 失败:", (error as Error).message);
 	const providerKeyEnv = PROVIDER_API_KEY_ENV[AI_PROVIDER];
 	if (providerKeyEnv) {
@@ -108,7 +104,6 @@ try {
 		console.log(`    默认模型: ${p.defaultModel}`);
 	});
 	console.log("\n💡 提示: 使用 --select 或 -s 参数进入交互式选择模式");
-	process.exit(1);
 }
 
 async function analyzeReposBatch(repos: RawRepo[]): Promise<AnalyzedRepo[]> {
@@ -258,6 +253,14 @@ if (newRepos.length === 0) {
 }
 
 console.log(`🆕 发现 ${newRepos.length} 个新仓库需要分析`);
+
+try {
+	aiProvider = await initProvider();
+	console.log(`使用 AI Provider: ${aiProvider.name} (${aiProvider.model})`);
+} catch (error) {
+	printProviderInitError(error);
+	process.exit(1);
+}
 
 // 3. 只对新仓库进行 AI 分析
 const analyzed: AnalyzedRepo[] = [];
