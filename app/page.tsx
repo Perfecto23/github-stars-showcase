@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import FilterBar from "./components/FilterBar";
 import RepoCard from "./components/RepoCard";
 import SearchBar from "./components/SearchBar";
@@ -13,6 +13,7 @@ interface Repo {
 	url: string;
 	stars: number;
 	language: string;
+	starredAt: string;
 	categories: string[];
 	aiSummary: string;
 }
@@ -25,7 +26,6 @@ interface Data {
 
 export default function Home() {
 	const [data, setData] = useState<Data | null>(null);
-	const [filteredRepos, setFilteredRepos] = useState<Repo[]>([]);
 	const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 	const [searchQuery, setSearchQuery] = useState("");
 
@@ -36,8 +36,8 @@ export default function Home() {
 			.catch((error) => console.error("加载数据失败:", error));
 	}, []);
 
-	useEffect(() => {
-		if (!data) return;
+	const filteredRepos = useMemo(() => {
+		if (!data) return [];
 
 		let filtered = data.repos;
 
@@ -57,7 +57,7 @@ export default function Home() {
 			);
 		}
 
-		setFilteredRepos(filtered);
+		return filtered;
 	}, [data, selectedCategories, searchQuery]);
 
 	if (!data) {

@@ -1870,5 +1870,1205 @@
     ],
     "tags": [],
     "aiSummary": "React 全家桶学习笔记与练习代码：整理 React 基础、react-router、Redux 等核心内容，结合教程视频与本地 demo 环境进行实践，适合入门到进阶的系统复习。"
+  },
+  {
+    "fullName": "open-webui/open-webui",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Ollama、OpenAI API 和本地模型的 self-hosted WebUI，提供聊天、RAG、MCP 与多模型管理能力。"
+  },
+  {
+    "fullName": "aipotheosis-labs/aci",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源 tool-calling 平台，为 agentic IDE 和自定义 AI Agent 统一接入 600+ 工具、OAuth 权限与 MCP Server。"
+  },
+  {
+    "fullName": "agentic-community/mcp-gateway-registry",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "企业级 MCP Gateway 与 Registry，集中治理工具发现、OAuth 认证、审计和多 Agent 工具访问。"
+  },
+  {
+    "fullName": "agentregistry-dev/agentregistry",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI Agent 的集中式可信 registry，用于发布、发现和管理 agent、MCP 与 skill 资源。"
+  },
+  {
+    "fullName": "iflytek/skillhub",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "企业级 agent skill registry，支持 skill 发布、版本管理、RBAC、审计日志和私有化部署。"
+  },
+  {
+    "fullName": "cobusgreyling/loop-engineering",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI coding agents 的 loop engineering 模式、starter 和 CLI 工具集合，帮助设计可重复的 agent 工作流。"
+  },
+  {
+    "fullName": "addyosmani/agent-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI coding agents 准备的 production-grade engineering skills，沉淀工程流程、质量门和最佳实践。"
+  },
+  {
+    "fullName": "xbtlin/ai-berkshire",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Claude Code / Codex 的价值投资研究框架，用多 Agent 并行分析复刻巴菲特、芒格等投资方法论。"
+  },
+  {
+    "fullName": "huggingface/tau",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Hugging Face 出品的极简 coding agent 教学项目，用小型可读 agent harness 展示代码代理构建方式。"
+  },
+  {
+    "fullName": "langchain-ai/openevals",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "LangChain 提供的 LLM app evaluator 集合，用现成评估器帮助为 AI 应用建立自动化质量测试。"
+  },
+  {
+    "fullName": "Forward-Future/loopy",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "实用 AI-agent loop 库和可安装 skill，帮助发现、改造和设计可重复的 agent workflow。"
+  },
+  {
+    "fullName": "JuliusBrussee/caveman",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code skill，通过压缩表达风格减少 token 消耗，面向提示词效率和 agent 成本优化。"
+  },
+  {
+    "fullName": "zhaohongxuan/journal-partner",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "Obsidian 插件，用于高亮 journal 时间戳、保护 readonly 区域，并提供快速记录与统计能力。"
+  },
+  {
+    "fullName": "i5ting/learn-ai-practice",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "狼叔的 AI 实践笔记与阶段总结，整理 AI 趋势、工具使用和个人学习观察。"
+  },
+  {
+    "fullName": "Zleap-AI/SAG",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "基于 SAG 的文档检索与 GraphRAG 项目，结合知识图谱、向量检索和 RAG 构建知识库能力。"
+  },
+  {
+    "fullName": "latitude-dev/latitude-llm",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "开源 AI monitoring 平台，面向 LLM 和 agent 应用提供错误追踪、观测和问题定位能力。"
+  },
+  {
+    "fullName": "evotai/evot",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 编写的 agent engine，面向复杂长任务执行，通过 eval 驱动优化 token 使用和任务质量。"
+  },
+  {
+    "fullName": "Graphify-Labs/graphify",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "AI coding assistant skill，可把代码、SQL、文档和多媒体索引成 queryable knowledge graph，服务 Codex/Claude 等代理。"
+  },
+  {
+    "fullName": "cabinetai/cabinet",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "AI-first knowledge base 与 startup OS，用 TypeScript 构建团队知识、文档和运营信息管理系统。"
+  },
+  {
+    "fullName": "open-gsd/gsd-core",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Git. Ship. Done 的核心工作流工具，提供 context engineering、meta-prompting 与 spec-driven development 支持。"
+  },
+  {
+    "fullName": "colbymchenry/codegraph",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "本地 code knowledge graph，随代码变化自动同步，为 Claude、Codex、Cursor 等 coding agents 降低 token 和工具调用。"
+  },
+  {
+    "fullName": "freestylefly/CodexGuide",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向初学者、创作者和团队的 Codex 实践指南，整理 Codex 使用路径、技巧和工作流。"
+  },
+  {
+    "fullName": "baskduf/FableCodex",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Codex-style coding agent workflow，强调 evidence-based planning、context engineering 和 skill 化执行。"
+  },
+  {
+    "fullName": "Panniantong/Agent-Reach",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI Agent 提供互联网读取与搜索能力的 CLI，可接入 Twitter、Reddit、YouTube、GitHub、Bilibili 等来源。"
+  },
+  {
+    "fullName": "aaif-goose/goose",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源可扩展 AI agent，可安装、执行、编辑和测试项目，支持任意 LLM 与 MCP 扩展。"
+  },
+  {
+    "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "收集主流 AI coding 与 productivity 工具的 system prompts、内部工具和模型信息，覆盖 Cursor、Codex、Devin 等。"
+  },
+  {
+    "fullName": "BigPizzaV3/CodexPlusPlus",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "CodexApp 增强工具，使用 Rust 提供更顺手的 Codex 辅助体验和本地工具能力。"
+  },
+  {
+    "fullName": "ibelick/ui-skills",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Design Engineers 的 UI skills 集合，帮助 agent 在界面设计任务中选择合适方法和组件思路。"
+  },
+  {
+    "fullName": "Nutlope/hallmark",
+    "categories": [
+      "CSS Styling 样式"
+    ],
+    "tags": [],
+    "aiSummary": "反 AI-slop 的 design skill，为 Claude Code、Cursor 和 Codex 生成更自然、有质感的 UI 风格。"
+  },
+  {
+    "fullName": "nexu-io/open-design",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "本地优先的 AI design desktop app，让 Claude Code、Codex、Cursor 等 CLI 生成原型、页面、仪表盘和可导出文件。"
+  },
+  {
+    "fullName": "itsSIGI/agentic-design-system-skill",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "Agentic design system skill，用于指导 AI 代理按设计系统生成一致的界面组件和视觉规范。"
+  },
+  {
+    "fullName": "itsSIGI/aurora-html-ppt",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "Aurora 风格 HTML/PPT 工具包和 Codex skill，用 vanilla HTML 生成展示型幻灯片与视觉材料。"
+  },
+  {
+    "fullName": "withastro/flue",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Astro 生态的 sandbox agent framework，为构建和运行隔离式 agent 工作流提供基础设施。"
+  },
+  {
+    "fullName": "microsoft/SkillOpt",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Microsoft 的 skill 优化器，通过轨迹驱动编辑和验证门训练可复用 natural-language skills。"
+  },
+  {
+    "fullName": "ruvnet/ruflo",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Agent meta-harness，用于部署 swarms、编排 autonomous workflows，并集成记忆、RAG 与多种 coding agent。"
+  },
+  {
+    "fullName": "OpenBMB/PilotDeck",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "任务导向的 AI Agent productivity platform，面向 agent 工作台、任务执行和生产力协作场景。"
+  },
+  {
+    "fullName": "markdown-viewer/skills",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI coding agents 的 Markdown 图表和可视化 skills，用自然语言生成 diagrams、charts 和技术文档视觉。"
+  },
+  {
+    "fullName": "jinchenma94/bazi-skill",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "四柱八字命理分析 skill，用于把传统命理分析流程封装成可复用的 agent 技能。"
+  },
+  {
+    "fullName": "oracle-devrel/oracle-ai-developer-hub",
+    "categories": [
+      "Cloud 云服务"
+    ],
+    "tags": [],
+    "aiSummary": "Oracle AI Developer Hub，整理 Oracle AI Database、OCI、Kubernetes 等 AI 应用开发资源和示例。"
+  },
+  {
+    "fullName": "google/agents-cli",
+    "categories": [
+      "Cloud 云服务"
+    ],
+    "tags": [],
+    "aiSummary": "Google Cloud agents CLI 与 skills，帮助 coding assistant 创建、评估和部署 Google Cloud 上的 AI agents。"
+  },
+  {
+    "fullName": "humanlayer/12-factor-agents",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "LLM-powered software 的 12-factor agents 方法论，梳理 production-grade agent 的架构原则和实践。"
+  },
+  {
+    "fullName": "can1357/oh-my-pi",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "终端 AI coding agent，提供 hash-anchored edits、LSP、浏览器、subagents 和多 provider 工具链。"
+  },
+  {
+    "fullName": "lsdefine/GenericAgent",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "自进化 agent 项目，从 seed 生长 skill tree，追求更少 token 的浏览器、桌面和系统控制能力。"
+  },
+  {
+    "fullName": "Portkey-AI/gateway",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "高性能 AI Gateway，统一路由 1600+ LLM，集成 guardrails、LLMOps 和模型调用治理。"
+  },
+  {
+    "fullName": "tinyhumansai/openhuman",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "个人 AI super intelligence 项目，构建 local-first life memory、agent fleet 编排和 deep research 能力。"
+  },
+  {
+    "fullName": "wechat-article/wechat-article-exporter",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "微信公众号文章批量下载工具，支持导出阅读量、评论和多种格式，并可在线或私有化部署。"
+  },
+  {
+    "fullName": "icebear0828/token-ray",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Go 编写的 token 分析类开发工具，用于观察和辅助优化 AI/LLM 使用中的 token 消耗。"
+  },
+  {
+    "fullName": "AgriciDaniel/claude-obsidian",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code + Obsidian second brain starter，把来源材料整理为 Markdown 知识图谱和个人知识库。"
+  },
+  {
+    "fullName": "sdyckjq-lab/llm-wiki-skill",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Karpathy LLM Wiki 方法论的个人知识库构建 skill，支持多平台组织和沉淀知识。"
+  },
+  {
+    "fullName": "multica-ai/multica",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源 managed agents platform，把 coding agents 作为可分配、可跟踪、可沉淀 skill 的团队协作者管理。"
+  },
+  {
+    "fullName": "rohitg00/awesome-claude-design",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Design 的 DESIGN.md prompts、设计风格、remix recipes 和社区案例资源列表。"
+  },
+  {
+    "fullName": "nashsu/llm_wiki",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台桌面应用，将文档自动组织为互联知识库，用 LLM 增量构建 persistent wiki。"
+  },
+  {
+    "fullName": "craft-ai-agents/craft-agents-oss",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源 AI agents 工程项目，围绕 agent 构建、协作和执行提供 TypeScript 实现基础。"
+  },
+  {
+    "fullName": "Tatsu-syo/noMeiryoUI",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "Windows 系统字体设置工具，可调整 Windows 8.1/10/11 的系统 UI 字体配置。"
+  },
+  {
+    "fullName": "snowie2000/mactype",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "Windows 字体渲染增强工具，改善 DirectWrite 和系统文字显示效果。"
+  },
+  {
+    "fullName": "wordflowlab/novel-writer-skills",
+    "categories": [
+      "NLP 自然语言"
+    ],
+    "tags": [],
+    "aiSummary": "面向小说写作探索的 skill 与 slash command 集合，用 agent 流程辅助长文本创作。"
+  },
+  {
+    "fullName": "BerriAI/litellm",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "Python SDK 与 AI Gateway Proxy，统一调用 100+ LLM API，支持成本跟踪、guardrails、负载均衡和日志。"
+  },
+  {
+    "fullName": "hugohe3/ppt-master",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "AI PowerPoint 生成工具，可从文档生成可编辑 PPT、图表、表格、speaker notes 和模板化演示。"
+  },
+  {
+    "fullName": "alchaincyf/darwin-skill",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "可自我进化的 skill 系统，通过评估、改进、测试、保留或回滚循环优化 Claude Code 技能。"
+  },
+  {
+    "fullName": "ConardLi/easy-agent",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "从零复刻 Claude Code 的教学项目，帮助理解 coding agent 的核心机制和实现方式。"
+  },
+  {
+    "fullName": "VoltAgent/awesome-claude-design",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Design ready-to-use DESIGN.md 灵感集合，收录可直接用于 UI 生成的设计系统 prompts。"
+  },
+  {
+    "fullName": "jnMetaCode/agency-agents-zh",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "中文 AI 专家角色库，覆盖多行业 agent definitions，并支持多工具和 DAG 编排协作。"
+  },
+  {
+    "fullName": "getagentseal/codeburn",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "本地 AI coding token 与成本追踪工具，覆盖 Claude Code、Cursor、Codex、Gemini 等 31 种工具。"
+  },
+  {
+    "fullName": "mindfold-ai/Trellis",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "TypeScript agent harness，面向 Codex、Claude Code 等 agentic coding workflow 的执行框架。"
+  },
+  {
+    "fullName": "vercel-labs/open-agents",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Vercel Labs 的 cloud agents 开源模板，用于构建和部署 background agents。"
+  },
+  {
+    "fullName": "Cocoon-AI/architecture-diagram-generator",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "Claude skill 和 HTML/SVG 工具，用于生成深色风格的系统架构图和独立可视化文件。"
+  },
+  {
+    "fullName": "Donchitos/Claude-Code-Game-Studios",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "把 Claude Code 组织成游戏开发工作室的 agent/skill 系统，覆盖游戏设计、开发和团队层级协作。"
+  },
+  {
+    "fullName": "blackmatrix7/ios_rule_script",
+    "categories": [
+      "Network 网络"
+    ],
+    "tags": [],
+    "aiSummary": "网络代理分流规则、重写规则与脚本集合，常用于 iOS 代理客户端和网络规则管理。"
+  },
+  {
+    "fullName": "PinkD/corplink-rs",
+    "categories": [
+      "Network 网络"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 实现的飞连客户端，围绕 Corplink、WireGuard 和企业网络接入场景构建。"
+  },
+  {
+    "fullName": "catlog22/Claude-Code-Workflow",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "JSON-driven 多 Agent 开发框架，编排 Gemini、Qwen、Codex、Claude 等 CLI 完成 context-first 工作流。"
+  },
+  {
+    "fullName": "NousResearch/hermes-agent",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Nous Research 的可成长 agent，面向 Claude Code、Codex、MCP 和多工具协作场景。"
+  },
+  {
+    "fullName": "hua1995116/indiehackers-steps",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "独立开发者指南与一人公司实践资料，整理 indie hacker 从构想到产品运营的路径。"
+  },
+  {
+    "fullName": "tw93/Waza",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "把工程习惯转化为 Claude 可运行 skills 的集合，用于提升 coding agent 的日常开发能力。"
+  },
+  {
+    "fullName": "wangwangit/SubsTracker",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Cloudflare Workers 的轻量订阅管理系统，跟踪到期时间并通过 Telegram 发送提醒。"
+  },
+  {
+    "fullName": "micooz/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "个人常用 agent skills 集合，沉淀 Claude/Codex 等 coding agent 的实用工作流。"
+  },
+  {
+    "fullName": "fengshao1227/ccg-workflow",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "多模型协作工作流引擎，用一个命令编排 Codex、Gemini、Claude 进行策略选择和协作执行。"
+  },
+  {
+    "fullName": "nmhjklnm/cac",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "用于隔离、保护和管理 Claude Code 的 Shell 工具，关注 coding agent 执行边界与安全控制。"
+  },
+  {
+    "fullName": "motiful/cc-gateway",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "AI API identity gateway，通过 reverse proxy 规范设备指纹和 telemetry，提升隐私保护与代理安全。"
+  },
+  {
+    "fullName": "shareAI-lab/learn-claude-code",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "从零构建 Claude Code 类 agent harness 的教学项目，用 Python/Bash 展示基础原理。"
+  },
+  {
+    "fullName": "earendil-works/pi",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "AI agent toolkit，提供统一 LLM API、agent loop、TUI 和 coding agent CLI。"
+  },
+  {
+    "fullName": "Wei-Shaw/claude-relay-service",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "自建 Claude Code 中转服务，统一接入 Claude、OpenAI、Gemini、Droid 等订阅和 API 协议。"
+  },
+  {
+    "fullName": "eze-is/web-access",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude Code 提供联网能力的 skill，包含多通道调度、浏览器 CDP 和并行读取策略。"
+  },
+  {
+    "fullName": "chen08209/FlClash",
+    "categories": [
+      "Network 网络"
+    ],
+    "tags": [],
+    "aiSummary": "基于 ClashMeta 的跨平台代理客户端，使用 Flutter 构建，支持多协议代理和简洁 UI。"
+  },
+  {
+    "fullName": "langchain-ai/deepagents",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "LangChain 生态的 batteries-included agent harness，帮助构建具备工具、记忆和流程能力的 agents。"
+  },
+  {
+    "fullName": "assafelovic/gpt-researcher",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "自主 deep research agent，可连接多种 LLM provider 和搜索工具，对任意数据执行研究任务。"
+  },
+  {
+    "fullName": "karpathy/autoresearch",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Karpathy 的自动研究实验，让 AI agents 自动运行单 GPU nanochat 训练研究和迭代。"
+  },
+  {
+    "fullName": "jarrodwatts/claude-hud",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code 插件，用 HUD 展示 context usage、active tools、running agents 和 todo 进度。"
+  },
+  {
+    "fullName": "bytedance/deer-flow",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "字节开源 long-horizon SuperAgent harness，结合 sandbox、memory、tools、skills 和 subagents 处理长任务。"
+  },
+  {
+    "fullName": "shaom/infocard-skills",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "开源 agent skills，可从自然语言输入生成 editorial-style information cards。"
+  },
+  {
+    "fullName": "jlcodes99/cockpit-tools",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "通用 AI IDE 账号管理工具，支持多账号切换、配额监控、自动唤醒和多开实例管理。"
+  },
+  {
+    "fullName": "pbakaus/impeccable",
+    "categories": [
+      "CSS Styling 样式"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI harness 的设计语言与风格约束，帮助 agent 生成更精致、更一致的界面设计。"
+  },
+  {
+    "fullName": "VoltAgent/awesome-codex-subagents",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "Codex subagents 资源列表，收集 130+ 专门化子代理，覆盖多种开发和协作场景。"
+  },
+  {
+    "fullName": "mshumer/unslop",
+    "categories": [
+      "CSS Styling 样式"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI 生成内容去 slop 的 Python 工具，关注让生成结果更自然、更少模板化痕迹。"
+  },
+  {
+    "fullName": "jackwener/OpenCLI",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "把任意网站转成 CLI 的 AI agent 工具，可复用已登录浏览器状态进行网页读取和操作。"
+  },
+  {
+    "fullName": "ginobefun/BestBlogs",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "BestBlogs.dev 技术文章聚合站，用 LLM 摘要和评分辅助阅读编程、AI、产品与科技内容。"
+  },
+  {
+    "fullName": "mattpocock/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Matt Pocock 的工程 skills 集合，将真实工程工作流打包给 Claude Code 等 agent 使用。"
+  },
+  {
+    "fullName": "uditgoenka/autoresearch",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Autoresearch skill，通过 modify、verify、keep/discard 循环实现目标导向自主迭代。"
+  },
+  {
+    "fullName": "rtk-ai/rtk",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "Rust CLI proxy，用于在常见开发命令中减少 60-90% LLM token 消耗。"
+  },
+  {
+    "fullName": "garrytan/gstack",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Garry Tan 的 Claude Code setup 集合，包含 CEO、设计、工程管理、发布、文档和 QA 等 opinionated tools。"
+  },
+  {
+    "fullName": "Wei-Shaw/sub2api",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "订阅转 API 的开源中转服务，统一接入 Claude、OpenAI、Gemini、Grok 等订阅能力。"
+  },
+  {
+    "fullName": "TianyiDataScience/openclaw-control-center",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "OpenClaw 本地 control center，让 agent 执行状态、控制面和运行过程更可见可控。"
+  },
+  {
+    "fullName": "op7418/CodePilot",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "Electron + Next.js 构建的多模型 AI agent 桌面客户端，支持 MCP、skills、手机控制和多 provider。"
+  },
+  {
+    "fullName": "microsoft/ai-agents-for-beginners",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Microsoft 的 AI Agents 入门课程，包含 12 节课，覆盖 agentic framework、RAG、AutoGen 和 Semantic Kernel。"
+  },
+  {
+    "fullName": "affaan-m/ECC",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Agent harness performance optimization system，整合 skills、memory、security 和 research-first development。"
+  },
+  {
+    "fullName": "HKUDS/CLI-Anything",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "CLI-Anything 项目，目标是把各类软件变成 agent-native CLI，方便 AI agents 调用。"
+  },
+  {
+    "fullName": "Doctor-wu/agent-im-relay",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "平台无关的 instant messaging bridge，把 AI agents 接入 Discord 等即时通讯平台。"
+  },
+  {
+    "fullName": "public-clis/twitter-cli",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "Twitter/X 命令行客户端，可在 terminal 中查看 feed、bookmarks 和用户时间线。"
+  },
+  {
+    "fullName": "GoogleCloudPlatform/generative-ai",
+    "categories": [
+      "Cloud 云服务"
+    ],
+    "tags": [],
+    "aiSummary": "Google Cloud Generative AI 示例和 notebooks，覆盖 Gemini、Agent Platform、LangChain 和云上 AI 应用。"
+  },
+  {
+    "fullName": "jackwener/xiaohongshu-cli",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "小红书 CLI，通过逆向 API 实现搜索、读取和交互，服务终端内容抓取与自动化。"
+  },
+  {
+    "fullName": "october-coder/api-check",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "纯前端 API 测试工具，用 Vue 构建，适合在浏览器中快速调试和验证 HTTP 接口。"
+  },
+  {
+    "fullName": "Martian-Engineering/lossless-claw",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "OpenClaw 的 Lossless Context Management 插件，面向长上下文保真和 agent 上下文管理。"
+  },
+  {
+    "fullName": "cft0808/edict",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "OpenClaw multi-agent orchestration system，以三省六部制组织 9 个专业 agent、仪表盘和审计流。"
+  },
+  {
+    "fullName": "victorGPT/vibeusage",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "JavaScript 使用量追踪工具，面向 vibe coding 和 AI 工具成本/用量观察场景。"
+  },
+  {
+    "fullName": "yiliqi78/TOKENICODE",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code GUI，基于 Tauri 2、React 19、TypeScript 和 Tailwind CSS 4 构建桌面界面。"
+  },
+  {
+    "fullName": "datawhalechina/easy-vibe",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向 beginners 的 vibe coding 课程，从现代 coding 与 AI 工具基础逐步到掌握实践。"
+  },
+  {
+    "fullName": "Lakr233/vphone-cli",
+    "categories": [
+      "Mobile 移动端"
+    ],
+    "tags": [],
+    "aiSummary": "Swift 编写的 vphone 命令行工具，面向移动设备或虚拟手机相关的本地操作场景。"
+  },
+  {
+    "fullName": "superkf/cloudcost",
+    "categories": [
+      "Cloud 云服务"
+    ],
+    "tags": [],
+    "aiSummary": "AI-powered cloud cost estimator，帮助开发者在部署前预估云资源账单。"
+  },
+  {
+    "fullName": "farion1231/cc-switch",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "跨平台桌面 All-in-One assistant 管理器，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 等。"
+  },
+  {
+    "fullName": "standardagents/dmux",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "面向 git worktrees 和 coding agents 的 dev agent multiplexer，用 tmux 管理并行代理工作区。"
+  },
+  {
+    "fullName": "SeemSeam/claude_codex_bridge",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "多 Agent CLI workspace，可视化混用 Codex、Claude、Gemini、Kimi、Qwen、Cursor 等 coding agents。"
+  },
+  {
+    "fullName": "ykdojo/claude-code-tips",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code 技巧集合，覆盖基础到高级用法、status line、容器运行和日常 dev workflows。"
+  },
+  {
+    "fullName": "justlovemaki/AIClient2API",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "自托管多协议 AI API proxy，统一 OpenAI、Claude、Gemini、Grok、Kiro 等 provider 与客户端协议。"
+  },
+  {
+    "fullName": "farion1231/Way-to-ChatGPT-Plus",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "在大陆地区通过 Apple Store 等方式订阅 ChatGPT Plus、Claude Pro 等产品的实践指南。"
+  },
+  {
+    "fullName": "ChatLab/ChatLab",
+    "categories": [
+      "Data Processing 数据处理"
+    ],
+    "tags": [],
+    "aiSummary": "本地优先的 AI 聊天记录分析工具，面向 chat history 的整理、分析和可视化。"
+  },
+  {
+    "fullName": "waooAI/waoowaoo",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "工业级 AI 影视生产平台，用 agent 工作流支持可控短剧、分镜、视频生成和影视制作流程。"
+  },
+  {
+    "fullName": "tuannvm/codex-mcp-server",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Codex CLI 的 MCP server wrapper，让 Claude Code 可通过 MCP 调用 Codex 能力。"
+  },
+  {
+    "fullName": "mgechev/skills-best-practices",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Agent skills 编写最佳实践指南，覆盖 LLM 验证、专业化技能结构和 lean context window。"
+  },
+  {
+    "fullName": "router-for-me/CLIProxyAPI",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "CLI proxy API 服务，将 Antigravity、Codex、Claude Code、Grok 等转换为兼容 OpenAI/Gemini/Claude 的接口。"
+  },
+  {
+    "fullName": "SynthThoughts/chrome-gemini-fix",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Chrome Gemini Auto Browse 开启脚本，通过调整浏览器标志和地区设置解锁隐藏 AI Agent 功能。"
+  },
+  {
+    "fullName": "inference-sh/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "inference.sh 的 agent skills，让代理通过 API 使用多模型、应用、搜索、图像和视频能力。"
+  },
+  {
+    "fullName": "microsoft/GitHub-Copilot-for-Azure",
+    "categories": [
+      "Cloud 云服务"
+    ],
+    "tags": [],
+    "aiSummary": "GitHub Copilot for Azure 扩展集合，帮助 VS Code、Claude Code 等工具开发和部署 Azure 应用。"
+  },
+  {
+    "fullName": "vigorX777/ai-daily-digest",
+    "categories": [
+      "Data Processing 数据处理"
+    ],
+    "tags": [],
+    "aiSummary": "AI 每日精选日报生成器，从技术博客抓取文章，经多维评分筛选并生成结构化摘要。"
+  },
+  {
+    "fullName": "GLips/Figma-Context-MCP",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Figma Context MCP server，把 Figma layout 信息提供给 Cursor 等 AI coding agents。"
+  },
+  {
+    "fullName": "danielmiessler/LifeOS",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "AI-powered Life Operating System，旨在用个人知识、自动化和 agent 能力放大个人生产力。"
+  },
+  {
+    "fullName": "multica-ai/andrej-karpathy-skills",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "受 Andrej Karpathy 观察启发的 Claude Code guidelines，用单个 CLAUDE.md 改善 LLM coding 行为。"
+  },
+  {
+    "fullName": "actionbook/actionbook",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI Agent 提供登录后和付费墙后信息访问能力的 browser automation 工具。"
+  },
+  {
+    "fullName": "hesamsheikh/awesome-openclaw-usecases",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "OpenClaw use cases 社区集合，收录 setup、plugin、skills 和真实使用场景。"
+  },
+  {
+    "fullName": "heyitsnoah/claudesidian",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Code + Obsidian starter kit，把 Obsidian vault 组织成 AI second brain 工作区。"
+  },
+  {
+    "fullName": "YishenTu/claudian",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "Obsidian plugin，将 Claude Code/Codex 嵌入 vault，作为知识库内的 AI 协作者。"
+  },
+  {
+    "fullName": "jarodise/XQuery",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "X.com 高级搜索查询构建器与 Chrome 扩展，帮助发现、保存和管理高质量内容查询。"
+  },
+  {
+    "fullName": "Yeachan-Heo/oh-my-claudecode",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Teams-first Claude Code multi-agent orchestration，支持并行执行、团队化 agent 协作和 workflow 管理。"
+  },
+  {
+    "fullName": "web-infra-dev/rsbuild",
+    "categories": [
+      "Build 构建工具"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Rspack 的现代 Web 构建工具，强调快速、可扩展和 TypeScript/Frontend 工程集成。"
+  },
+  {
+    "fullName": "nanocoai/nanoclaw",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "轻量 OpenClaw 替代方案，将 agents 放进容器安全运行，并连接 WhatsApp、Telegram、Slack 等消息应用。"
+  },
+  {
+    "fullName": "anthropics/knowledge-work-plugins",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Anthropic 的 knowledge worker plugins 开源仓库，为 Claude Cowork 和 Claude Code 提供专业化插件。"
+  },
+  {
+    "fullName": "MoonshotAI/kimi-cli",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "MoonshotAI 的 Kimi Code CLI，面向终端开发任务的 AI coding agent。"
+  },
+  {
+    "fullName": "AndyMik90/Aperant",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Autonomous multi-session AI coding framework，帮助 agent 自动规划、构建和验证软件任务。"
+  },
+  {
+    "fullName": "code-yeongyu/oh-my-openagent",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Codex/OpenCode 的 agent harness，支持复杂代码库、编排、TUI 和多 provider 使用。"
+  },
+  {
+    "fullName": "a2ui-project/a2ui",
+    "categories": [
+      "UI Components 组件"
+    ],
+    "tags": [],
+    "aiSummary": "Agent-to-User Interface 项目，定义可更新 agent-generated UI 格式和初始 renderer。"
+  },
+  {
+    "fullName": "otter-sec/anchor",
+    "categories": [
+      "Web3 区块链"
+    ],
+    "tags": [],
+    "aiSummary": "Solana Program Framework，用 Rust 构建智能合约和 Solana 链上程序的核心开发框架。"
+  },
+  {
+    "fullName": "abhisheknaiidu/awesome-github-profile-readme",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "GitHub Profile README 精选资源列表，收集优秀个人主页、portfolio 和 README 展示案例。"
   }
 ]

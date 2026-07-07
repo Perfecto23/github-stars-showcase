@@ -8,8 +8,9 @@ AI 驱动的 GitHub Stars 管理和展示网站。支持多个主流 AI 模型�
 
 - 🤖 **多模型支持**：支持 Anthropic、OpenAI、Google、Cohere、DeepSeek 及自定义 provider
 - 🎯 **AI 自动分析**：批量分析仓库，生成分类和 AI 介绍
-- 🏷️ **智能分类**：自动将仓库归类到 28 个预定义分类
+- 🏷️ **智能分类**：自动将仓库归类到预定义技术分类
 - 🔄 **增量更新**：只分析新 star 的仓库，不会改变已有分类
+- 🕒 **按 Star 时间排序**：展示顺序默认按最近 star 的仓库在前
 - 🔗 **GitHub Lists 同步**：Playwright 自动化同步到 GitHub Stars Lists
 - 🔍 **强大筛选**：支持按分类、关键词搜索
 - ⚡ **纯静态网站**：Next.js 静态导出，访问速度快，无服务器成本
@@ -74,7 +75,7 @@ pnpm run update
 这将执行以下步骤：
 1. 获取你的 starred 仓库（包括 README 前 500 字符）
 2. AI 批量分析（10 个仓库/批）
-3. 生成最终数据文件
+3. 校验并生成最终数据文件
 4. 构建静态网站
 
 ### 4. 预览网站
@@ -122,8 +123,12 @@ github-stars-showcase/
 │   ├── stars-raw.json              # 原始 starred 数据（gitignored）
 │   ├── analyzed.json               # AI 分析结果（追踪）
 │   └── github-lists-progress.json  # GitHub Lists 同步进度（追踪）
+├── docs/
+│   └── research/           # 研究记录
+├── eslint.config.mjs       # ESLint flat config
 ├── next.config.js          # Next.js 配置
-├── tailwind.config.js      # Tailwind CSS 配置
+├── postcss.config.js       # Tailwind CSS PostCSS 配置
+├── pnpm-workspace.yaml     # pnpm build-script allowlist
 └── package.json
 ```
 
@@ -172,18 +177,27 @@ AI_BASE_URL=https://your-api-endpoint.com
 **增量更新（推荐）：**
 ```bash
 # 1. 获取最新 stars（可能有新仓库）
-npx tsx scripts/fetch-stars.ts
+pnpm run fetch-stars
 
 # 2. 增量分析新仓库（自动跳过已分析的）
-npx tsx scripts/analyze-repos.ts
+pnpm run analyze
 
 # 3. 生成前端数据
-npx tsx scripts/generate-data.ts
+pnpm run generate-data
 ```
 
 **全量更新：**
 ```bash
 pnpm run update
+```
+
+`generate-data` 会校验每个 starred 仓库都有分析结果；如需临时生成不完整数据，可显式设置 `ALLOW_INCOMPLETE_DATA=1`。
+
+**验证：**
+```bash
+pnpm run typecheck
+pnpm run lint
+pnpm run build
 ```
 
 ### Q: 如何同步到 GitHub Stars Lists？
@@ -192,10 +206,10 @@ pnpm run update
 
 ```bash
 # 安装 Playwright（首次运行）
-npx playwright install chromium
+pnpm exec playwright install chromium
 
 # 运行同步脚本
-npx tsx scripts/github-lists-automation.ts
+pnpm run sync-lists
 ```
 
 脚本会：
@@ -207,10 +221,10 @@ npx tsx scripts/github-lists-automation.ts
 **进度保存**：同步进度保存在 `data/github-lists-progress.json`，中断后可以继续。
 
 ### Q: 如何自定义分类？
-A: 编辑 `scripts/analyze-repos.js` 中的 prompt，修改分类列表。
+A: 编辑 `scripts/analyze-repos.ts` 中的 prompt，修改分类列表。
 
 ### Q: 如何减少 token 消耗？
-A: 可以调整 `scripts/fetch-stars.js` 中的 `readmePreview` 长度（默认 500 字符）。
+A: 可以调整 `scripts/fetch-stars.ts` 中的 `readmePreview` 长度（默认 500 字符）。
 
 ### Q: 如何处理分析失败的仓库？
 A: 失败的批次会保存到 `data/failed-batch-*.json`，可以手动重新分析。

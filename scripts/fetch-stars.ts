@@ -5,6 +5,8 @@ import dotenv from "dotenv";
 
 dotenv.config({ path: ".env.local" });
 
+const GITHUB_API_VERSION = "2022-11-28";
+
 // 获取 GitHub Token: 优先使用环境变量，否则从 gh CLI 获取
 function getGitHubToken(): string {
 	if (process.env.GITHUB_TOKEN) {
@@ -35,9 +37,46 @@ interface StarredRepo {
 	topics: string[];
 	readmePreview: string;
 	updatedAt: string;
+	starredAt: string;
 }
 
-const octokit = new Octokit({ auth: getGitHubToken() });
+const octokit = new Octokit({
+	auth: getGitHubToken(),
+	request: {
+		headers: {
+			"X-GitHub-Api-Version": GITHUB_API_VERSION,
+		},
+	},
+});
+
+interface GitHubRepo {
+	id: number;
+	name: string;
+	full_name: string;
+	description: string | null;
+	html_url: string;
+	stargazers_count: number;
+	language: string | null;
+	topics?: string[];
+	updated_at: string | null;
+	owner: {
+		login: string;
+	};
+}
+
+interface StarredAtResponseItem {
+	starred_at: string;
+	repo: GitHubRepo;
+}
+
+function isStarredAtResponseItem(item: unknown): item is StarredAtResponseItem {
+	return (
+		typeof item === "object" &&
+		item !== null &&
+		"starred_at" in item &&
+		"repo" in item
+	);
+}
 
 async function fetchStarredRepos(): Promise<StarredRepo[]> {
 	const repos: StarredRepo[] = [];
@@ -51,14 +90,23 @@ async function fetchStarredRepos(): Promise<StarredRepo[]> {
 				await octokit.rest.activity.listReposStarredByAuthenticatedUser({
 					per_page: 100,
 					page,
+					sort: "created",
+					direction: "desc",
+					headers: {
+						accept: "application/vnd.github.star+json",
+					},
 				});
 
 			if (data.length === 0) break;
 
 			console.log(`获取第 ${page} 页，共 ${data.length} 个仓库`);
 
-			for (const repo of data) {
-				// 获取 README 前 500 字符（Token 优化）
+			for (const item of data) {
+				if (!isStarredAtResponseItem(item)) {
+					throw new Error("GitHub starred API 未返回 starred_at，请检查 Accept header");
+				}
+
+				const repo = item.repo;
 				let readmePreview = "";
 				try {
 					const { data: readme } = await octokit.rest.repos.getReadme({
@@ -84,13 +132,13 @@ async function fetchStarredRepos(): Promise<StarredRepo[]> {
 					topics: repo.topics || [],
 					readmePreview,
 					updatedAt: repo.updated_at || "",
+					starredAt: item.starred_at,
 				});
 			}
 
 			page++;
 		} catch (error) {
-			console.error(`获取第 ${page} 页失败:`, (error as Error).message);
-			break;
+			throw new Error(`获取第 ${page} 页失败: ${(error as Error).message}`);
 		}
 	}
 

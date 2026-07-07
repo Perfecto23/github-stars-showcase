@@ -37,15 +37,27 @@ interface AnalyzedRepoOutput {
 // 从环境变量读取配置
 const AI_PROVIDER = process.env.AI_PROVIDER || "anthropic";
 const AI_MODEL = process.env.AI_MODEL || "";
-const AI_API_KEY =
-	process.env.AI_API_KEY ||
-	process.env.ANTHROPIC_API_KEY ||
-	process.env.OPENAI_API_KEY;
 const AI_BASE_URL = process.env.AI_BASE_URL || "";
 
 // 检查是否使用交互式选择模式
 const useInteractive =
 	process.argv.includes("--select") || process.argv.includes("-s");
+
+const PROVIDER_API_KEY_ENV: Record<string, string> = {
+	anthropic: "ANTHROPIC_API_KEY",
+	openai: "OPENAI_API_KEY",
+	google: "GOOGLE_API_KEY",
+	cohere: "COHERE_API_KEY",
+	deepseek: "DEEPSEEK_API_KEY",
+};
+
+function getApiKeyForProvider(provider: string): string | undefined {
+	const providerEnv = PROVIDER_API_KEY_ENV[provider];
+	return (
+		process.env.AI_API_KEY ||
+		(providerEnv ? process.env[providerEnv] : undefined)
+	);
+}
 
 // 创建 AI provider
 let aiProvider: AIProvider;
@@ -70,7 +82,7 @@ async function initProvider(): Promise<AIProvider> {
 	// 使用环境变量配置的 Provider
 	return createProvider({
 		provider: AI_PROVIDER,
-		apiKey: AI_API_KEY,
+		apiKey: getApiKeyForProvider(AI_PROVIDER),
 		model: AI_MODEL,
 		baseURL: AI_BASE_URL,
 	});
@@ -81,6 +93,10 @@ try {
 	console.log(`使用 AI Provider: ${aiProvider.name} (${aiProvider.model})`);
 } catch (error) {
 	console.error("❌ 创建 AI Provider 失败:", (error as Error).message);
+	const providerKeyEnv = PROVIDER_API_KEY_ENV[AI_PROVIDER];
+	if (providerKeyEnv) {
+		console.log(`请设置 AI_API_KEY 或 ${providerKeyEnv}，当前 provider: ${AI_PROVIDER}`);
+	}
 	console.log("\n📦 内置 providers (无需配置 API Key):");
 	listBuiltinProviders().forEach((p) => {
 		console.log(`  - ${p.key}: ${p.name}`);
@@ -101,7 +117,7 @@ async function analyzeReposBatch(repos: RawRepo[]): Promise<AnalyzedRepo[]> {
 
 你是一个专业的技术分类专家。请为每个仓库选择**最合适的一个分类**，并生成简介。
 
-## 可选分类（共 30 个，必须精确匹配）
+## 可选分类（共 31 个，必须精确匹配）
 
 ### AI & ML
 - LLM 大模型

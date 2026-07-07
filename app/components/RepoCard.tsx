@@ -6,6 +6,7 @@ interface Repo {
   url: string;
   stars: number;
   language: string;
+  starredAt: string;
   categories: string[];
   aiSummary: string;
 }
