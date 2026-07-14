@@ -3070,5 +3070,37 @@
     ],
     "tags": [],
     "aiSummary": "GitHub Profile README 精选资源列表，收集优秀个人主页、portfolio 和 README 展示案例。"
+  },
+  {
+    "fullName": "HKUDS/DeepTutor",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 lifelong personalized tutoring 的 AI 教学系统，结合 multi-agent、RAG 与 large language models，为学习者提供交互式、个性化辅导体验。"
+  },
+  {
+    "fullName": "langfuse/langfuse",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "开源 LLM engineering platform，提供 evals、observability、metrics、prompt management、playground 与 datasets，支持 LangChain、OpenAI SDK 等集成。"
+  },
+  {
+    "fullName": "ai4s-research/open-science",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Tauri 的跨平台 Open Science Desktop，面向 macOS、Windows 与 Linux，提供 local-first、model-agnostic 的 AI 科研工作台。"
+  },
+  {
+    "fullName": "tutti-os/tutti",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向人类与 AI agents 协同构建的软件平台，强调 people and agents build in tune，适合 agentic workflow 与团队协作场景。"
   }
 ]
