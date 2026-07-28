@@ -3110,5 +3110,69 @@
     ],
     "tags": [],
     "aiSummary": "AWS 示例项目，展示 Codex agent team 通过 spec-driven development 协作，由父级 Full Stack Developer 动态编排 Coding、DevOps、Review 等 specialist agents。"
+  },
+  {
+    "fullName": "TencentCloud/Octop",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "自托管 multi-user、multi-agent AI assistant，支持 local-first 与 long-term memory，适合构建企业或个人私有化智能体协作系统。"
+  },
+  {
+    "fullName": "EveryInc/compound-engineering-plugin",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code、Codex、Cursor 等 AI coding 工具的官方 plugin，提供 engineering skills，提升代码开发、审查与工程任务效率。"
+  },
+  {
+    "fullName": "algal/pi-openai-server-compaction",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "Pi extension，为 OpenAI models 增加 Codex-style remote compaction，在上下文压缩边界保持对话连续性，优化 LLM 使用体验。"
+  },
+  {
+    "fullName": "ltaoo/wx_channels_download",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "微信视频号 downloader，支持分享链接解析与视频下载，提供 macOS、Windows 可用构建包，适合快速抓取和保存视频号内容。"
+  },
+  {
+    "fullName": "843645440/wechat-skill",
+    "categories": [
+      "CMS 内容管理"
+    ],
+    "tags": [],
+    "aiSummary": "微信公众号内容 Skill 工具包，覆盖热点发现、科技写作、去 AI 味、配图排版、多账号草稿与 workflow 编排，提升内容生产效率。"
+  },
+  {
+    "fullName": "buchidonggua/dg-ai-notes",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "冬瓜的 AI learning notes，重点讲解 Pi-Agent SDK、Python 与 TypeScript 实践，适合系统学习生产级 AI Agent 工程。"
+  },
+  {
+    "fullName": "bojieli/ai-agent-book",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "《深入理解 AI Agent》开源主仓库，包含全书正文、PDF 与章节代码，系统讲解 Agent 设计原理、RAG、memory 与 multi-agent 实践。"
+  },
+  {
+    "fullName": "astaxie/TokenHub",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "企业级 private AI gateway，提供基于角色的 workspaces、用户与管理员管理能力，用于统一接入和治理 LLM/AI 服务调用。"
   }
 ]
