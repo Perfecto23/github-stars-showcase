@@ -3174,5 +3174,29 @@
     ],
     "tags": [],
     "aiSummary": "企业级 private AI gateway，提供基于角色的 workspaces、用户与管理员管理能力，用于统一接入和治理 LLM/AI 服务调用。"
+  },
+  {
+    "fullName": "iOfficeAI/OfficeCLI",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI agents 的 Office 自动化工具，提供单 binary CLI，无需安装 Office，即可读取、编辑和自动化 Word、Excel、PowerPoint 文件。"
+  },
+  {
+    "fullName": "stablyai/orca",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "用于管理 parallel coding agents 的 ADE/IDE 工具，支持桌面、移动端和 VPS，帮助开发者编排 Claude Code、Codex 等 agent 工作流。"
+  },
+  {
+    "fullName": "ZyphrZero/kiro.rs",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 编写的 LLM API 兼容代理，将 Anthropic Messages、OpenAI Chat Completions/Responses 请求转换到 Kiro 或 Amazon Q 后端。"
   }
 ]
