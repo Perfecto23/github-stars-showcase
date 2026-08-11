@@ -3198,5 +3198,109 @@
     ],
     "tags": [],
     "aiSummary": "Rust 编写的 LLM API 兼容代理，将 Anthropic Messages、OpenAI Chat Completions/Responses 请求转换到 Kiro 或 Amazon Q 后端。"
+  },
+  {
+    "fullName": "yc-duan/fastctx",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI agents 的本地 Rust MCP runtime，提供 file read、content search、discovery、batch replace 与 Bash 执行，强调高速和低 context 消耗。"
+  },
+  {
+    "fullName": "alibaba/open-code-review",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "阿里规模验证的 AI code review 工具，结合 deterministic pipelines 与 LLM Agent，支持行级评论、多语言规则和安全缺陷检测。"
+  },
+  {
+    "fullName": "aws-samples/sample-agentcore-launchpad",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Amazon Bedrock AgentCore 的 production-grade agent ops 平台示例，集成真实 AWS 资源与 API，用于交付级智能体运维。"
+  },
+  {
+    "fullName": "block/buzz",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 humans 与 agents 协作的 hive mind communication platform，支持在自有 relay 上构建主权化工作空间与项目协同。"
+  },
+  {
+    "fullName": "antinomie-lab/pi-book",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "围绕 pi-agent-core 的中文架构书与 code reading 工作区，从源码解释 agent loop、TypeScript 架构和智能体库设计。"
+  },
+  {
+    "fullName": "xiufengsun/TokenTracker",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Local-first AI token usage 与 cost tracker，覆盖 Claude Code、Codex、Cursor、Gemini 等编码工具，提供 dashboard 和 native apps。"
+  },
+  {
+    "fullName": "531149627/MonsterDeleter",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "趣味 Windows desktop app，通过怪兽动画、音效和交互式 UI 帮用户删除文件，把普通文件删除变成沉浸式桌面体验。"
+  },
+  {
+    "fullName": "openai/codex-security",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "OpenAI 提供的 Codex Security CLI 与 TypeScript SDK，用于发现、验证和修复代码安全漏洞，覆盖 code scanning 与 DevSecOps 场景。"
+  },
+  {
+    "fullName": "bytedance/UI-TARS",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "字节跳动推出的 automated GUI interaction 项目，研究 native agents 如何理解并操作图形界面，实现跨应用任务执行。"
+  },
+  {
+    "fullName": "ben-manes/caffeine",
+    "categories": [
+      "Backend 后端"
+    ],
+    "tags": [],
+    "aiSummary": "高性能 Java caching library，提供接近最优的缓存淘汰策略、异步加载和统计能力，广泛用于后端服务性能优化。"
+  },
+  {
+    "fullName": "yc-software/qm",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向工作的 multiplayer AI Agent harness，支持 Slack 与 Web UI 协作，集成 files、crons、keychain、memory 和 skills，帮助团队共同调度与管理智能体任务。"
+  },
+  {
+    "fullName": "YunxiangHuang/review-fix-loop",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 Claude Code 提供 auto-review skill，实现 code review、eval、fix 的迭代闭环，通过多 reviewer agents 并行发现问题并推动自动修复。"
+  },
+  {
+    "fullName": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "一本面向 Forward Deployed Engineer 的中文入门指南，结合 AI 时代企业交付场景，系统讲解客户价值、增长方法与 FDE 职业实践。"
   }
 ]
