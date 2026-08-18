@@ -3302,5 +3302,61 @@
     ],
     "tags": [],
     "aiSummary": "一本面向 Forward Deployed Engineer 的中文入门指南，结合 AI 时代企业交付场景，系统讲解客户价值、增长方法与 FDE 职业实践。"
+  },
+  {
+    "fullName": "citrolabs/ego-lite",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI agents 的高速 browser automation 工具，可共享已登录浏览器状态给 Codex、Claude Code 等使用，零配置且不干扰用户。"
+  },
+  {
+    "fullName": "cordiverse/cordis",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "基于 TypeScript/Node.js 的插件化 meta-framework，强调 spatiotemporal composability，为复杂应用提供可组合的开发范式。"
+  },
+  {
+    "fullName": "deepseek-ai/deepseek-harness",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "DeepSeek 开源的 agent harness，采用 everything is a plugin 架构，基于 Cordis 构建，便于扩展 AI agent 能力。"
+  },
+  {
+    "fullName": "agentplugins/agent-plugins-spec",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开放的 Agent Plugins specification，定义可分发 agent skills 与 MCP servers 的标准包格式，提升 AI agent 扩展互操作性。"
+  },
+  {
+    "fullName": "macro-inc/macro",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "面向团队的 unified workspace，整合 email、chat、docs、tasks、CRM 与 agents，并通过 shared AI memory 连接协作上下文。"
+  },
+  {
+    "fullName": "Senmo996/big_model_radar",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "通过 GitHub Actions 定时追踪 AI CLI、大模型与 agent 生态动态，抓取 OpenAI、Anthropic 等官方新闻和研究更新。"
+  },
+  {
+    "fullName": "ankitpokhrel/jira-cli",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "功能丰富的 Jira command line 工具，支持交互式 TUI、Issue 管理和项目操作，适合在 terminal 中提升研发协作效率。"
   }
 ]
