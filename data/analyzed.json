@@ -3358,5 +3358,45 @@
     ],
     "tags": [],
     "aiSummary": "功能丰富的 Jira command line 工具，支持交互式 TUI、Issue 管理和项目操作，适合在 terminal 中提升研发协作效率。"
+  },
+  {
+    "fullName": "DietrichGebert/ponytail",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code、Cursor 等 coding agent 的 prompt/skills 插件，让 AI 以资深开发者思维减少不必要代码，强调 YAGNI 与高效交付。"
+  },
+  {
+    "fullName": "volcengine/OpenViking",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI Agents 设计的 self-evolving Context Database，统一管理 Agent Memory、Knowledge RAG 与 Skills，提升长期上下文能力。"
+  },
+  {
+    "fullName": "hawx1993/stcok-buddy",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 A 股投研的 Electron 桌面 AI Agent，集成实时行情、K 线、资金流、新闻公告与多维个股分析，辅助投资研究。"
+  },
+  {
+    "fullName": "TencentCloud/TencentDB-Agent-Memory",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "腾讯云推出的 team-level Agent Memory hub，将对话、文档和代码沉淀为可复用记忆资产，支持 long-term memory 与 vector search。"
+  },
+  {
+    "fullName": "origin-bi/rust-by-practice",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "通过 examples、exercises 和实践任务学习 Rust 的开源教程，适合从基础语法到进阶概念的 hands-on 编程训练。"
   }
 ]
