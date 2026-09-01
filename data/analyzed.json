@@ -3398,5 +3398,77 @@
     ],
     "tags": [],
     "aiSummary": "通过 examples、exercises 和实践任务学习 Rust 的开源教程，适合从基础语法到进阶概念的 hands-on 编程训练。"
+  },
+  {
+    "fullName": "zhaoxuya520/reverse-skill",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "面向 reverse engineering、authorized penetration testing 和 security research 的技能路由包，支持 AI 自动路由、按需 bootstrapping 工具链与可进化知识库。"
+  },
+  {
+    "fullName": "catherpiee/meowmeowcatcam",
+    "categories": [
+      "Computer Vision 视觉"
+    ],
+    "tags": [],
+    "aiSummary": "基于 webcam 和 hand landmarks 的 gesture meme detector，通过手势识别触发猫咪 meme 显示，属于轻量级 CV 互动应用。"
+  },
+  {
+    "fullName": "miniLV/Anthropic-codex-theme",
+    "categories": [
+      "Editor 编辑器"
+    ],
+    "tags": [],
+    "aiSummary": "为 Codex 提供的 theme 集合，支持一键导入 Anthropic、Catppuccin、Nord 等配色，提升 editor / coding 界面观感。"
+  },
+  {
+    "fullName": "cursor/plugins",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "Cursor 官方 plugins 规范与示例集合，面向开发者工具、framework 和 SaaS 的集成扩展，属于 IDE 生态开发工具。"
+  },
+  {
+    "fullName": "warpdotdev/common-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "共享的 common skills 仓库，沉淀可复用 workflow、convention 和操作规范，用于多个 agent 项目之间复用。"
+  },
+  {
+    "fullName": "humanlayer/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "HumanLayer 的 Claude Code skills 集合，提供可安装的工作流扩展与指令增强能力，面向 agent 辅助开发场景。"
+  },
+  {
+    "fullName": "anthropics/claude-plugins-community",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Claude Cowork 和 Claude Code 的社区插件市场镜像，集中管理插件元数据与提交流程，服务于 AI assistant 扩展生态。"
+  },
+  {
+    "fullName": "origin-brain/rust-by-practice",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 练习与实战学习项目，提供 examples、exercises 和 practice 内容，适合系统学习 Rust 语言基础与进阶。"
+  },
+  {
+    "fullName": "LibraHp/GetQzonehistory",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "用于获取 QQ 空间历史说说的采集工具，支持历史内容提取与归档，典型的 social platform scraping 场景。"
   }
 ]
