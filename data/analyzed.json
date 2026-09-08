@@ -3470,5 +3470,53 @@
     ],
     "tags": [],
     "aiSummary": "用于获取 QQ 空间历史说说的采集工具，支持历史内容提取与归档，典型的 social platform scraping 场景。"
+  },
+  {
+    "fullName": "dair-ai/dair-academy-plugins",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "DAIR.AI Academy 提供的 Claude Code open-source plugin marketplace，可快速添加 marketplace 并安装各类插件，增强 AI coding agent 工作流。"
+  },
+  {
+    "fullName": "THU-MAIC/OpenMAIC",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Open Multi-Agent Interactive Classroom，基于 TypeScript 构建沉浸式 multi-agent 学习课堂，让用户一键体验多智能体协作教学场景。"
+  },
+  {
+    "fullName": "emilkowalski/skills",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Designers 和 Engineers 的 skills 学习资源集合，以 Markdown 形式整理设计、工程与交互相关能力，适合系统化提升专业技能。"
+  },
+  {
+    "fullName": "greensock/gsap-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "GSAP 官方 AI skills，帮助 AI coding agents 正确使用 GreenSock Animation Platform，覆盖 best practices、动画模式和 plugin 用法。"
+  },
+  {
+    "fullName": "Jakubantalik/transitions.dev",
+    "categories": [
+      "CSS Styling 样式"
+    ],
+    "tags": [],
+    "aiSummary": "Transitions.dev 收集 Web apps 常用 CSS transitions，提供交互式示例与 copy-ready CSS snippets，并包含面向 agents 的 skill 与 refine 工具。"
+  },
+  {
+    "fullName": "yizhiyanhua-ai/fireworks-tech-graph",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "通过 natural language 生成 production-quality SVG/PNG 技术图表，支持多种 styles、UML 和 AI/Agent workflow patterns，适合系统架构可视化。"
   }
 ]
