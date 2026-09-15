@@ -3518,5 +3518,53 @@
     ],
     "tags": [],
     "aiSummary": "通过 natural language 生成 production-quality SVG/PNG 技术图表，支持多种 styles、UML 和 AI/Agent workflow patterns，适合系统架构可视化。"
+  },
+  {
+    "fullName": "Tencent/WeKnora",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "开源 LLM 知识平台，将原始文档转换为可查询的 RAG 知识库，集成向量检索、语义搜索、Reranking 与 autonomous reasoning agent，并支持多租户和 Wiki 自维护。"
+  },
+  {
+    "fullName": "bojieli/ai-infra-book",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "《深入理解 AI Infra：量化分析与系统设计》开源书稿，系统讲解 GPU、LLM Training、Inference、Serving、KV Cache、MoE 与分布式系统设计，并配套实验工具。"
+  },
+  {
+    "fullName": "mcncarl/yichen-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code 与 Codex 的 creator skill collection，覆盖写作、X 内容切片、文章发布、微信数字资产采集及本地 workflow 自动化，帮助提升 AI Agent 使用效率。"
+  },
+  {
+    "fullName": "cubeplexai/cubeplex",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向团队 workspace 的 cloud-native managed agent 平台，提供共享 memory、MCP tools、persistent sandbox、权限治理与多用户协作，并支持 Docker Compose 和 Kubernetes 自托管部署。"
+  },
+  {
+    "fullName": "jiji262/douyin-downloader",
+    "categories": [
+      "Scraping 爬虫"
+    ],
+    "tags": [],
+    "aiSummary": "实用的 Douyin 抓取与下载工具，支持视频、图集、合集、音乐及用户主页批量下载，具备去水印、进度显示、重试机制、SQLite 去重和 browser fallback。"
+  },
+  {
+    "fullName": "superdesigndev/superdesign",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 IDE 的开源 AI Product Design Agent，通过自然语言辅助界面设计与产品创作；该项目是历史版本的 IDE extension，目前已停止维护，产品已迁移至 Web app。"
   }
 ]
