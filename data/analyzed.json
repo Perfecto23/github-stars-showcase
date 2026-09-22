@@ -3566,5 +3566,37 @@
     ],
     "tags": [],
     "aiSummary": "面向 IDE 的开源 AI Product Design Agent，通过自然语言辅助界面设计与产品创作；该项目是历史版本的 IDE extension，目前已停止维护，产品已迁移至 Web app。"
+  },
+  {
+    "fullName": "vercel-labs/json-render",
+    "categories": [
+      "Frontend 前端"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Generative UI 的 TypeScript framework，可根据 prompt 生成动态、个性化界面，并通过预定义 components 与 actions 约束输出，兼顾安全性与可靠性。"
+  },
+  {
+    "fullName": "gylive/ccodex-sleep-state",
+    "categories": [
+      "DevTools 开发者工具"
+    ],
+    "tags": [],
+    "aiSummary": "用于改善 Codex 连接、限流与配置体验的本地 Go 工具，提供代理、turn-state、订阅管理和 Web 配置界面，方便排错与运行维护。"
+  },
+  {
+    "fullName": "elie222/rakazo",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "开源的 Grok Bot alternative，支持自选 LLM、sandbox 隔离与 self-hosted 部署，可通过 Electron 和 Expo 构建跨平台 AI 对话与智能体体验。"
+  },
+  {
+    "fullName": "PaddlePaddle/PaddleOCR",
+    "categories": [
+      "Computer Vision 视觉"
+    ],
+    "tags": [],
+    "aiSummary": "功能强大的 OCR 与 Document AI toolkit，可将 PDF 和图像转换为结构化数据，支持 100+ languages、文档解析、版面分析及 LLM/RAG 工作流。"
   }
 ]
