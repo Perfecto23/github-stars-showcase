@@ -3598,5 +3598,29 @@
     ],
     "tags": [],
     "aiSummary": "功能强大的 OCR 与 Document AI toolkit，可将 PDF 和图像转换为结构化数据，支持 100+ languages、文档解析、版面分析及 LLM/RAG 工作流。"
+  },
+  {
+    "fullName": "strands-agents/harness-sdk",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "用于构建 production AI agents 的开源 SDK，支持 Python/TypeScript、多模型与多云环境，可端到端控制 agent harness 和 workflows。"
+  },
+  {
+    "fullName": "strands-labs/harness-optimizer",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 LLM agent harness 的优化工具，通过 tunable Formulas 和 rollout trajectories 动态增强智能体表现，支持自动化 optimizer 迭代。"
+  },
+  {
+    "fullName": "ai-evals-course/evals-skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "为 AI coding agents 提供构建 product-specific AI evals 的技能指南，帮助避免常见评测误区，提升 LLM 应用评估质量。"
   }
 ]
