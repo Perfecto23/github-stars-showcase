@@ -3622,5 +3622,21 @@
     ],
     "tags": [],
     "aiSummary": "为 AI coding agents 提供构建 product-specific AI evals 的技能指南，帮助避免常见评测误区，提升 LLM 应用评估质量。"
+  },
+  {
+    "fullName": "Pranesh-2005/github-readme-stats-fast",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "基于 GitHub Readme Stats 的 profile 数据可视化生成器，提供 Stats Card、Repo Card、Streak Card、Top Languages 等动态图片 API。"
+  },
+  {
+    "fullName": "pipecat-ai/pipecat",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 voice agents、多模态应用和 realtime AI 的开源 Python 框架，支持构建语音助手、chatbot 与实时交互式智能体。"
   }
 ]
