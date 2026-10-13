@@ -3638,5 +3638,61 @@
     ],
     "tags": [],
     "aiSummary": "面向 voice agents、多模态应用和 realtime AI 的开源 Python 框架，支持构建语音助手、chatbot 与实时交互式智能体。"
+  },
+  {
+    "fullName": "vxcontrol/pentagi",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向渗透测试的 fully autonomous AI Agents 系统，支持 multi-agent 协作、LLM 集成与安全自动化，可执行复杂 penetration testing 任务。"
+  },
+  {
+    "fullName": "OpenMinis/iCTRL",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "基于 XCUITest 的 iOS/iPadOS automation testing 工具，通过加密 JSON-RPC API 让 AI agents 可无线操作设备、读取屏幕并启动 App。"
+  },
+  {
+    "fullName": "liseami/CCBaga",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "Rust 构建的跨平台双应用项目，README 展示产品首页、安装开发入口、架构与贡献导航，面向公开发布和 desktop app 使用场景。"
+  },
+  {
+    "fullName": "onehumanbeing/esp32-iphone-agent",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "让 AI model 通过 ESP32 控制真实 iPhone 的硬件 Agent：AirPlay 提供视觉输入，USB HID 模拟操作，无需 Mac、开发者账号或越狱。"
+  },
+  {
+    "fullName": "morluto/rea",
+    "categories": [
+      "Security 安全"
+    ],
+    "tags": [],
+    "aiSummary": "面向 reverse engineering 的 agent-based 工具，结合 LLM、MCP、disassembler/decompiler 等能力，支持从 App 行为到 native binaries 的分析。"
+  },
+  {
+    "fullName": "eternity4719/HowToLiveBetter",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "高性价比人生指南，覆盖长寿防病、急救、理财、法律、社保、育儿与出国等主题，每条建议标注成本、收益、证据等级和来源。"
+  },
+  {
+    "fullName": "BerriAI/moyai",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "自托管 background coding agent，兼容 Claude Code、Codex、OpenCode 与 100+ providers，支持会话管理、搜索与长时间后台编码工作流。"
   }
 ]
