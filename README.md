@@ -207,6 +207,7 @@ pnpm run build
 - 触发方式：每周二 02:20 UTC 自动运行，也支持手动 `workflow_dispatch`
 - 必需 secret：`STARS_GITHUB_TOKEN`，用于读取用户 starred repositories
 - AI 配置：设置 `AI_API_KEY` 或 provider-specific secret（如 `ANTHROPIC_API_KEY` / `OPENAI_API_KEY`），可选 repository variables `AI_PROVIDER` / `AI_MODEL`
+- 当前自动分析模型：repository variable `AI_MODEL=gpt-6.1-sol`
 - 写回范围：只提交 `data/analyzed.json` 和 `public/data/repos.json`
 
 首次启用前，建议先手动触发一次 workflow，确认 token 权限和 AI provider 配置正确。
