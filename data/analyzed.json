@@ -3694,5 +3694,61 @@
     ],
     "tags": [],
     "aiSummary": "自托管 background coding agent，兼容 Claude Code、Codex、OpenCode 与 100+ providers，支持会话管理、搜索与长时间后台编码工作流。"
+  },
+  {
+    "fullName": "joeseesun/lexfridman-cn",
+    "categories": [
+      "Learning 学习资源"
+    ],
+    "tags": [],
+    "aiSummary": "Lex Fridman Podcast 中文学习导航站，收录全部 506 期节目，提供 AI 中文精读、双语标题、官方音频与文稿链接，支持全文搜索、RSS 订阅和静态站点构建。"
+  },
+  {
+    "fullName": "debpalash/VoiceStudio",
+    "categories": [
+      "NLP 自然语言"
+    ],
+    "tags": [],
+    "aiSummary": "完全本地运行的开源语音工作台，定位为 ElevenLabs 替代方案，支持 voice cloning、TTS、语音转写、视频配音及有声书制作，覆盖 646 种语言。"
+  },
+  {
+    "fullName": "akitaonrails/ai-memory",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Rust 的 AI 编程智能体长期记忆工具，为 coding CLI 保存任务上下文，支持 Claude Code、Codex 等不同厂商 Agent 之间交接，减少切换工具后的上下文丢失。"
+  },
+  {
+    "fullName": "cathrynlavery/diagram-design",
+    "categories": [
+      "Visualization 可视化"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Claude Code、Codex、Cursor 等工具的图表设计 Agent skill，支持 44 种图表类型，以自包含 HTML + SVG 输出，强调编辑式视觉设计与清晰的信息表达。"
+  },
+  {
+    "fullName": "blitzreels/blitzclean",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "使用 Swift 开发的原生 macOS 菜单栏系统工具，可监控 CPU、内存和磁盘资源，并提供需审核确认的缓存、构建产物、模拟器及 AI Agent 文件清理功能，完全本地运行。"
+  },
+  {
+    "fullName": "awslabs/agentcore-samples",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Amazon Bedrock AgentCore 官方示例集合，展示 AI Agent 的生产部署实践，涵盖 runtime、gateway、身份认证与记忆管理，帮助构建可扩展、可靠且安全的智能体应用。"
+  },
+  {
+    "fullName": "simonaronsson/awesome-software-architecture",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "围绕 Software Architecture 整理的精选 Awesome List，汇集软件架构相关学习与参考资源，帮助开发者理解系统高层结构、架构设计思路及相关工程实践。"
   }
 ]
