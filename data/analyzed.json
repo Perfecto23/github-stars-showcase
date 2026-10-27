@@ -3750,5 +3750,21 @@
     ],
     "tags": [],
     "aiSummary": "围绕 Software Architecture 整理的精选 Awesome List，汇集软件架构相关学习与参考资源，帮助开发者理解系统高层结构、架构设计思路及相关工程实践。"
+  },
+  {
+    "fullName": "langchain-ai/openwiki",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "基于 TypeScript 的 CLI 工具，为 codebase 编写并持续维护面向 AI Agent 的文档，将项目知识整理为动态 Wiki，帮助开发者与智能体理解代码。"
+  },
+  {
+    "fullName": "nevertoday/xiaoxiaodong-vps",
+    "categories": [
+      "Network 网络"
+    ],
+    "tags": [],
+    "aiSummary": "面向 VPS 的网络代理部署指南，涵盖 3x-ui、Xray、OpenClash、Shadowrocket 与 CLIProxyAPI，提供自动升级部署蓝图，帮助用户访问常用网站及 AI 工具。"
   }
 ]
