@@ -3766,5 +3766,37 @@
     ],
     "tags": [],
     "aiSummary": "面向 VPS 的网络代理部署指南，涵盖 3x-ui、Xray、OpenClash、Shadowrocket 与 CLIProxyAPI，提供自动升级部署蓝图，帮助用户访问常用网站及 AI 工具。"
+  },
+  {
+    "fullName": "junhoyeo/tokscale",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Rust 的高性能 CLI 工具，追踪多种 AI coding agents 的 token 用量与成本，提供可视化 dashboard 和全球排行榜，帮助开发者了解 AI 编程资源消耗。"
+  },
+  {
+    "fullName": "deepseek-ai/dsh-superagent-prototype",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 TypeScript 的自主 Agent 系统研究原型，探索更高自主性的任务执行方式，部分工程由 coding agents 完成；仅供研究参考，并非 DeepSeek 官方产品或生产级软件。"
+  },
+  {
+    "fullName": "0PandaDEV/awesome-windows",
+    "categories": [
+      "Awesome List 资源列表"
+    ],
+    "tags": [],
+    "aiSummary": "面向 Windows 10/11 的精选 Awesome List，汇集适用于 Windows 平台的工具与应用，方便用户集中浏览和发现软件资源，是寻找 Windows apps 的实用索引。"
+  },
+  {
+    "fullName": "ninetyhe-90/de-armor",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "面向 LLM 的任务导向 response calibration 项目，强调保留事实与适用条件、坦诚表达未知，减少无效防御性回复，并推动回答提供真正符合任务需求的交付内容。"
   }
 ]
