@@ -3798,5 +3798,37 @@
     ],
     "tags": [],
     "aiSummary": "面向 LLM 的任务导向 response calibration 项目，强调保留事实与适用条件、坦诚表达未知，减少无效防御性回复，并推动回答提供真正符合任务需求的交付内容。"
+  },
+  {
+    "fullName": "aws-samples/sample-multi-agent-orchestration-chat-on-agentcore",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Amazon Bedrock AgentCore 的多智能体聊天平台，采用 TypeScript 与 Serverless 架构，支持团队创建、定制和共享 AI Agent，并进行多智能体编排。"
+  },
+  {
+    "fullName": "aws-samples/sample-agent-platform-with-agentcore",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Amazon Bedrock AgentCore 的内部智能体平台，统一管理 Claude Code 云端工作区与无头 Agent，提供发布、调度、记忆、评估及治理能力。"
+  },
+  {
+    "fullName": "paperclipai/paperclip",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向工作场景的开源 AI Agent 管理应用，采用 TypeScript 开发，聚焦多智能体编排、项目管理与工作流自动化，帮助团队组织和管理智能体协作。"
+  },
+  {
+    "fullName": "letta-ai/letta-code",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "采用 TypeScript 开发的有状态编码智能体工具，基于 Letta 的 Agent Memory 能力保留交互经验，支持持续学习与自我改进，使智能体能够在后续任务中利用历史知识。"
   }
 ]
