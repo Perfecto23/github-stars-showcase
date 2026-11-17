@@ -3830,5 +3830,109 @@
     ],
     "tags": [],
     "aiSummary": "采用 TypeScript 开发的有状态编码智能体工具，基于 Letta 的 Agent Memory 能力保留交互经验，支持持续学习与自我改进，使智能体能够在后续任务中利用历史知识。"
+  },
+  {
+    "fullName": "andyhuo520/beanpod",
+    "categories": [
+      "Desktop 桌面端"
+    ],
+    "tags": [],
+    "aiSummary": "基于 SwiftUI 的原生 macOS 录音管理 App，支持本机 speech-to-text、纪要与待办提取、知识库问答及逐句回听，并通过 MCP 接入 Claude 和 Codex。"
+  },
+  {
+    "fullName": "tw93/Kaku",
+    "categories": [
+      "System 系统工具"
+    ],
+    "tags": [],
+    "aiSummary": "使用 Rust 开发的高性能 macOS terminal emulator，面向日常命令行操作与 AI coding 工作流，强调快速响应和 AI 工具友好体验，适合开发者作为本地终端使用。"
+  },
+  {
+    "fullName": "NVIDIA/SkillEvaluator",
+    "categories": [
+      "Testing 测试"
+    ],
+    "tags": [],
+    "aiSummary": "面向 AI agent skills 与 plugins 的多层评估框架，提供质量门禁、安全扫描、语义重叠检测和合成测试集生成，并通过实际 agent 运行衡量技能对行为的影响。"
+  },
+  {
+    "fullName": "runkids/skillshare",
+    "categories": [
+      "CLI 命令行"
+    ],
+    "tags": [],
+    "aiSummary": "使用 Go 开发的 AI 工具配置同步 CLI，可通过一条命令向多种 AI CLI 分发 skills、agents、MCP 与 plugins，简化跨设备同步、团队共享和技能管理。"
+  },
+  {
+    "fullName": "yetone/cumora",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "将 AI agents 作为正式队友的跨平台团队聊天应用，支持使用云端模型或自带 Claude Code、Codex 作为智能引擎，提供 Web、Desktop 与移动端入口，连接团队沟通和智能体协作。"
+  },
+  {
+    "fullName": "shadcn/improve",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "用于代码库审计与任务规划的 agent skill，让能力更强的模型理解项目、判断改进优先级并编写实施计划，再交由成本更低的模型执行，分离高质量规划与具体实现。"
+  },
+  {
+    "fullName": "OrchestratorInc/agent-orchestrator",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向编程智能体集群的 orchestration 平台，支持 Claude Code、Codex 等多种 coding agents，统筹任务、分支、审查与 CI，并提供桌面及移动端监督入口。"
+  },
+  {
+    "fullName": "google/skills",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "Google 产品与技术相关的 Agent Skills 集合，涵盖 Google Cloud 等使用场景，可通过 skills.sh 安装，为智能体提供可复用的操作指导，辅助完成相关技术任务。"
+  },
+  {
+    "fullName": "garrytan/gbrain",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 OpenClaw、Hermes 等智能体的共享 Agent Brain，将个人笔记与公司知识组织为多个 agents 可读取的统一上下文，帮助不同智能体使用一致的信息基础开展工作。"
+  },
+  {
+    "fullName": "hikariming/dsh-ee",
+    "categories": [
+      "AI Agent 智能体"
+    ],
+    "tags": [],
+    "aiSummary": "面向 DeepSeek Harness 的自托管企业 AI 平台，连接 ERP、CRM、数据仓库与制度文档，将业务系统和知识组合成 AI micro-apps，通过审核及权限控制向员工分发。"
+  },
+  {
+    "fullName": "elder-plinius/CL4R1T4S",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "收集 ChatGPT、Claude、Gemini 等 AI 产品公开披露的 System Prompts、行为指南与工具定义，便于研究 Prompt Engineering、模型行为和系统透明度。"
+  },
+  {
+    "fullName": "we-promise/sure",
+    "categories": [
+      "Full-Stack 全栈"
+    ],
+    "tags": [],
+    "aiSummary": "基于 Ruby 的开源个人财务 Web 应用，面向个人与家庭提供账户、收支和资产管理功能，帮助用户集中了解财务状况，并支持社区协作开发与自主部署。"
+  },
+  {
+    "fullName": "deanpeters/product-manager-prompts",
+    "categories": [
+      "LLM 大模型"
+    ],
+    "tags": [],
+    "aiSummary": "面向产品经理的 Generative AI Prompt 集合，适用于 ChatGPT、Claude 与 Gemini，帮助开展产品规划、需求分析、敏捷协作和文档编写，将 AI 融入产品管理流程。"
   }
 ]
